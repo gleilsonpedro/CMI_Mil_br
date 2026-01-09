@@ -1,0 +1,44 @@
+# Ambientes Python
+env/
+venv/
+ENV/
+.venv
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+*~
+
+# pastas
+data/input/
+
+# planilha
+*.xlsx
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dados (opcional - descomente se não quiser subir os JSONs)
+# data/output/**/*.json
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml

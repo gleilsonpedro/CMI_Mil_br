@@ -1,0 +1,5462 @@
+[
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 1996,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 1996,
+    "Valor": 198,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 1996,
+    "Valor": 5776,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 1996,
+    "Valor": 196,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 1996,
+    "Valor": 273,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 1996,
+    "Valor": 337,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 1996,
+    "Valor": 137,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 1996,
+    "Valor": 201,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 1996,
+    "Valor": 259,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 1996,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 1997,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 1997,
+    "Valor": 35,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 1997,
+    "Valor": 205,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 1997,
+    "Valor": 6113,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 1997,
+    "Valor": 176,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 1997,
+    "Valor": 76,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 1997,
+    "Valor": 267,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 1997,
+    "Valor": 100,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 1997,
+    "Valor": 61,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 1997,
+    "Valor": 332,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 1997,
+    "Valor": 125,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 1997,
+    "Valor": 106,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 1997,
+    "Valor": 203,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 1997,
+    "Valor": 148,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 1997,
+    "Valor": 132,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 1997,
+    "Valor": 20,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 1997,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2001,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2001,
+    "Valor": 221,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2001,
+    "Valor": 439,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2001,
+    "Valor": 6051,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2001,
+    "Valor": 230,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2001,
+    "Valor": 192,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2001,
+    "Valor": 451,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2001,
+    "Valor": 169,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2001,
+    "Valor": 152,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2001,
+    "Valor": 314,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2001,
+    "Valor": 291,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2001,
+    "Valor": 276,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2001,
+    "Valor": 355,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2001,
+    "Valor": 119,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2001,
+    "Valor": 108,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2001,
+    "Valor": 231,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2001,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2002,
+    "Valor": 90,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2002,
+    "Valor": 232,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2002,
+    "Valor": 6072,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2002,
+    "Valor": 183,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2002,
+    "Valor": 240,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2002,
+    "Valor": 365,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2002,
+    "Valor": 144,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2002,
+    "Valor": 88,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2002,
+    "Valor": 319,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2002,
+    "Valor": 271,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2002,
+    "Valor": 205,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2002,
+    "Valor": 389,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2002,
+    "Valor": 123,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2002,
+    "Valor": 102,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2002,
+    "Valor": 167,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2002,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2003,
+    "Valor": 5,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2003,
+    "Valor": 229,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2003,
+    "Valor": 499,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2003,
+    "Valor": 6274,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2003,
+    "Valor": 248,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2003,
+    "Valor": 251,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2003,
+    "Valor": 401,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2003,
+    "Valor": 153,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2003,
+    "Valor": 158,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2003,
+    "Valor": 358,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2003,
+    "Valor": 341,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2003,
+    "Valor": 314,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2003,
+    "Valor": 376,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2003,
+    "Valor": 150,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2003,
+    "Valor": 122,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2003,
+    "Valor": 281,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2003,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2004,
+    "Valor": 247,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2004,
+    "Valor": 455,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2004,
+    "Valor": 5984,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2004,
+    "Valor": 266,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2004,
+    "Valor": 240,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2004,
+    "Valor": 373,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2004,
+    "Valor": 176,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2004,
+    "Valor": 146,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2004,
+    "Valor": 309,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2004,
+    "Valor": 310,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2004,
+    "Valor": 308,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2004,
+    "Valor": 327,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2004,
+    "Valor": 119,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2004,
+    "Valor": 114,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2004,
+    "Valor": 368,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2004,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2005,
+    "Valor": 207,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2005,
+    "Valor": 490,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2005,
+    "Valor": 6006,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2005,
+    "Valor": 291,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2005,
+    "Valor": 231,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2005,
+    "Valor": 325,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2005,
+    "Valor": 163,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2005,
+    "Valor": 145,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2005,
+    "Valor": 312,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2005,
+    "Valor": 303,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2005,
+    "Valor": 318,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2005,
+    "Valor": 317,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2005,
+    "Valor": 130,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2005,
+    "Valor": 104,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2005,
+    "Valor": 352,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2005,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2006,
+    "Valor": 245,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2006,
+    "Valor": 511,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2006,
+    "Valor": 5811,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2006,
+    "Valor": 312,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2006,
+    "Valor": 283,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2006,
+    "Valor": 323,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2006,
+    "Valor": 160,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2006,
+    "Valor": 146,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2006,
+    "Valor": 308,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2006,
+    "Valor": 286,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2006,
+    "Valor": 307,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2006,
+    "Valor": 319,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2006,
+    "Valor": 118,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2006,
+    "Valor": 109,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2006,
+    "Valor": 354,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2006,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2007,
+    "Valor": 179,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2007,
+    "Valor": 383,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2007,
+    "Valor": 6023,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2007,
+    "Valor": 282,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2007,
+    "Valor": 268,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2007,
+    "Valor": 335,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2007,
+    "Valor": 173,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2007,
+    "Valor": 132,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2007,
+    "Valor": 269,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2007,
+    "Valor": 325,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2007,
+    "Valor": 293,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2007,
+    "Valor": 348,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2007,
+    "Valor": 113,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2007,
+    "Valor": 100,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2007,
+    "Valor": 359,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2007,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2008,
+    "Valor": 288,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2008,
+    "Valor": 510,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2008,
+    "Valor": 6134,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2008,
+    "Valor": 298,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2008,
+    "Valor": 280,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2008,
+    "Valor": 399,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2008,
+    "Valor": 164,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2008,
+    "Valor": 150,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2008,
+    "Valor": 321,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2008,
+    "Valor": 318,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2008,
+    "Valor": 266,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2008,
+    "Valor": 340,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2008,
+    "Valor": 135,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2008,
+    "Valor": 97,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2008,
+    "Valor": 403,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2008,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2009,
+    "Valor": 282,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2009,
+    "Valor": 512,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2009,
+    "Valor": 5909,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2009,
+    "Valor": 236,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2009,
+    "Valor": 281,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2009,
+    "Valor": 346,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2009,
+    "Valor": 189,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2009,
+    "Valor": 180,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2009,
+    "Valor": 296,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2009,
+    "Valor": 268,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2009,
+    "Valor": 287,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2009,
+    "Valor": 354,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2009,
+    "Valor": 129,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2009,
+    "Valor": 91,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2009,
+    "Valor": 313,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2009,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2010,
+    "Valor": 262,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2010,
+    "Valor": 576,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2010,
+    "Valor": 6039,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2010,
+    "Valor": 241,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2010,
+    "Valor": 278,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2010,
+    "Valor": 366,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2010,
+    "Valor": 168,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2010,
+    "Valor": 154,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2010,
+    "Valor": 311,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2010,
+    "Valor": 241,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2010,
+    "Valor": 265,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2010,
+    "Valor": 366,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2010,
+    "Valor": 137,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2010,
+    "Valor": 84,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2010,
+    "Valor": 250,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2010,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2011,
+    "Valor": 3,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2011,
+    "Valor": 259,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2011,
+    "Valor": 341,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2011,
+    "Valor": 6253,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2011,
+    "Valor": 286,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2011,
+    "Valor": 306,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2011,
+    "Valor": 349,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2011,
+    "Valor": 145,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2011,
+    "Valor": 100,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2011,
+    "Valor": 309,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2011,
+    "Valor": 341,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2011,
+    "Valor": 286,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2011,
+    "Valor": 388,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2011,
+    "Valor": 123,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2011,
+    "Valor": 89,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2011,
+    "Valor": 367,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2011,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2012,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2012,
+    "Valor": 308,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2012,
+    "Valor": 600,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2012,
+    "Valor": 6358,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2012,
+    "Valor": 312,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2012,
+    "Valor": 315,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2012,
+    "Valor": 425,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2012,
+    "Valor": 138,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2012,
+    "Valor": 173,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2012,
+    "Valor": 270,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2012,
+    "Valor": 319,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2012,
+    "Valor": 327,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2012,
+    "Valor": 422,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2012,
+    "Valor": 116,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2012,
+    "Valor": 84,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2012,
+    "Valor": 432,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2012,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2013,
+    "Valor": 8,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2013,
+    "Valor": 307,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2013,
+    "Valor": 601,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2013,
+    "Valor": 6350,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2013,
+    "Valor": 327,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2013,
+    "Valor": 335,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2013,
+    "Valor": 424,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2013,
+    "Valor": 151,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2013,
+    "Valor": 147,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2013,
+    "Valor": 351,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2013,
+    "Valor": 381,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2013,
+    "Valor": 351,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2013,
+    "Valor": 422,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2013,
+    "Valor": 120,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2013,
+    "Valor": 80,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2013,
+    "Valor": 459,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2013,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2014,
+    "Valor": 7,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2014,
+    "Valor": 298,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2014,
+    "Valor": 563,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2014,
+    "Valor": 6755,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2014,
+    "Valor": 325,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2014,
+    "Valor": 362,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2014,
+    "Valor": 393,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2014,
+    "Valor": 154,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2014,
+    "Valor": 156,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2014,
+    "Valor": 299,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2014,
+    "Valor": 376,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2014,
+    "Valor": 340,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2014,
+    "Valor": 442,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2014,
+    "Valor": 117,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2014,
+    "Valor": 67,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2014,
+    "Valor": 466,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2014,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2015,
+    "Valor": 3,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2015,
+    "Valor": 339,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2015,
+    "Valor": 550,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2015,
+    "Valor": 6719,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2015,
+    "Valor": 355,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2015,
+    "Valor": 327,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2015,
+    "Valor": 414,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2015,
+    "Valor": 139,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2015,
+    "Valor": 169,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2015,
+    "Valor": 341,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2015,
+    "Valor": 442,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2015,
+    "Valor": 361,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2015,
+    "Valor": 527,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2015,
+    "Valor": 117,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2015,
+    "Valor": 91,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2015,
+    "Valor": 518,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2015,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2016,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2016,
+    "Valor": 331,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2016,
+    "Valor": 620,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2016,
+    "Valor": 6749,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2016,
+    "Valor": 365,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2016,
+    "Valor": 315,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2016,
+    "Valor": 381,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2016,
+    "Valor": 145,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2016,
+    "Valor": 138,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2016,
+    "Valor": 308,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2016,
+    "Valor": 428,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2016,
+    "Valor": 357,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2016,
+    "Valor": 542,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2016,
+    "Valor": 104,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2016,
+    "Valor": 83,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2016,
+    "Valor": 509,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2016,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2017,
+    "Valor": 355,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2017,
+    "Valor": 526,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2017,
+    "Valor": 7043,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2017,
+    "Valor": 377,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2017,
+    "Valor": 352,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2017,
+    "Valor": 407,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2017,
+    "Valor": 183,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2017,
+    "Valor": 154,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2017,
+    "Valor": 309,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2017,
+    "Valor": 415,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2017,
+    "Valor": 380,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2017,
+    "Valor": 563,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2017,
+    "Valor": 122,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2017,
+    "Valor": 106,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2017,
+    "Valor": 445,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2017,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2018,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2018,
+    "Valor": 433,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2018,
+    "Valor": 737,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2018,
+    "Valor": 8163,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2018,
+    "Valor": 391,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2018,
+    "Valor": 337,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2018,
+    "Valor": 406,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2018,
+    "Valor": 181,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2018,
+    "Valor": 138,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2018,
+    "Valor": 325,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2018,
+    "Valor": 463,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2018,
+    "Valor": 423,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2018,
+    "Valor": 628,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2018,
+    "Valor": 119,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2018,
+    "Valor": 86,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2018,
+    "Valor": 513,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2018,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2019,
+    "Valor": 446,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2019,
+    "Valor": 711,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2019,
+    "Valor": 8936,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2019,
+    "Valor": 470,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2019,
+    "Valor": 385,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2019,
+    "Valor": 445,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2019,
+    "Valor": 204,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2019,
+    "Valor": 185,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2019,
+    "Valor": 372,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2019,
+    "Valor": 489,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2019,
+    "Valor": 556,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2019,
+    "Valor": 567,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2019,
+    "Valor": 131,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2019,
+    "Valor": 107,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2019,
+    "Valor": 616,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2019,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2020,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2020,
+    "Valor": 395,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2020,
+    "Valor": 737,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2020,
+    "Valor": 8195,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2020,
+    "Valor": 464,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2020,
+    "Valor": 373,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2020,
+    "Valor": 431,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2020,
+    "Valor": 183,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2020,
+    "Valor": 149,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2020,
+    "Valor": 337,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2020,
+    "Valor": 554,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2020,
+    "Valor": 508,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2020,
+    "Valor": 598,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2020,
+    "Valor": 126,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2020,
+    "Valor": 106,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2020,
+    "Valor": 603,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2020,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2021,
+    "Valor": 435,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2021,
+    "Valor": 768,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2021,
+    "Valor": 8108,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2021,
+    "Valor": 433,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2021,
+    "Valor": 418,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2021,
+    "Valor": 424,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2021,
+    "Valor": 210,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2021,
+    "Valor": 142,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2021,
+    "Valor": 369,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2021,
+    "Valor": 477,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2021,
+    "Valor": 609,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2021,
+    "Valor": 561,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2021,
+    "Valor": 141,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2021,
+    "Valor": 102,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2021,
+    "Valor": 704,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2021,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2022,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2022,
+    "Valor": 431,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2022,
+    "Valor": 703,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2022,
+    "Valor": 7839,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2022,
+    "Valor": 430,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2022,
+    "Valor": 393,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2022,
+    "Valor": 332,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2022,
+    "Valor": 181,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2022,
+    "Valor": 144,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2022,
+    "Valor": 323,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2022,
+    "Valor": 445,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2022,
+    "Valor": 544,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2022,
+    "Valor": 570,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2022,
+    "Valor": 116,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2022,
+    "Valor": 125,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2022,
+    "Valor": 514,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2022,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2023,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2023,
+    "Valor": 429,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2023,
+    "Valor": 661,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2023,
+    "Valor": 7776,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2023,
+    "Valor": 419,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2023,
+    "Valor": 357,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2023,
+    "Valor": 361,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2023,
+    "Valor": 212,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2023,
+    "Valor": 164,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2023,
+    "Valor": 354,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2023,
+    "Valor": 511,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2023,
+    "Valor": 546,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2023,
+    "Valor": 532,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2023,
+    "Valor": 127,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2023,
+    "Valor": 90,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2023,
+    "Valor": 564,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2023,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Ano": 2024,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140002 AMAJARI",
+    "Ano": 2024,
+    "Valor": 424,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140005 ALTO ALEGRE",
+    "Ano": 2024,
+    "Valor": 660,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140010 BOA VISTA",
+    "Ano": 2024,
+    "Valor": 6904,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140015 BONFIM",
+    "Ano": 2024,
+    "Valor": 393,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140017 CANTA",
+    "Ano": 2024,
+    "Valor": 373,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140020 CARACARAI",
+    "Ano": 2024,
+    "Valor": 344,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140023 CAROEBE",
+    "Ano": 2024,
+    "Valor": 174,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140028 IRACEMA",
+    "Ano": 2024,
+    "Valor": 142,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140030 MUCAJAI",
+    "Ano": 2024,
+    "Valor": 327,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140040 NORMANDIA",
+    "Ano": 2024,
+    "Valor": 455,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140045 PACARAIMA",
+    "Ano": 2024,
+    "Valor": 470,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140047 RORAINOPOLIS",
+    "Ano": 2024,
+    "Valor": 547,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Ano": 2024,
+    "Valor": 138,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140060 SAO LUIZ",
+    "Ano": 2024,
+    "Valor": 94,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "140070 UIRAMUTA",
+    "Ano": 2024,
+    "Valor": 606,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Notas:",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  },
+  {
+    "Municipio": "",
+    "Ano": 2024,
+    "Valor": 0,
+    "UF": "RR",
+    "Tipo": "Nascidos Vivos"
+  }
+]
