@@ -128,9 +128,21 @@ CORES = {
     'sucesso': '#059669',       # Verde escuro
 }
 
-# Esquema de cores para gráficos
-COLOR_SCALE = ['#3b82f6', '#10b981', '#f59e0b', '#8b5cf6', '#ef4444', 
-               '#06b6d4', '#ec4899', '#14b8a6', '#f97316', '#a855f7']
+# Esquema de cores vibrantes para gráficos - otimizado para tema escuro
+COLOR_SCALE = [
+    '#0ea5e9',  # Azul cyan vibrante
+    '#22c55e',  # Verde limão vibrante
+    '#f59e0b',  # Laranja âmbar
+    '#a78bfa',  # Roxo lavanda
+    '#ef4444',  # Vermelho coral
+    '#14b8a6',  # Turquesa
+    '#f97316',  # Laranja intenso
+    '#ec4899',  # Rosa pink
+    '#06b6d4',  # Cyan claro
+    '#84cc16',  # Verde lima
+    '#eab308',  # Amarelo vibrante
+    '#d946ef',  # Magenta
+]
 
 # Cache dos dados
 @st.cache_data
