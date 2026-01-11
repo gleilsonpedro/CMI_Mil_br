@@ -18,6 +18,7 @@ BASE_DIR = Path(__file__).parent.parent
 ARQUIVO_EXCEL = BASE_DIR / 'data' / 'input' / 'DR_Rubens.xlsx'
 OUTPUT_DIR_NV = BASE_DIR / 'data' / 'output' / 'nascidos_vivos'
 OUTPUT_DIR_OB = BASE_DIR / 'data' / 'output' / 'obitos'
+OUTPUT_DIR_CMI = BASE_DIR / 'data' / 'output' / 'CMI'
 
 def limpar_nome_coluna(col_name):
     """Remove espaços extras e padroniza nome de coluna"""
@@ -27,14 +28,31 @@ def limpar_nome_coluna(col_name):
 
 def identificar_tipo_aba(nome_aba):
     """
-    Identifica se a aba é de Nascidos Vivos (NV) ou Óbitos (OB)
-    Retorna: ('NV', 'UF') ou ('OB', 'UF') ou (None, None)
+    Identifica se a aba é de Nascidos Vivos (NV), Óbitos (OB) ou CMI
+    Retorna: ('NV', 'UF'), ('OB', 'UF'), ('CMI', 'UF') ou (None, None)
     """
     nome_upper = nome_aba.upper()
     
     # Pula abas de gráficos ou informações gerais
     abas_ignorar = ['GRÁFICO', 'GRAFICO', 'INFO', 'RESUMO', 'TOTAL']
     if any(palavra in nome_upper for palavra in abas_ignorar):
+        return None, None
+    
+    # Identifica abas CMI (exceto CMI_mil ou CMI-Mil que é resumo)
+    if nome_upper.startswith('CMI'):
+        if 'MIL' in nome_upper:
+            return None, None
+        # Formato esperado: "CMI_AC", "CMI AC", "CMI-AC", etc.
+        if '_' in nome_aba:
+            uf = nome_aba.split('_')[1].upper()
+        elif ' ' in nome_aba:
+            uf = nome_aba.split()[1].upper()
+        elif '-' in nome_aba:
+            uf = nome_aba.split('-')[1].upper()
+        else:
+            return None, None
+        if uf:
+            return 'CMI', uf
         return None, None
     
     # Identifica tipo (OB ou NV) e extrai UF
@@ -60,12 +78,15 @@ def encontrar_linha_cabecalho(df_temp):
         
         # Procura por município OU municipio na primeira coluna
         primeira_coluna = linha_texto_lower[0] if len(linha_texto_lower) > 0 else ""
-        if "município" in primeira_coluna or "municipio" in primeira_coluna:
+        
+        # Verifica se é exatamente "município" ou "municipio" (pode ter espaços)
+        if primeira_coluna.strip() == "município" or primeira_coluna.strip() == "municipio":
             # Verifica se tem números (anos) nas outras colunas
             tem_anos = False
             for cell in linha_texto[1:]:
                 try:
-                    valor = int(cell)
+                    valor = float(cell)
+                    # Aceita anos como float também (ex: 1996.0)
                     if 1990 <= valor <= 2030:
                         tem_anos = True
                         break
@@ -98,14 +119,14 @@ def extrair_colunas_anos(df):
         if col_str in ['MUNICIPIO', 'MUNICÍPIO', 'TOTAL', '#MUN', 'INIC', 'FIM']:
             continue
             
-        # Se a coluna já é um inteiro
-        if isinstance(col, int):
+        # Se a coluna já é um número (int ou float)
+        if isinstance(col, (int, float)):
             if 1990 <= col <= 2030:
                 colunas_anos.append(col)
         else:
-            # Tenta converter para int
+            # Tenta converter para número
             try:
-                ano = int(col)
+                ano = float(col)
                 if 1990 <= ano <= 2030:
                     colunas_anos.append(col)
             except (ValueError, TypeError):
@@ -160,12 +181,28 @@ def processar_aba(xls, nome_aba, tipo, uf):
         df_melted['Valor'] = pd.to_numeric(df_melted['Valor'], errors='coerce').fillna(0).astype(int)
         df_melted['Ano'] = pd.to_numeric(df_melted['Ano'], errors='coerce').astype(int)
         df_melted['UF'] = uf
-        df_melted['Tipo'] = 'Óbitos' if tipo == 'OB' else 'Nascidos Vivos'
+        if tipo == 'CMI':
+            df_melted['Tipo'] = 'CMI'
+        else:
+            df_melted['Tipo'] = 'Óbitos' if tipo == 'OB' else 'Nascidos Vivos'
         
         # Remove linhas vazias ou totais
         df_melted = df_melted[df_melted['Municipio'].notna()]
         df_melted = df_melted[~df_melted['Municipio'].str.upper().isin(['TOTAL', 'IGNORADO', ''])]
         df_melted['Municipio'] = df_melted['Municipio'].str.strip()
+        
+        # Remove notas de rodapé e textos explicativos
+        # Primeiro remove linhas que começam com aspas ou asteriscos
+        df_melted = df_melted[~df_melted['Municipio'].str.match(r'^[\"\*]', na=False)]
+        
+        # Depois remove linhas que contêm textos explicativos
+        textos_ignorar = [
+            'CONSOLIDA', 'CATEGORIZA', 'ADEQUA', 'FONTE:', 'NOTA:',
+            'CONSULTE', 'INFORMAÇÕES', 'PRÉ-NATAL', 'VARIÁVEL',
+            'SISTEMA DE', 'SINASC', 'MS/SVSA', 'SECRETARIA'
+        ]
+        for texto in textos_ignorar:
+            df_melted = df_melted[~df_melted['Municipio'].str.upper().str.contains(texto, na=False)]
         
         print(f"    ✓ Processado: {len(df_melted)} registros")
         return df_melted
@@ -178,7 +215,12 @@ def salvar_json(df, uf, tipo):
     """
     Salva DataFrame como JSON
     """
-    output_dir = OUTPUT_DIR_OB if tipo == 'OB' else OUTPUT_DIR_NV
+    if tipo == 'CMI':
+        output_dir = OUTPUT_DIR_CMI
+    elif tipo == 'OB':
+        output_dir = OUTPUT_DIR_OB
+    else:
+        output_dir = OUTPUT_DIR_NV
     arquivo_saida = output_dir / f"{uf}.json"
     
     # Converte para dicionário e salva
@@ -205,6 +247,7 @@ def processar_planilha():
     print(f"\n Arquivo: {ARQUIVO_EXCEL.name}")
     print(f" Saída NV: {OUTPUT_DIR_NV.relative_to(BASE_DIR)}")
     print(f" Saída OB: {OUTPUT_DIR_OB.relative_to(BASE_DIR)}")
+    print(f" Saída CMI: {OUTPUT_DIR_CMI.relative_to(BASE_DIR)}")
     print()
     
     # Lê arquivo Excel

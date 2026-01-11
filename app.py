@@ -15,18 +15,135 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# CSS personalizado para melhorar UX
+st.markdown("""
+    <style>
+    /* Cor de fundo do sidebar - azul escuro para combinar com tema dark */
+    [data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #1e3a8a 0%, #1e293b 100%) !important;
+    }
+    
+    [data-testid="stSidebar"] > div:first-child {
+        background: linear-gradient(180deg, #1e3a8a 0%, #1e293b 100%) !important;
+    }
+    
+    section[data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #1e3a8a 0%, #1e293b 100%) !important;
+    }
+    
+    /* Textos claros na sidebar para contraste com fundo escuro */
+    [data-testid="stSidebar"] label {
+        color: #e0f2fe !important;
+        font-weight: 500;
+    }
+    
+    [data-testid="stSidebar"] .stMarkdown {
+        color: #e0f2fe !important;
+    }
+    
+    [data-testid="stSidebar"] h1,
+    [data-testid="stSidebar"] h2,
+    [data-testid="stSidebar"] h3 {
+        color: #ffffff !important;
+    }
+    
+    /* Widgets na sidebar */
+    [data-testid="stSidebar"] .stSelectbox > div > div,
+    [data-testid="stSidebar"] .stMultiSelect > div > div {
+        background-color: #334155 !important;
+        color: #e0f2fe !important;
+    }
+    
+    [data-testid="stSidebar"] input {
+        background-color: #334155 !important;
+        color: #e0f2fe !important;
+    }
+    
+    /* Separadores na sidebar */
+    [data-testid="stSidebar"] hr {
+        border-color: #475569 !important;
+    }
+    
+    /* Estilo dos títulos principais */
+    h1 {
+        color: #3b82f6;
+        font-weight: 700;
+    }
+    
+    h2, h3 {
+        color: #60a5fa;
+    }
+    
+    /* Estilo das métricas */
+    [data-testid="stMetricValue"] {
+        font-size: 28px;
+        font-weight: 600;
+        color: #10b981;
+    }
+    
+    /* Botões */
+    .stButton>button {
+        background-color: #3b82f6;
+        color: white;
+        border-radius: 8px;
+        border: none;
+        padding: 0.5rem 1rem;
+        font-weight: 500;
+    }
+    
+    .stButton>button:hover {
+        background-color: #2563eb;
+        border: none;
+    }
+    
+    /* Dataframes */
+    [data-testid="stDataFrame"] {
+        border-radius: 8px;
+    }
+    
+    /* Cards de métricas */
+    div[data-testid="metric-container"] {
+        background-color: rgba(30, 41, 59, 0.5);
+        border: 1px solid #334155;
+        padding: 1rem;
+        border-radius: 8px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 # Caminhos
 BASE_DIR = Path(__file__).parent  # app.py está na raiz
 DIR_NV = BASE_DIR / 'data' / 'output' / 'nascidos_vivos'
 DIR_OB = BASE_DIR / 'data' / 'output' / 'obitos'
+DIR_CMI = BASE_DIR / 'data' / 'output' / 'CMI'
+
+# Paleta de cores personalizada
+CORES = {
+    'primaria': '#3b82f6',      # Azul moderno
+    'secundaria': '#10b981',    # Verde
+    'terciaria': '#f59e0b',     # Laranja
+    'quaternaria': '#8b5cf6',   # Roxo
+    'destaque': '#ef4444',      # Vermelho
+    'sucesso': '#059669',       # Verde escuro
+}
+
+# Esquema de cores para gráficos
+COLOR_SCALE = ['#3b82f6', '#10b981', '#f59e0b', '#8b5cf6', '#ef4444', 
+               '#06b6d4', '#ec4899', '#14b8a6', '#f97316', '#a855f7']
 
 # Cache dos dados
 @st.cache_data
 def carregar_dados_uf(uf, tipo):
     """
-    Carrega dados de uma UF específica (NV ou OB)
+    Carrega dados de uma UF específica (NV, OB ou CMI)
     """
-    diretorio = DIR_NV if tipo == 'NV' else DIR_OB
+    if tipo == 'CMI':
+        diretorio = DIR_CMI
+    elif tipo == 'NV':
+        diretorio = DIR_NV
+    else:
+        diretorio = DIR_OB
     arquivo = diretorio / f"{uf}.json"
     
     if not arquivo.exists():
@@ -47,6 +164,18 @@ def listar_ufs_disponiveis():
     for arquivo in DIR_OB.glob("*.json"):
         uf = arquivo.stem
         ufs.append(uf)
+    return sorted(ufs)
+
+@st.cache_data
+def listar_ufs_cmi_disponiveis():
+    """
+    Lista todas as UFs que têm dados CMI disponíveis
+    """
+    ufs = []
+    if DIR_CMI.exists():
+        for arquivo in DIR_CMI.glob("*.json"):
+            uf = arquivo.stem
+            ufs.append(uf)
     return sorted(ufs)
 
 @st.cache_data
@@ -82,8 +211,9 @@ def calcular_metricas(df, ano_atual, ano_anterior):
     return total_atual, total_anterior, variacao
 
 # ===== INTERFACE PRINCIPAL =====
-st.title("Dashboard de Saúde Pública")
-st.markdown("### Análise de Nascidos Vivos e Óbitos por Município e Estado")
+st.title("📊 Dashboard de Saúde Pública")
+st.markdown("### 🏥 Análise de Nascidos Vivos e Óbitos por Município e Estado")
+st.markdown("---")
 
 # Sidebar
 st.sidebar.header("Filtros")
@@ -91,7 +221,7 @@ st.sidebar.header("Filtros")
 # Modo de visualização
 modo_visualizacao = st.sidebar.radio(
     "Modo de Visualização",
-    ["Estado Individual", "Comparação"],
+    ["Estado Individual", "Comparação", "CMI"],
     index=0
 )
 
@@ -160,8 +290,8 @@ if modo_visualizacao == "Comparação":
         ]
         
         # ===== VISUALIZAÇÃO COMPARAÇÃO DE ESTADOS =====
-        st.title("Comparação entre Estados")
-        st.markdown(f"### Análise de {tipo_dado} - {len(ufs_selecionadas)} Estados")
+        st.title("🌎 Comparação entre Estados")
+        st.markdown(f"### 📊 Análise de {tipo_dado} - {len(ufs_selecionadas)} Estados")
         
         # Métricas por estado
         st.markdown("---")
@@ -185,12 +315,18 @@ if modo_visualizacao == "Comparação":
             color='UF',
             title=f"Comparação de {tipo_dado} entre Estados ({anos_selecionados[0]}-{anos_selecionados[1]})",
             markers=True,
-            labels={'Valor': f'Total de {tipo_dado}', 'UF': 'Estado'}
+            labels={'Valor': f'Total de {tipo_dado}', 'UF': 'Estado'},
+            color_discrete_sequence=COLOR_SCALE
         )
         fig_estados.update_layout(
             hovermode='x unified',
-            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+            plot_bgcolor='rgba(0,0,0,0)',
+            paper_bgcolor='rgba(0,0,0,0)',
+            font=dict(size=12)
         )
+        fig_estados.update_xaxes(showgrid=True, gridwidth=1, gridcolor='#e5e7eb')
+        fig_estados.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#e5e7eb')
         st.plotly_chart(fig_estados, width='stretch')
         
         # Gráfico de barras comparativo
@@ -206,8 +342,16 @@ if modo_visualizacao == "Comparação":
                 y='Valor',
                 color='UF',
                 title=f"Total de {tipo_dado} por Estado",
-                labels={'Valor': f'Total de {tipo_dado}', 'UF': 'Estado'}
+                labels={'Valor': f'Total de {tipo_dado}', 'UF': 'Estado'},
+                color_discrete_sequence=COLOR_SCALE
             )
+            fig_bar.update_layout(
+                showlegend=False,
+                plot_bgcolor='rgba(0,0,0,0)',
+                paper_bgcolor='rgba(0,0,0,0)'
+            )
+            fig_bar.update_xaxes(showgrid=False)
+            fig_bar.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#e5e7eb')
             st.plotly_chart(fig_bar, width='stretch')
         
         with col2:
@@ -216,7 +360,13 @@ if modo_visualizacao == "Comparação":
                 df_total_estados,
                 values='Valor',
                 names='UF',
-                title=f"Participação de cada Estado"
+                title=f"Participação de cada Estado",
+                color_discrete_sequence=COLOR_SCALE
+            )
+            fig_pie.update_traces(textposition='inside', textinfo='percent+label')
+            fig_pie.update_layout(
+                plot_bgcolor='rgba(0,0,0,0)',
+                paper_bgcolor='rgba(0,0,0,0)'
             )
             st.plotly_chart(fig_pie, width='stretch')
         
@@ -373,6 +523,279 @@ if modo_visualizacao == "Comparação":
             label="Baixar dados comparativos em CSV",
             data=csv,
             file_name=f"comparacao_municipios_{tipo_cod}_{anos_selecionados[0]}-{anos_selecionados[1]}.csv",
+            mime="text/csv"
+        )
+
+# ===== MODO CMI =====
+elif modo_visualizacao == "CMI":
+    st.sidebar.markdown("---")
+    
+    # Verifica se há dados CMI disponíveis
+    ufs_cmi_disponiveis = listar_ufs_cmi_disponiveis()
+    
+    if not ufs_cmi_disponiveis:
+        st.warning("Nenhum dado CMI encontrado! Execute primeiro o script converter_dados.py")
+        st.info("Os dados CMI são extraídos de abas que começam com 'CMI_' na planilha.")
+        st.stop()
+    
+    # Tipo de comparação CMI
+    tipo_comparacao_cmi = st.sidebar.radio(
+        "Comparar por",
+        ["Estados", "Municípios"],
+        index=0
+    )
+    
+    if tipo_comparacao_cmi == "Estados":
+        # Seleciona múltiplos estados CMI
+        ufs_cmi_selecionadas = st.sidebar.multiselect(
+            "Selecione os Estados CMI para Comparar",
+            ufs_cmi_disponiveis,
+            default=ufs_cmi_disponiveis[:3] if len(ufs_cmi_disponiveis) >= 3 else ufs_cmi_disponiveis
+        )
+        
+        if not ufs_cmi_selecionadas:
+            st.warning("Selecione pelo menos um estado para comparar")
+            st.stop()
+        
+        # Carrega dados de todos os estados selecionados
+        df_cmi = carregar_dados_multiplas_ufs(ufs_cmi_selecionadas, 'CMI')
+        
+        if df_cmi is None or len(df_cmi) == 0:
+            st.error(f"Não há dados CMI para os estados selecionados")
+            st.stop()
+        
+        # Filtro de Anos
+        anos_disponiveis = sorted(df_cmi['Ano'].unique())
+        ano_min = int(min(anos_disponiveis))
+        ano_max = int(max(anos_disponiveis))
+        
+        anos_selecionados = st.sidebar.slider(
+            "Período",
+            ano_min,
+            ano_max,
+            (ano_min, ano_max)
+        )
+        
+        # Aplica filtros
+        df_cmi_filtrado = df_cmi[
+            (df_cmi['Ano'] >= anos_selecionados[0]) & 
+            (df_cmi['Ano'] <= anos_selecionados[1])
+        ]
+        
+        # ===== VISUALIZAÇÃO COMPARAÇÃO DE ESTADOS CMI =====
+        st.title("Comparação entre Estados - Dados CMI")
+        st.markdown(f"### Análise de Dados CMI - {len(ufs_cmi_selecionadas)} Estados")
+        
+        # Métricas por estado
+        st.markdown("---")
+        cols = st.columns(min(len(ufs_cmi_selecionadas), 4))
+        for idx, uf in enumerate(ufs_cmi_selecionadas[:4]):
+            df_uf = df_cmi_filtrado[df_cmi_filtrado['UF'] == uf]
+            total = df_uf['Valor'].sum()
+            with cols[idx]:
+                st.metric(uf, f"{total:,.0f}".replace(",", "."))
+        
+        # Gráfico de comparação temporal
+        st.markdown("---")
+        st.subheader(f"Evolução Comparativa de Dados CMI")
+        
+        df_comp_estados_cmi = df_cmi_filtrado.groupby(['Ano', 'UF'])['Valor'].sum().reset_index()
+        
+        fig_estados_cmi = px.line(
+            df_comp_estados_cmi,
+            x='Ano',
+            y='Valor',
+            color='UF',
+            title=f"Comparação de Dados CMI entre Estados ({anos_selecionados[0]}-{anos_selecionados[1]})",
+            markers=True,
+            labels={'Valor': 'Total CMI', 'UF': 'Estado'}
+        )
+        fig_estados_cmi.update_layout(
+            hovermode='x unified',
+            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+        )
+        st.plotly_chart(fig_estados_cmi, width='stretch')
+        
+        # Gráfico de barras comparativo
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            st.subheader("Total por Estado")
+            df_total_estados_cmi = df_cmi_filtrado.groupby('UF')['Valor'].sum().reset_index().sort_values('Valor', ascending=False)
+            
+            fig_bar_cmi = px.bar(
+                df_total_estados_cmi,
+                x='UF',
+                y='Valor',
+                color='UF',
+                title=f"Total de Dados CMI por Estado",
+                labels={'Valor': 'Total CMI', 'UF': 'Estado'}
+            )
+            st.plotly_chart(fig_bar_cmi, width='stretch')
+        
+        with col2:
+            st.subheader("Distribuição Percentual")
+            fig_pie_cmi = px.pie(
+                df_total_estados_cmi,
+                values='Valor',
+                names='UF',
+                title=f"Participação de cada Estado"
+            )
+            st.plotly_chart(fig_pie_cmi, width='stretch')
+        
+        # Tabela de dados
+        st.markdown("---")
+        st.subheader("Dados Comparativos CMI")
+        
+        df_resumo_cmi = df_cmi_filtrado.groupby('UF').agg({
+            'Valor': ['sum', 'mean', 'min', 'max'],
+            'Municipio': 'nunique'
+        }).round(0)
+        df_resumo_cmi.columns = ['Total', 'Média', 'Mínimo', 'Máximo', 'Municípios']
+        df_resumo_cmi = df_resumo_cmi.sort_values('Total', ascending=False)
+        
+        st.dataframe(df_resumo_cmi, width='stretch')
+        
+    else:  # Comparação por Municípios CMI
+        # Primeiro seleciona estados
+        ufs_cmi_para_municipios = st.sidebar.multiselect(
+            "Estados (para listar municípios)",
+            ufs_cmi_disponiveis,
+            default=ufs_cmi_disponiveis[:2] if len(ufs_cmi_disponiveis) >= 2 else ufs_cmi_disponiveis
+        )
+        
+        if not ufs_cmi_para_municipios:
+            st.warning("Selecione pelo menos um estado")
+            st.stop()
+        
+        # Carrega dados dos estados selecionados
+        df_cmi_temp = carregar_dados_multiplas_ufs(ufs_cmi_para_municipios, 'CMI')
+        
+        if df_cmi_temp is None or len(df_cmi_temp) == 0:
+            st.error("Não há dados disponíveis")
+            st.stop()
+        
+        # Lista municípios com UF
+        df_cmi_temp['Municipio_UF'] = df_cmi_temp['Municipio'] + ' - ' + df_cmi_temp['UF']
+        municipios_cmi_disponiveis = sorted(df_cmi_temp['Municipio_UF'].unique())
+        
+        # Seleciona municípios
+        municipios_cmi_selecionados = st.sidebar.multiselect(
+            "Selecione os Municípios para Comparar",
+            municipios_cmi_disponiveis,
+            default=municipios_cmi_disponiveis[:5] if len(municipios_cmi_disponiveis) >= 5 else municipios_cmi_disponiveis[:3]
+        )
+        
+        if not municipios_cmi_selecionados:
+            st.warning("Selecione pelo menos um município")
+            st.stop()
+        
+        # Filtro de Anos
+        anos_disponiveis = sorted(df_cmi_temp['Ano'].unique())
+        ano_min = int(min(anos_disponiveis))
+        ano_max = int(max(anos_disponiveis))
+        
+        anos_selecionados = st.sidebar.slider(
+            "Período",
+            ano_min,
+            ano_max,
+            (ano_min, ano_max)
+        )
+        
+        # Filtra dados
+        df_cmi_filtrado = df_cmi_temp[
+            (df_cmi_temp['Municipio_UF'].isin(municipios_cmi_selecionados)) &
+            (df_cmi_temp['Ano'] >= anos_selecionados[0]) & 
+            (df_cmi_temp['Ano'] <= anos_selecionados[1])
+        ]
+        
+        # ===== VISUALIZAÇÃO COMPARAÇÃO DE MUNICÍPIOS CMI =====
+        st.title("Comparação entre Municípios - Dados CMI")
+        st.markdown(f"### Análise de Dados CMI - {len(municipios_cmi_selecionados)} Municípios")
+        
+        # Métricas por município (top 4)
+        st.markdown("---")
+        cols = st.columns(min(len(municipios_cmi_selecionados), 4))
+        for idx, mun in enumerate(municipios_cmi_selecionados[:4]):
+            df_mun = df_cmi_filtrado[df_cmi_filtrado['Municipio_UF'] == mun]
+            total = df_mun['Valor'].sum()
+            with cols[idx]:
+                st.metric(mun.split(' - ')[0][:15] + '...', f"{total:,.0f}".replace(",", "."))
+        
+        # Gráfico de comparação temporal
+        st.markdown("---")
+        st.subheader(f"Evolução Comparativa de Dados CMI")
+        
+        df_comp_mun_cmi = df_cmi_filtrado.groupby(['Ano', 'Municipio_UF'])['Valor'].sum().reset_index()
+        
+        fig_mun_cmi = px.line(
+            df_comp_mun_cmi,
+            x='Ano',
+            y='Valor',
+            color='Municipio_UF',
+            title=f"Comparação de Dados CMI entre Municípios ({anos_selecionados[0]}-{anos_selecionados[1]})",
+            markers=True,
+            labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'}
+        )
+        fig_mun_cmi.update_layout(
+            hovermode='x unified',
+            legend=dict(orientation="v", yanchor="top", y=1, xanchor="left", x=1.02)
+        )
+        st.plotly_chart(fig_mun_cmi, width='stretch')
+        
+        # Gráfico de barras comparativo
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            st.subheader("Total por Município")
+            df_total_mun_cmi = df_cmi_filtrado.groupby('Municipio_UF')['Valor'].sum().reset_index().sort_values('Valor', ascending=False)
+            
+            fig_bar_mun_cmi = px.bar(
+                df_total_mun_cmi,
+                y='Municipio_UF',
+                x='Valor',
+                orientation='h',
+                color='Municipio_UF',
+                title=f"Total de Dados CMI por Município",
+                labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'}
+            )
+            fig_bar_mun_cmi.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
+            st.plotly_chart(fig_bar_mun_cmi, width='stretch')
+        
+        with col2:
+            st.subheader("Média Anual")
+            df_media_mun_cmi = df_cmi_filtrado.groupby('Municipio_UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
+            
+            fig_media_cmi = px.bar(
+                df_media_mun_cmi,
+                y='Municipio_UF',
+                x='Valor',
+                orientation='h',
+                color='Municipio_UF',
+                title="Média Anual por Município",
+                labels={'Valor': 'Média Anual', 'Municipio_UF': 'Município'}
+            )
+            fig_media_cmi.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
+            st.plotly_chart(fig_media_cmi, width='stretch')
+        
+        # Tabela de dados
+        st.markdown("---")
+        st.subheader("Dados Comparativos CMI")
+        
+        df_resumo_mun_cmi = df_cmi_filtrado.groupby(['Municipio_UF', 'UF']).agg({
+            'Valor': ['sum', 'mean', 'min', 'max']
+        }).round(0)
+        df_resumo_mun_cmi.columns = ['Total', 'Média Anual', 'Mínimo', 'Máximo']
+        df_resumo_mun_cmi = df_resumo_mun_cmi.sort_values('Total', ascending=False)
+        
+        st.dataframe(df_resumo_mun_cmi, width='stretch')
+        
+        # Download
+        csv = df_cmi_filtrado.to_csv(index=False).encode('utf-8-sig')
+        st.download_button(
+            label="Baixar dados comparativos em CSV",
+            data=csv,
+            file_name=f"comparacao_municipios_CMI_{anos_selecionados[0]}-{anos_selecionados[1]}.csv",
             mime="text/csv"
         )
 

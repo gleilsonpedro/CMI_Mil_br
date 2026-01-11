@@ -1575,20 +1575,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 1996,
     "Valor": 0,
@@ -1610,13 +1596,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 1996,
     "Valor": 0,
@@ -1624,42 +1603,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 1996,
     "Valor": 0,
     "UF": "PI",
@@ -3248,20 +3192,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 1997,
     "Valor": 0,
@@ -3283,13 +3213,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 1997,
     "Valor": 0,
@@ -3297,42 +3220,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 1997,
     "Valor": 0,
     "UF": "PI",
@@ -4921,20 +4809,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2001,
     "Valor": 0,
@@ -4956,13 +4830,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2001,
     "Valor": 0,
@@ -4970,42 +4837,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2001,
     "Valor": 0,
     "UF": "PI",
@@ -6594,20 +6426,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2002,
     "Valor": 0,
@@ -6629,13 +6447,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2002,
     "Valor": 0,
@@ -6643,42 +6454,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2002,
     "Valor": 0,
     "UF": "PI",
@@ -8267,20 +8043,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2003,
     "Valor": 0,
@@ -8302,13 +8064,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2003,
     "Valor": 0,
@@ -8316,42 +8071,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2003,
     "Valor": 0,
     "UF": "PI",
@@ -9940,20 +9660,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2004,
     "Valor": 0,
@@ -9975,13 +9681,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2004,
     "Valor": 0,
@@ -9989,42 +9688,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2004,
     "Valor": 0,
     "UF": "PI",
@@ -11613,20 +11277,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2005,
     "Valor": 0,
@@ -11648,13 +11298,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2005,
     "Valor": 0,
@@ -11662,42 +11305,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2005,
     "Valor": 0,
     "UF": "PI",
@@ -13286,20 +12894,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2006,
     "Valor": 0,
@@ -13321,13 +12915,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2006,
     "Valor": 0,
@@ -13335,42 +12922,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2006,
     "Valor": 0,
     "UF": "PI",
@@ -14959,20 +14511,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2007,
     "Valor": 0,
@@ -14994,13 +14532,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2007,
     "Valor": 0,
@@ -15008,42 +14539,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2007,
     "Valor": 0,
     "UF": "PI",
@@ -16632,20 +16128,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2008,
     "Valor": 0,
@@ -16667,13 +16149,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2008,
     "Valor": 0,
@@ -16681,42 +16156,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2008,
     "Valor": 0,
     "UF": "PI",
@@ -18305,20 +17745,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2009,
     "Valor": 0,
@@ -18340,13 +17766,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2009,
     "Valor": 0,
@@ -18354,42 +17773,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2009,
     "Valor": 0,
     "UF": "PI",
@@ -19978,20 +19362,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2010,
     "Valor": 0,
@@ -20013,13 +19383,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2010,
     "Valor": 0,
@@ -20027,42 +19390,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2010,
     "Valor": 0,
     "UF": "PI",
@@ -21651,20 +20979,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2011,
     "Valor": 0,
@@ -21686,13 +21000,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2011,
     "Valor": 0,
@@ -21700,42 +21007,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2011,
     "Valor": 0,
     "UF": "PI",
@@ -23324,20 +22596,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2012,
     "Valor": 0,
@@ -23359,13 +22617,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2012,
     "Valor": 0,
@@ -23373,42 +22624,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2012,
     "Valor": 0,
     "UF": "PI",
@@ -24997,20 +24213,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2013,
     "Valor": 0,
@@ -25032,13 +24234,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2013,
     "Valor": 0,
@@ -25046,42 +24241,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2013,
     "Valor": 0,
     "UF": "PI",
@@ -26670,20 +25830,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2014,
     "Valor": 0,
@@ -26705,13 +25851,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2014,
     "Valor": 0,
@@ -26719,42 +25858,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2014,
     "Valor": 0,
     "UF": "PI",
@@ -28343,20 +27447,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2015,
     "Valor": 0,
@@ -28378,13 +27468,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2015,
     "Valor": 0,
@@ -28392,42 +27475,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2015,
     "Valor": 0,
     "UF": "PI",
@@ -30016,20 +29064,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2016,
     "Valor": 0,
@@ -30051,13 +29085,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2016,
     "Valor": 0,
@@ -30065,42 +29092,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2016,
     "Valor": 0,
     "UF": "PI",
@@ -31689,20 +30681,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2017,
     "Valor": 0,
@@ -31724,13 +30702,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2017,
     "Valor": 0,
@@ -31738,42 +30709,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2017,
     "Valor": 0,
     "UF": "PI",
@@ -33362,20 +32298,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2018,
     "Valor": 0,
@@ -33397,13 +32319,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2018,
     "Valor": 0,
@@ -33411,42 +32326,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2018,
     "Valor": 0,
     "UF": "PI",
@@ -35035,20 +33915,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2019,
     "Valor": 0,
@@ -35070,13 +33936,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2019,
     "Valor": 0,
@@ -35084,42 +33943,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2019,
     "Valor": 0,
     "UF": "PI",
@@ -36708,20 +35532,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2020,
     "Valor": 0,
@@ -36743,13 +35553,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2020,
     "Valor": 0,
@@ -36757,42 +35560,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2020,
     "Valor": 0,
     "UF": "PI",
@@ -38381,20 +37149,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2021,
     "Valor": 0,
@@ -38416,13 +37170,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2021,
     "Valor": 0,
@@ -38430,42 +37177,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2021,
     "Valor": 0,
     "UF": "PI",
@@ -40054,20 +38766,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2022,
     "Valor": 0,
@@ -40089,13 +38787,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2022,
     "Valor": 0,
@@ -40103,42 +38794,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2022,
     "Valor": 0,
     "UF": "PI",
@@ -41727,20 +40383,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2023,
     "Valor": 0,
@@ -41762,13 +40404,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2023,
     "Valor": 0,
@@ -41776,42 +40411,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2023,
     "Valor": 0,
     "UF": "PI",
@@ -43400,20 +42000,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Consulte o site da Secretaria Estadual de Saúde para mais informações.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "Notas:",
     "Ano": 2024,
     "Valor": 0,
@@ -43435,13 +42021,6 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
     "Ano": 2024,
     "Valor": 0,
@@ -43449,42 +42028,7 @@
     "Tipo": "Nascidos Vivos"
   },
   {
-    "Municipio": "\"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
     "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "* A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "PI",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
     "Ano": 2024,
     "Valor": 0,
     "UF": "PI",
