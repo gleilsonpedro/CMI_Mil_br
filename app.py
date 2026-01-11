@@ -620,7 +620,8 @@ elif modo_visualizacao == "CMI":
             color='UF',
             title=f"Comparação de Dados CMI entre Estados ({anos_selecionados[0]}-{anos_selecionados[1]})",
             markers=True,
-            labels={'Valor': 'Total CMI', 'UF': 'Estado'}
+            labels={'Valor': 'Total CMI', 'UF': 'Estado'},
+            color_discrete_sequence=COLOR_SCALE
         )
         fig_estados_cmi.update_layout(
             hovermode='x unified',
@@ -641,8 +642,16 @@ elif modo_visualizacao == "CMI":
                 y='Valor',
                 color='UF',
                 title=f"Total de Dados CMI por Estado",
-                labels={'Valor': 'Total CMI', 'UF': 'Estado'}
+                labels={'Valor': 'Total CMI', 'UF': 'Estado'},
+                color_discrete_sequence=COLOR_SCALE
             )
+            fig_bar_cmi.update_layout(
+                showlegend=False,
+                plot_bgcolor='rgba(0,0,0,0)',
+                paper_bgcolor='rgba(0,0,0,0)'
+            )
+            fig_bar_cmi.update_xaxes(showgrid=False)
+            fig_bar_cmi.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
             st.plotly_chart(fig_bar_cmi, width='stretch')
         
         with col2:
@@ -651,7 +660,13 @@ elif modo_visualizacao == "CMI":
                 df_total_estados_cmi,
                 values='Valor',
                 names='UF',
-                title=f"Participação de cada Estado"
+                title=f"Participação de cada Estado",
+                color_discrete_sequence=COLOR_SCALE
+            )
+            fig_pie_cmi.update_traces(textposition='inside', textinfo='percent+label')
+            fig_pie_cmi.update_layout(
+                plot_bgcolor='rgba(0,0,0,0)',
+                paper_bgcolor='rgba(0,0,0,0)'
             )
             st.plotly_chart(fig_pie_cmi, width='stretch')
         
@@ -747,7 +762,8 @@ elif modo_visualizacao == "CMI":
             color='Municipio_UF',
             title=f"Comparação de Dados CMI entre Municípios ({anos_selecionados[0]}-{anos_selecionados[1]})",
             markers=True,
-            labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'}
+            labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'},
+            color_discrete_sequence=COLOR_SCALE
         )
         fig_mun_cmi.update_layout(
             hovermode='x unified',
@@ -769,7 +785,8 @@ elif modo_visualizacao == "CMI":
                 orientation='h',
                 color='Municipio_UF',
                 title=f"Total de Dados CMI por Município",
-                labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'}
+                labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'},
+                color_discrete_sequence=COLOR_SCALE
             )
             fig_bar_mun_cmi.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
             st.plotly_chart(fig_bar_mun_cmi, width='stretch')
@@ -785,7 +802,8 @@ elif modo_visualizacao == "CMI":
                 orientation='h',
                 color='Municipio_UF',
                 title="Média Anual por Município",
-                labels={'Valor': 'Média Anual', 'Municipio_UF': 'Município'}
+                labels={'Valor': 'Média Anual', 'Municipio_UF': 'Município'},
+                color_discrete_sequence=COLOR_SCALE
             )
             fig_media_cmi.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
             st.plotly_chart(fig_media_cmi, width='stretch')
