@@ -1291,13 +1291,17 @@ elif modo_visualizacao == "Comparação CMI":
             },
             xaxis=dict(title='Ano'),
             yaxis=dict(
-                title='Diferença Absoluta (CMI_MIL - CMI_puro)',
-                titlefont=dict(color='#1f2937'),
+                title=dict(
+                    text='Diferença Absoluta (CMI_MIL - CMI_puro)',
+                    font=dict(color='#1f2937')
+                ),
                 tickfont=dict(color='#1f2937')
             ),
             yaxis2=dict(
-                title='Diferença Percentual (%)',
-                titlefont=dict(color='#f59e0b'),
+                title=dict(
+                    text='Diferença Percentual (%)',
+                    font=dict(color='#f59e0b')
+                ),
                 tickfont=dict(color='#f59e0b'),
                 overlaying='y',
                 side='right'
