@@ -16,9 +16,11 @@ if sys.platform == 'win32':
 # Configuração de caminhos
 BASE_DIR = Path(__file__).parent.parent
 ARQUIVO_EXCEL = BASE_DIR / 'data' / 'input' / 'CMI_Mil_Br_0_4.xlsx'
+ARQUIVO_EXCEL_PURO = BASE_DIR / 'data' / 'input' / 'CMI_PURO_semMIL.xlsx'
 OUTPUT_DIR_NV = BASE_DIR / 'data' / 'output' / 'nascidos_vivos'
 OUTPUT_DIR_OB = BASE_DIR / 'data' / 'output' / 'obitos'
-OUTPUT_DIR_CMI = BASE_DIR / 'data' / 'output' / 'CMI'
+OUTPUT_DIR_CMI = BASE_DIR / 'data' / 'output' / 'CMI_MIL'
+OUTPUT_DIR_CMI_PURO = BASE_DIR / 'data' / 'output' / 'CMI_puro'
 
 def limpar_nome_coluna(col_name):
     """Remove espaços extras e padroniza nome de coluna"""
@@ -26,10 +28,10 @@ def limpar_nome_coluna(col_name):
         return col_name.strip()
     return col_name
 
-def identificar_tipo_aba(nome_aba):
+def identificar_tipo_aba(nome_aba, planilha_tipo='CMI_MIL'):
     """
-    Identifica se a aba é de Nascidos Vivos (NV), Óbitos (OB) ou CMI
-    Retorna: ('NV', 'UF'), ('OB', 'UF'), ('CMI', 'UF') ou (None, None)
+    Identifica se a aba é de Nascidos Vivos (NV), Óbitos (OB), CMI_MIL ou CMI_puro
+    Retorna: ('NV', 'UF'), ('OB', 'UF'), ('CMI_MIL', 'UF'), ('CMI_puro', 'UF') ou (None, None)
     """
     nome_upper = nome_aba.upper()
     
@@ -38,6 +40,32 @@ def identificar_tipo_aba(nome_aba):
     if any(palavra in nome_upper for palavra in abas_ignorar):
         return None, None
     
+    # Para planilha CMI_PURO, procura abas que começam com "CMI"
+    if planilha_tipo == 'CMI_puro':
+        if nome_upper.startswith('CMI'):
+            # Formato esperado: "CMI AC", "CMI_AC", "CMI-AC", "CMI SP", etc.
+            if '_' in nome_aba:
+                partes = nome_aba.split('_')
+                if len(partes) >= 2:
+                    uf = partes[1].strip().upper()
+            elif ' ' in nome_aba:
+                partes = nome_aba.split()
+                if len(partes) >= 2:
+                    uf = partes[1].strip().upper()
+            elif '-' in nome_aba:
+                partes = nome_aba.split('-')
+                if len(partes) >= 2:
+                    uf = partes[1].strip().upper()
+            else:
+                # Se não tiver separador, tenta pegar os últimos 2 caracteres
+                uf = nome_aba[-2:].upper() if len(nome_aba) >= 2 else None
+            
+            # Valida se é um código de UF válido (2 letras)
+            if uf and len(uf) == 2 and uf.isalpha():
+                return 'CMI_puro', uf
+        return None, None
+    
+    # Para planilha CMI_MIL (comportamento original)
     # Identifica abas CMI (exceto CMI_mil ou CMI-Mil que é resumo)
     if nome_upper.startswith('CMI'):
         if 'MIL' in nome_upper:
@@ -52,7 +80,7 @@ def identificar_tipo_aba(nome_aba):
         else:
             return None, None
         if uf:
-            return 'CMI', uf
+            return 'CMI_MIL', uf
         return None, None
     
     # Identifica tipo (OB ou NV) e extrai UF
@@ -181,8 +209,10 @@ def processar_aba(xls, nome_aba, tipo, uf):
         df_melted['Valor'] = pd.to_numeric(df_melted['Valor'], errors='coerce').fillna(0).astype(int)
         df_melted['Ano'] = pd.to_numeric(df_melted['Ano'], errors='coerce').astype(int)
         df_melted['UF'] = uf
-        if tipo == 'CMI':
-            df_melted['Tipo'] = 'CMI'
+        if tipo == 'CMI_MIL':
+            df_melted['Tipo'] = 'CMI_MIL'
+        elif tipo == 'CMI_puro':
+            df_melted['Tipo'] = 'CMI_puro'
         else:
             df_melted['Tipo'] = 'Óbitos' if tipo == 'OB' else 'Nascidos Vivos'
         
@@ -215,12 +245,18 @@ def salvar_json(df, uf, tipo):
     """
     Salva DataFrame como JSON
     """
-    if tipo == 'CMI':
+    if tipo == 'CMI_MIL':
         output_dir = OUTPUT_DIR_CMI
+    elif tipo == 'CMI_puro':
+        output_dir = OUTPUT_DIR_CMI_PURO
     elif tipo == 'OB':
         output_dir = OUTPUT_DIR_OB
     else:
         output_dir = OUTPUT_DIR_NV
+    
+    # Garante que o diretório existe
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
     arquivo_saida = output_dir / f"{uf}.json"
     
     # Converte para dicionário e salva
@@ -231,27 +267,15 @@ def salvar_json(df, uf, tipo):
     
     print(f"     Salvo: {arquivo_saida.relative_to(BASE_DIR)}")
 
-def processar_planilha():
+def processar_planilha_individual(arquivo, planilha_tipo='CMI_MIL'):
     """
-    Função principal que processa toda a planilha
+    Processa uma planilha específica
     """
-    print("="*70)
-    print(" INICIANDO EXTRAÇÃO DE DADOS DA PLANILHA")
-    print("="*70)
-    
-    if not ARQUIVO_EXCEL.exists():
-        print(f"\n ERRO: Arquivo não encontrado: {ARQUIVO_EXCEL}")
-        print(f"   Por favor, coloque a planilha DR_Rubens.xlsx em: {ARQUIVO_EXCEL.parent}")
-        return
-    
-    print(f"\n Arquivo: {ARQUIVO_EXCEL.name}")
-    print(f" Saída NV: {OUTPUT_DIR_NV.relative_to(BASE_DIR)}")
-    print(f" Saída OB: {OUTPUT_DIR_OB.relative_to(BASE_DIR)}")
-    print(f" Saída CMI: {OUTPUT_DIR_CMI.relative_to(BASE_DIR)}")
-    print()
+    nome_arquivo = arquivo.name
+    print(f"\n Processando: {nome_arquivo}")
     
     # Lê arquivo Excel
-    xls = pd.ExcelFile(ARQUIVO_EXCEL)
+    xls = pd.ExcelFile(arquivo)
     print(f" Total de abas encontradas: {len(xls.sheet_names)}\n")
     
     # Dicionários para agrupar dados por UF e tipo
@@ -261,7 +285,7 @@ def processar_planilha():
     for i, nome_aba in enumerate(xls.sheet_names, 1):
         print(f"[{i}/{len(xls.sheet_names)}] Analisando: {nome_aba}")
         
-        tipo, uf = identificar_tipo_aba(nome_aba)
+        tipo, uf = identificar_tipo_aba(nome_aba, planilha_tipo)
         
         if tipo is None:
             print(f"    Ignorando (não é aba de dados)")
@@ -275,6 +299,44 @@ def processar_planilha():
                 dados_por_uf_tipo[chave] = []
             dados_por_uf_tipo[chave].append(df_processado)
     
+    return dados_por_uf_tipo
+
+def processar_planilha():
+    """
+    Função principal que processa todas as planilhas
+    """
+    print("="*70)
+    print(" INICIANDO EXTRAÇÃO DE DADOS DAS PLANILHAS")
+    print("="*70)
+    
+    # Verifica arquivos
+    arquivos_processados = []
+    
+    if ARQUIVO_EXCEL.exists():
+        arquivos_processados.append((ARQUIVO_EXCEL, 'CMI_MIL'))
+    else:
+        print(f"\n⚠ Arquivo não encontrado: {ARQUIVO_EXCEL.name}")
+    
+    if ARQUIVO_EXCEL_PURO.exists():
+        arquivos_processados.append((ARQUIVO_EXCEL_PURO, 'CMI_puro'))
+    else:
+        print(f"\n⚠ Arquivo não encontrado: {ARQUIVO_EXCEL_PURO.name}")
+    
+    if not arquivos_processados:
+        print(f"\n ERRO: Nenhum arquivo encontrado em: {ARQUIVO_EXCEL.parent}")
+        return
+    
+    print(f"\n Saída NV: {OUTPUT_DIR_NV.relative_to(BASE_DIR)}")
+    print(f" Saída OB: {OUTPUT_DIR_OB.relative_to(BASE_DIR)}")
+    print(f" Saída CMI_MIL: {OUTPUT_DIR_CMI.relative_to(BASE_DIR)}")
+    print(f" Saída CMI_puro: {OUTPUT_DIR_CMI_PURO.relative_to(BASE_DIR)}")
+    
+    # Processa cada planilha
+    todos_dados = {}
+    for arquivo, tipo_planilha in arquivos_processados:
+        dados = processar_planilha_individual(arquivo, tipo_planilha)
+        todos_dados.update(dados)
+    
     # Salva JSONs agrupados por UF e tipo
     print("\n" + "="*70)
     print(" SALVANDO ARQUIVOS JSON")
@@ -283,7 +345,7 @@ def processar_planilha():
     total_registros = 0
     total_arquivos = 0
     
-    for (uf, tipo), dfs in dados_por_uf_tipo.items():
+    for (uf, tipo), dfs in todos_dados.items():
         df_final = pd.concat(dfs, ignore_index=True)
         salvar_json(df_final, uf, tipo)
         total_registros += len(df_final)
