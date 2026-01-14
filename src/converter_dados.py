@@ -15,7 +15,7 @@ if sys.platform == 'win32':
 
 # Configuração de caminhos
 BASE_DIR = Path(__file__).parent.parent
-ARQUIVO_EXCEL = BASE_DIR / 'data' / 'input' / 'DR_Rubens.xlsx'
+ARQUIVO_EXCEL = BASE_DIR / 'data' / 'input' / 'CMI_Mil_Br_0_4.xlsx'
 OUTPUT_DIR_NV = BASE_DIR / 'data' / 'output' / 'nascidos_vivos'
 OUTPUT_DIR_OB = BASE_DIR / 'data' / 'output' / 'obitos'
 OUTPUT_DIR_CMI = BASE_DIR / 'data' / 'output' / 'CMI'
