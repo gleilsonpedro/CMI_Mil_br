@@ -328,7 +328,7 @@ if modo_visualizacao == "CMI-Mil":
         st.markdown("---")
         st.subheader(f"Evolução Comparativa de CMI-Mil")
         
-        df_comp_estados = df_filtrado.groupby(['Ano', 'UF'])['Valor'].sum().reset_index()
+        df_comp_estados = df_filtrado.groupby(['Ano', 'UF'])['Valor'].mean().reset_index()
         
         fig_estados = px.line(
             df_comp_estados,
@@ -337,7 +337,7 @@ if modo_visualizacao == "CMI-Mil":
             color='UF',
             title=f"Comparação de CMI-Mil entre Estados ({anos_selecionados[0]}-{anos_selecionados[1]})",
             markers=True,
-            labels={'Valor': 'Total de CMI-Mil', 'UF': 'Estado'},
+            labels={'Valor': 'CMI-Mil (Média)', 'UF': 'Estado'},
             color_discrete_sequence=COLOR_SCALE
         )
         fig_estados.update_layout(
@@ -355,16 +355,16 @@ if modo_visualizacao == "CMI-Mil":
         col1, col2 = st.columns(2)
         
         with col1:
-            st.subheader("Total por Estado")
-            df_total_estados = df_filtrado.groupby('UF')['Valor'].sum().reset_index().sort_values('Valor', ascending=False)
+            st.subheader("Média CMI-Mil por Estado")
+            df_total_estados = df_filtrado.groupby('UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
             
             fig_bar = px.bar(
                 df_total_estados,
                 x='UF',
                 y='Valor',
                 color='UF',
-                title=f"Total de CMI-Mil por Estado",
-                labels={'Valor': 'Total de CMI-Mil', 'UF': 'Estado'},
+                title=f"Média CMI-Mil por Estado",
+                labels={'Valor': 'CMI-Mil (Média)', 'UF': 'Estado'},
                 color_discrete_sequence=COLOR_SCALE
             )
             fig_bar.update_layout(
@@ -475,7 +475,7 @@ if modo_visualizacao == "CMI-Mil":
         st.markdown("---")
         st.subheader(f"Evolução Comparativa de CMI-Mil")
         
-        df_comp_mun = df_filtrado.groupby(['Ano', 'Municipio_UF'])['Valor'].sum().reset_index()
+        df_comp_mun = df_filtrado.groupby(['Ano', 'Municipio_UF'])['Valor'].mean().reset_index()
         
         fig_mun = px.line(
             df_comp_mun,
@@ -484,7 +484,7 @@ if modo_visualizacao == "CMI-Mil":
             color='Municipio_UF',
             title=f"Comparação de CMI-Mil entre Municípios ({anos_selecionados[0]}-{anos_selecionados[1]})",
             markers=True,
-            labels={'Valor': 'Total de CMI-Mil', 'Municipio_UF': 'Município'},
+            labels={'Valor': 'CMI-Mil (Média)', 'Municipio_UF': 'Município'},
             color_discrete_sequence=COLOR_SCALE
         )
         fig_mun.update_layout(
@@ -494,50 +494,31 @@ if modo_visualizacao == "CMI-Mil":
         st.plotly_chart(fig_mun, width='stretch')
         
         # Gráfico de barras comparativo
-        col1, col2 = st.columns(2)
+        st.subheader("Média CMI-Mil por Município")
+        df_total_mun = df_filtrado.groupby('Municipio_UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
         
-        with col1:
-            st.subheader("Total por Município")
-            df_total_mun = df_filtrado.groupby('Municipio_UF')['Valor'].sum().reset_index().sort_values('Valor', ascending=False)
-            
-            fig_bar_mun = px.bar(
-                df_total_mun,
-                y='Municipio_UF',
-                x='Valor',
-                orientation='h',
-                color='Municipio_UF',
-                title=f"Total de CMI-Mil por Município",
-                labels={'Valor': 'Total de CMI-Mil', 'Municipio_UF': 'Município'},
-                color_discrete_sequence=COLOR_SCALE
-            )
-            fig_bar_mun.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
-            st.plotly_chart(fig_bar_mun, width='stretch')
-        
-        with col2:
-            st.subheader("Média Anual")
-            df_media_mun = df_filtrado.groupby('Municipio_UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
-            
-            fig_media = px.bar(
-                df_media_mun,
-                y='Municipio_UF',
-                x='Valor',
-                orientation='h',
-                color='Municipio_UF',
-                title="Média Anual por Município",
-                labels={'Valor': 'Média Anual', 'Municipio_UF': 'Município'}
-            )
-            fig_media.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
-            st.plotly_chart(fig_media, width='stretch')
+        fig_bar_mun = px.bar(
+            df_total_mun,
+            y='Municipio_UF',
+            x='Valor',
+            orientation='h',
+            color='Municipio_UF',
+            title=f"Média CMI-Mil por Município",
+            labels={'Valor': 'CMI-Mil (Média)', 'Municipio_UF': 'Município'},
+            color_discrete_sequence=COLOR_SCALE
+        )
+        fig_bar_mun.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
+        st.plotly_chart(fig_bar_mun, use_container_width=True)
         
         # Tabela de dados
         st.markdown("---")
         st.subheader("Dados Comparativos")
         
         df_resumo_mun = df_filtrado.groupby(['Municipio_UF', 'UF']).agg({
-            'Valor': ['sum', 'mean', 'min', 'max']
-        }).round(0)
-        df_resumo_mun.columns = ['Total', 'Média Anual', 'Mínimo', 'Máximo']
-        df_resumo_mun = df_resumo_mun.sort_values('Total', ascending=False)
+            'Valor': ['mean', 'min', 'max']
+        }).round(2)
+        df_resumo_mun.columns = ['Média CMI', 'Mínimo', 'Máximo']
+        df_resumo_mun = df_resumo_mun.sort_values('Média CMI', ascending=False)
         
         st.dataframe(df_resumo_mun, width='stretch')
         
@@ -633,17 +614,17 @@ elif modo_visualizacao == "CMI":
         st.markdown("### 📊 Métricas Gerais")
         col1, col2, col3, col4 = st.columns(4)
         
-        total_cmi_mil = df_cmi_mil_filtrado['Valor'].sum()
-        total_cmi = df_cmi_filtrado['Valor'].sum()
-        diferenca = total_cmi_mil - total_cmi
-        perc_diferenca = (diferenca / total_cmi * 100) if total_cmi > 0 else 0
+        media_cmi_mil = df_cmi_mil_filtrado['Valor'].mean()
+        media_cmi = df_cmi_filtrado['Valor'].mean()
+        diferenca = media_cmi_mil - media_cmi
+        perc_diferenca = (diferenca / media_cmi * 100) if media_cmi > 0 else 0
         
         with col1:
-            st.metric("🔵 Total CMI-Mil", f"{total_cmi_mil:,.0f}".replace(",", "."))
+            st.metric("🔵 Média CMI-Mil", f"{media_cmi_mil:.2f}")
         with col2:
-            st.metric("🟢 Total CMI", f"{total_cmi:,.0f}".replace(",", "."))
+            st.metric("🟢 Média CMI", f"{media_cmi:.2f}")
         with col3:
-            st.metric("Diferença Absoluta", f"{diferenca:,.0f}".replace(",", "."))
+            st.metric("Diferença Absoluta", f"{diferenca:.2f}")
         with col4:
             st.metric("Diferença (%)", f"{perc_diferenca:+.2f}%")
         
@@ -652,8 +633,8 @@ elif modo_visualizacao == "CMI":
         st.subheader("📈 Evolução Temporal: CMI vs CMI-Mil")
         
         # Agrupa dados por ano
-        df_cmi_mil_ano = df_cmi_mil_filtrado.groupby('Ano')['Valor'].sum().reset_index()
-        df_cmi_ano = df_cmi_filtrado.groupby('Ano')['Valor'].sum().reset_index()
+        df_cmi_mil_ano = df_cmi_mil_filtrado.groupby('Ano')['Valor'].mean().reset_index()
+        df_cmi_ano = df_cmi_filtrado.groupby('Ano')['Valor'].mean().reset_index()
         
         # Combina os dados
         df_cmi_mil_ano['Indicador'] = 'CMI-Mil'
@@ -667,7 +648,7 @@ elif modo_visualizacao == "CMI":
             color='Indicador',
             title=f"Comparação CMI vs CMI-Mil ({anos_selecionados[0]}-{anos_selecionados[1]})",
             markers=True,
-            labels={'Valor': 'Total', 'Indicador': 'Indicador'},
+            labels={'Valor': 'CMI (Média)', 'Indicador': 'Indicador'},
             color_discrete_map={'CMI-Mil': '#3b82f6', 'CMI': '#10b981'}
         )
         fig_comp.update_layout(
@@ -686,15 +667,15 @@ elif modo_visualizacao == "CMI":
         
         with col1:
             st.markdown("#### 🔵 CMI-Mil por Estado")
-            df_total_cmi_mil = df_cmi_mil_filtrado.groupby('UF')['Valor'].sum().reset_index().sort_values('Valor', ascending=False)
+            df_total_cmi_mil = df_cmi_mil_filtrado.groupby('UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
             
             fig_bar_mil = px.bar(
                 df_total_cmi_mil,
                 x='UF',
                 y='Valor',
                 color='UF',
-                title="Total de CMI-Mil por Estado",
-                labels={'Valor': 'Total CMI-Mil', 'UF': 'Estado'},
+                title="Média CMI-Mil por Estado",
+                labels={'Valor': 'CMI-Mil (Média)', 'UF': 'Estado'},
                 color_discrete_sequence=COLOR_SCALE
             )
             fig_bar_mil.update_layout(
@@ -708,15 +689,15 @@ elif modo_visualizacao == "CMI":
         
         with col2:
             st.markdown("#### 🟢 CMI por Estado")
-            df_total_cmi = df_cmi_filtrado.groupby('UF')['Valor'].sum().reset_index().sort_values('Valor', ascending=False)
+            df_total_cmi = df_cmi_filtrado.groupby('UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
             
             fig_bar_cmi = px.bar(
                 df_total_cmi,
                 x='UF',
                 y='Valor',
                 color='UF',
-                title="Total de CMI por Estado",
-                labels={'Valor': 'Total CMI', 'UF': 'Estado'},
+                title="Média CMI por Estado",
+                labels={'Valor': 'CMI (Média)', 'UF': 'Estado'},
                 color_discrete_sequence=COLOR_SCALE
             )
             fig_bar_cmi.update_layout(
@@ -732,14 +713,16 @@ elif modo_visualizacao == "CMI":
         st.markdown("---")
         st.subheader("📋 Tabela Comparativa: CMI vs CMI-Mil")
         
-        df_resumo_mil = df_cmi_mil_filtrado.groupby('UF')['Valor'].sum().reset_index()
+        df_resumo_mil = df_cmi_mil_filtrado.groupby('UF')['Valor'].mean().reset_index()
         df_resumo_mil.columns = ['UF', 'CMI-Mil']
+        df_resumo_mil['CMI-Mil'] = df_resumo_mil['CMI-Mil'].round(2)
         
-        df_resumo_cmi = df_cmi_filtrado.groupby('UF')['Valor'].sum().reset_index()
+        df_resumo_cmi = df_cmi_filtrado.groupby('UF')['Valor'].mean().reset_index()
         df_resumo_cmi.columns = ['UF', 'CMI']
+        df_resumo_cmi['CMI'] = df_resumo_cmi['CMI'].round(2)
         
         df_resumo_comp = pd.merge(df_resumo_mil, df_resumo_cmi, on='UF')
-        df_resumo_comp['Diferença'] = df_resumo_comp['CMI-Mil'] - df_resumo_comp['CMI']
+        df_resumo_comp['Diferença'] = (df_resumo_comp['CMI-Mil'] - df_resumo_comp['CMI']).round(2)
         df_resumo_comp['Diferença %'] = ((df_resumo_comp['CMI-Mil'] - df_resumo_comp['CMI']) / df_resumo_comp['CMI'] * 100).round(2)
         df_resumo_comp = df_resumo_comp.sort_values('CMI-Mil', ascending=False)
         
@@ -808,15 +791,15 @@ elif modo_visualizacao == "CMI":
         cols = st.columns(min(len(municipios_cmi_selecionados), 4))
         for idx, mun in enumerate(municipios_cmi_selecionados[:4]):
             df_mun = df_cmi_filtrado[df_cmi_filtrado['Municipio_UF'] == mun]
-            total = df_mun['Valor'].sum()
+            media = df_mun['Valor'].mean()
             with cols[idx]:
-                st.metric(mun.split(' - ')[0][:15] + '...', f"{total:,.0f}".replace(",", "."))
+                st.metric(mun.split(' - ')[0][:15] + '...', f"{media:.2f}")
         
         # Gráfico de comparação temporal
         st.markdown("---")
         st.subheader(f"Evolução Comparativa de Dados CMI")
         
-        df_comp_mun_cmi = df_cmi_filtrado.groupby(['Ano', 'Municipio_UF'])['Valor'].sum().reset_index()
+        df_comp_mun_cmi = df_cmi_filtrado.groupby(['Ano', 'Municipio_UF'])['Valor'].mean().reset_index()
         
         fig_mun_cmi = px.line(
             df_comp_mun_cmi,
@@ -825,7 +808,7 @@ elif modo_visualizacao == "CMI":
             color='Municipio_UF',
             title=f"Comparação de Dados CMI entre Municípios ({anos_selecionados[0]}-{anos_selecionados[1]})",
             markers=True,
-            labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'},
+            labels={'Valor': 'CMI (Média)', 'Municipio_UF': 'Município'},
             color_discrete_sequence=COLOR_SCALE
         )
         fig_mun_cmi.update_layout(
@@ -835,51 +818,31 @@ elif modo_visualizacao == "CMI":
         st.plotly_chart(fig_mun_cmi, width='stretch')
         
         # Gráfico de barras comparativo
-        col1, col2 = st.columns(2)
+        st.subheader("Média CMI por Município")
+        df_total_mun_cmi = df_cmi_filtrado.groupby('Municipio_UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
         
-        with col1:
-            st.subheader("Total por Município")
-            df_total_mun_cmi = df_cmi_filtrado.groupby('Municipio_UF')['Valor'].sum().reset_index().sort_values('Valor', ascending=False)
-            
-            fig_bar_mun_cmi = px.bar(
-                df_total_mun_cmi,
-                y='Municipio_UF',
-                x='Valor',
-                orientation='h',
-                color='Municipio_UF',
-                title=f"Total de Dados CMI por Município",
-                labels={'Valor': 'Total CMI', 'Municipio_UF': 'Município'},
-                color_discrete_sequence=COLOR_SCALE
-            )
-            fig_bar_mun_cmi.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
-            st.plotly_chart(fig_bar_mun_cmi, width='stretch')
-        
-        with col2:
-            st.subheader("Média Anual")
-            df_media_mun_cmi = df_cmi_filtrado.groupby('Municipio_UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
-            
-            fig_media_cmi = px.bar(
-                df_media_mun_cmi,
-                y='Municipio_UF',
-                x='Valor',
-                orientation='h',
-                color='Municipio_UF',
-                title="Média Anual por Município",
-                labels={'Valor': 'Média Anual', 'Municipio_UF': 'Município'},
-                color_discrete_sequence=COLOR_SCALE
-            )
-            fig_media_cmi.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
-            st.plotly_chart(fig_media_cmi, width='stretch')
+        fig_bar_mun_cmi = px.bar(
+            df_total_mun_cmi,
+            y='Municipio_UF',
+            x='Valor',
+            orientation='h',
+            color='Municipio_UF',
+            title=f"Média CMI por Município",
+            labels={'Valor': 'CMI (Média)', 'Municipio_UF': 'Município'},
+            color_discrete_sequence=COLOR_SCALE
+        )
+        fig_bar_mun_cmi.update_layout(showlegend=False, yaxis={'categoryorder': 'total ascending'})
+        st.plotly_chart(fig_bar_mun_cmi, use_container_width=True)
         
         # Tabela de dados
         st.markdown("---")
         st.subheader("Dados Comparativos CMI")
         
         df_resumo_mun_cmi = df_cmi_filtrado.groupby(['Municipio_UF', 'UF']).agg({
-            'Valor': ['sum', 'mean', 'min', 'max']
-        }).round(0)
-        df_resumo_mun_cmi.columns = ['Total', 'Média Anual', 'Mínimo', 'Máximo']
-        df_resumo_mun_cmi = df_resumo_mun_cmi.sort_values('Total', ascending=False)
+            'Valor': ['mean', 'min', 'max']
+        }).round(2)
+        df_resumo_mun_cmi.columns = ['Média CMI', 'Mínimo', 'Máximo']
+        df_resumo_mun_cmi = df_resumo_mun_cmi.sort_values('Média CMI', ascending=False)
         
         st.dataframe(df_resumo_mun_cmi, width='stretch')
         
