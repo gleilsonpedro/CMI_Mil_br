@@ -287,7 +287,7 @@ st.sidebar.title("Configurações")
 # Modo de visualização
 modo_visualizacao = st.sidebar.radio(
     "Modo de Visualização",
-    ["CMI-Mil", "CMI", "Nascidos Vivos", "Óbitos"],
+    ["CMI-Mil", "CMI", "Nascidos Vivos", "Óbitos", "Nascidos Vivos vs Óbitos"],
     index=0
 )
 
@@ -305,75 +305,28 @@ if modo_visualizacao == "CMI-Mil":
     # Define tipo de dado como CMI-Mil
     tipo_dado = "CMI-Mil"
     tipo_cod = 'CMI-Mil'
+    tem_municipios = False  # CMI-Mil não tem dados de municípios
     
-    st.sidebar.info("Selecione estados e/ou municípios para comparação")
+    # CMI-Mil só tem dados de estados, não exibe opção de municípios
+    tipo_comparacao = "Estados"
     
-    # Seleção de Estados
+    # Seleciona múltiplos estados
     ufs_selecionadas = st.sidebar.multiselect(
-        "Estados para Comparar",
+        "Selecione os Estados para Comparar",
         ufs_disponiveis,
-        default=[]
+        default=ufs_disponiveis[:3] if len(ufs_disponiveis) >= 3 else ufs_disponiveis
     )
     
-    # Seleção de Municípios (de todos os estados disponíveis)
-    st.sidebar.markdown("---")
-    st.sidebar.markdown("**Municípios para Comparar**")
-    
-    # Carrega municípios de todos os estados disponíveis
-    df_temp = carregar_dados_multiplas_ufs(ufs_disponiveis, tipo_cod)
-    
-    municipios_selecionados = []
-    if df_temp is not None and len(df_temp) > 0:
-        # Cria lista de municípios com UF para identificação
-        df_temp['Municipio_UF'] = df_temp['Municipio'] + ' - ' + df_temp['UF']
-        municipios_disponiveis = sorted(df_temp['Municipio_UF'].unique())
-        
-        municipios_selecionados = st.sidebar.multiselect(
-            "Selecione os Municípios (de qualquer estado)",
-            municipios_disponiveis,
-            default=[]
-        )
-    
-    # Verifica se algo foi selecionado
-    if not ufs_selecionadas and not municipios_selecionados:
-        st.warning("Selecione pelo menos um estado ou município para comparar")
+    if not ufs_selecionadas:
+        st.warning("Selecione pelo menos um estado para comparar")
         st.stop()
     
-    # Carrega todos os dados necessários
-    dfs_carregar = []
+    # Carrega dados de todos os estados selecionados
+    df = carregar_dados_multiplas_ufs(ufs_selecionadas, tipo_cod)
     
-    # Carrega dados dos estados selecionados
-    if ufs_selecionadas:
-        for uf in ufs_selecionadas:
-            df_uf = carregar_dados_uf(uf, tipo_cod)
-            if df_uf is not None:
-                # Adiciona marcador de tipo (Estado)
-                df_uf['Entidade'] = uf
-                df_uf['Tipo_Entidade'] = 'Estado'
-                dfs_carregar.append(df_uf)
-    
-    # Carrega dados dos municípios selecionados
-    if municipios_selecionados:
-        # Identifica quais UFs precisamos carregar para os municípios
-        ufs_municipios = set([m.split(' - ')[-1] for m in municipios_selecionados])
-        
-        for uf in ufs_municipios:
-            df_uf = carregar_dados_uf(uf, tipo_cod)
-            if df_uf is not None:
-                df_uf['Municipio_UF'] = df_uf['Municipio'] + ' - ' + df_uf['UF']
-                # Filtra apenas os municípios selecionados
-                df_uf_filtrado = df_uf[df_uf['Municipio_UF'].isin(municipios_selecionados)].copy()
-                if len(df_uf_filtrado) > 0:
-                    df_uf_filtrado['Entidade'] = df_uf_filtrado['Municipio_UF']
-                    df_uf_filtrado['Tipo_Entidade'] = 'Município'
-                    dfs_carregar.append(df_uf_filtrado)
-    
-    if not dfs_carregar:
-        st.error("Não há dados disponíveis para as seleções")
+    if df is None or len(df) == 0:
+        st.error(f"Não há dados de CMI-Mil para os estados selecionados")
         st.stop()
-    
-    # Combina todos os dados
-    df = pd.concat(dfs_carregar, ignore_index=True)
     
     # Filtro de Anos
     anos_disponiveis = sorted(df['Ano'].unique())
@@ -393,102 +346,95 @@ if modo_visualizacao == "CMI-Mil":
         (df['Ano'] <= anos_selecionados[1])
     ]
     
-    # ===== VISUALIZAÇÃO =====
-    st.title("Análise CMI-Mil")
-    st.markdown(f"### Comparação: {len(ufs_selecionadas)} Estados + {len(municipios_selecionados)} Municípios")
-    st.info("**CMI-Mil**: Coeficiente de Mortalidade Infantil a cada mil óbitos. Os valores não são somados, representam o valor direto da célula.")
+    # ===== VISUALIZAÇÃO COMPARAÇÃO DE ESTADOS CMI-Mil =====
+    st.title("Comparação entre Estados - CMI-Mil")
+    st.markdown(f"### Análise de CMI-Mil - {len(ufs_selecionadas)} Estados")
     
-    # Métricas
+    # Métricas por estado
     st.markdown("---")
-    entidades = df_filtrado['Entidade'].unique()
-    if len(entidades) <= 4:
-        cols = st.columns(len(entidades))
-        for idx, entidade in enumerate(entidades):
-            df_ent = df_filtrado[df_filtrado['Entidade'] == entidade]
-            media = df_ent['Valor'].mean()
-            with cols[idx]:
-                nome_curto = entidade.split(' - ')[0][:15] if ' - ' in entidade else entidade
-                st.metric(nome_curto, f"{media:.2f}")
+    cols = st.columns(min(len(ufs_selecionadas), 4))
+    for idx, uf in enumerate(ufs_selecionadas[:4]):
+        df_uf = df_filtrado[df_filtrado['UF'] == uf]
+        total = df_uf['Valor'].mean()
+        with cols[idx]:
+            st.metric(uf, f"{total:.2f}")
     
     # Gráfico de comparação temporal
     st.markdown("---")
-    st.subheader("Evolução Temporal de CMI-Mil")
+    st.subheader(f"Evolução Comparativa de CMI-Mil")
     
-    # Agrupa por ano e entidade (média para estados, valor direto para municípios)
-    df_comp = df_filtrado.groupby(['Ano', 'Entidade', 'Tipo_Entidade'])['Valor'].mean().reset_index()
+    df_comp_estados = df_filtrado.groupby(['Ano', 'UF'])['Valor'].mean().reset_index()
     
-    fig = px.line(
-        df_comp,
+    fig_estados = px.line(
+        df_comp_estados,
         x='Ano',
         y='Valor',
-        color='Entidade',
-        title=f"Comparação de CMI-Mil ({anos_selecionados[0]}-{anos_selecionados[1]})",
+        color='UF',
+        title=f"Comparação de CMI-Mil entre Estados ({anos_selecionados[0]}-{anos_selecionados[1]})",
         markers=True,
-        labels={'Valor': 'CMI-Mil', 'Entidade': 'Estado/Município'},
+        labels={'Valor': 'CMI-Mil', 'UF': 'Estado'},
         color_discrete_sequence=COLOR_SCALE
     )
-    fig.update_layout(
+    fig_estados.update_layout(
         hovermode='x unified',
-        legend=dict(orientation="v", yanchor="top", y=1, xanchor="left", x=1.02),
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(size=12),
-        height=600
+        font=dict(size=12)
     )
-    fig.update_xaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
-    fig.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
-    st.plotly_chart(fig, use_container_width=True)
+    fig_estados.update_xaxes(showgrid=True, gridwidth=1, gridcolor='#e5e7eb')
+    fig_estados.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#e5e7eb')
+    st.plotly_chart(fig_estados, use_container_width=True)
     
-    # Gráficos comparativos
+    # Gráfico de barras comparativo
     col1, col2 = st.columns(2)
     
     with col1:
-        st.subheader("Média CMI-Mil por Entidade")
-        df_media = df_filtrado.groupby(['Entidade', 'Tipo_Entidade'])['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
+        st.subheader("Média CMI-Mil por Estado")
+        df_total_estados = df_filtrado.groupby('UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
         
         fig_bar = px.bar(
-            df_media,
-            y='Entidade',
-            x='Valor',
-            orientation='h',
-            color='Tipo_Entidade',
-            title="Média CMI-Mil no Período",
-            labels={'Valor': 'CMI-Mil', 'Entidade': 'Estado/Município', 'Tipo_Entidade': 'Tipo'},
-            color_discrete_map={'Estado': '#3b82f6', 'Município': '#10b981'}
+            df_total_estados,
+            x='UF',
+            y='Valor',
+            color='UF',
+            title=f"Média CMI-Mil por Estado",
+            labels={'Valor': 'CMI-Mil', 'UF': 'Estado'},
+            color_discrete_sequence=COLOR_SCALE
         )
         fig_bar.update_layout(
-            yaxis={'categoryorder': 'total ascending'},
+            showlegend=False,
             plot_bgcolor='rgba(0,0,0,0)',
             paper_bgcolor='rgba(0,0,0,0)'
         )
-        fig_bar.update_xaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
+        fig_bar.update_xaxes(showgrid=False)
+        fig_bar.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#e5e7eb')
         st.plotly_chart(fig_bar, use_container_width=True)
     
     with col2:
-        st.subheader("Distribuição de Valores")
-        fig_box = px.box(
-            df_filtrado,
-            y='Entidade',
-            x='Valor',
-            color='Tipo_Entidade',
-            title="Distribuição de CMI-Mil",
-            labels={'Valor': 'CMI-Mil', 'Entidade': 'Estado/Município'},
-            color_discrete_map={'Estado': '#3b82f6', 'Município': '#10b981'}
+        st.subheader("Distribuição Percentual")
+        fig_pie = px.pie(
+            df_total_estados,
+            values='Valor',
+            names='UF',
+            title=f"Participação de cada Estado",
+            color_discrete_sequence=COLOR_SCALE
         )
-        fig_box.update_layout(
+        fig_pie.update_traces(textposition='inside', textinfo='percent+label')
+        fig_pie.update_layout(
             plot_bgcolor='rgba(0,0,0,0)',
             paper_bgcolor='rgba(0,0,0,0)'
         )
-        st.plotly_chart(fig_box, use_container_width=True)
+        st.plotly_chart(fig_pie, use_container_width=True)
     
     # Tabela de dados
     st.markdown("---")
-    st.subheader("Resumo Estatístico")
+    st.subheader("Dados Comparativos")
     
-    df_resumo = df_filtrado.groupby(['Entidade', 'Tipo_Entidade']).agg({
-        'Valor': ['mean', 'min', 'max', 'std']
+    df_resumo = df_filtrado.groupby('UF').agg({
+        'Valor': ['mean', 'min', 'max']
     }).round(2)
-    df_resumo.columns = ['Média', 'Mínimo', 'Máximo', 'Desvio Padrão']
+    df_resumo.columns = ['Média', 'Mínimo', 'Máximo']
     df_resumo = df_resumo.sort_values('Média', ascending=False)
     
     st.dataframe(df_resumo, use_container_width=True)
@@ -509,89 +455,23 @@ elif modo_visualizacao == "CMI":
         st.info("Execute primeiro o script converter_dados.py para ambas as planilhas.")
         st.stop()
     
-    st.sidebar.info("Selecione estados e/ou municípios para comparar CMI vs CMI-Mil")
+    # CMI só tem dados de estados, não exibe opção de municípios
+    tipo_comparacao_cmi = "Estados"
     
-    # Seleção de Estados
-    ufs_selecionadas = st.sidebar.multiselect(
-        "Estados para Comparar",
+    # Seleciona múltiplos estados CMI
+    ufs_cmi_selecionadas = st.sidebar.multiselect(
+        "Selecione os Estados para Comparar",
         ufs_comuns,
-        default=[]
+        default=ufs_comuns[:3] if len(ufs_comuns) >= 3 else ufs_comuns
     )
     
-    # Seleção de Municípios (de todos os estados disponíveis)
-    st.sidebar.markdown("---")
-    st.sidebar.markdown("**Municípios para Comparar**")
-    
-    # Carrega municípios de todos os estados disponíveis
-    df_temp = carregar_dados_multiplas_ufs(ufs_comuns, 'CMI-Mil')
-    
-    municipios_selecionados = []
-    if df_temp is not None and len(df_temp) > 0:
-        df_temp['Municipio_UF'] = df_temp['Municipio'] + ' - ' + df_temp['UF']
-        municipios_disponiveis = sorted(df_temp['Municipio_UF'].unique())
-        
-        municipios_selecionados = st.sidebar.multiselect(
-            "Selecione os Municípios (de qualquer estado)",
-            municipios_disponiveis,
-            default=[]
-        )
-    
-    # Verifica se algo foi selecionado
-    if not ufs_selecionadas and not municipios_selecionados:
-        st.warning("Selecione pelo menos um estado ou município para comparar")
+    if not ufs_cmi_selecionadas:
+        st.warning("Selecione pelo menos um estado para comparar")
         st.stop()
     
-    # Carrega dados CMI e CMI-Mil para as seleções
-    dfs_cmi_mil = []
-    dfs_cmi = []
-    
-    # Carrega dados dos estados selecionados
-    if ufs_selecionadas:
-        for uf in ufs_selecionadas:
-            df_mil = carregar_dados_uf(uf, 'CMI-Mil')
-            df_cm = carregar_dados_uf(uf, 'CMI')
-            
-            if df_mil is not None:
-                df_mil['Entidade'] = uf
-                df_mil['Tipo_Entidade'] = 'Estado'
-                dfs_cmi_mil.append(df_mil)
-            
-            if df_cm is not None:
-                df_cm['Entidade'] = uf
-                df_cm['Tipo_Entidade'] = 'Estado'
-                dfs_cmi.append(df_cm)
-    
-    # Carrega dados dos municípios selecionados
-    if municipios_selecionados:
-        ufs_municipios = set([m.split(' - ')[-1] for m in municipios_selecionados])
-        
-        for uf in ufs_municipios:
-            df_mil = carregar_dados_uf(uf, 'CMI-Mil')
-            df_cm = carregar_dados_uf(uf, 'CMI')
-            
-            if df_mil is not None:
-                df_mil['Municipio_UF'] = df_mil['Municipio'] + ' - ' + df_mil['UF']
-                df_mil_filtrado = df_mil[df_mil['Municipio_UF'].isin(municipios_selecionados)].copy()
-                if len(df_mil_filtrado) > 0:
-                    df_mil_filtrado['Entidade'] = df_mil_filtrado['Municipio_UF']
-                    df_mil_filtrado['Tipo_Entidade'] = 'Município'
-                    dfs_cmi_mil.append(df_mil_filtrado)
-            
-            if df_cm is not None:
-                df_cm['Municipio_UF'] = df_cm['Municipio'] + ' - ' + df_cm['UF']
-                df_cm_filtrado = df_cm[df_cm['Municipio_UF'].isin(municipios_selecionados)].copy()
-                if len(df_cm_filtrado) > 0:
-                    df_cm_filtrado['Entidade'] = df_cm_filtrado['Municipio_UF']
-                    df_cm_filtrado['Tipo_Entidade'] = 'Município'
-                    dfs_cmi.append(df_cm_filtrado)
-    
-    if not dfs_cmi_mil or not dfs_cmi:
-        st.error("Não há dados disponíveis para as seleções")
-        st.stop()
-    
-    # Combina dados
-    df_cmi_mil = pd.concat(dfs_cmi_mil, ignore_index=True)
-    df_cmi = pd.concat(dfs_cmi, ignore_index=True)
+    # Carrega dados de todos os estados selecionados (ambos CMI e CMI-Mil)
+    df_cmi_mil = carregar_dados_multiplas_ufs(ufs_cmi_selecionadas, 'CMI-Mil')
+    df_cmi = carregar_dados_multiplas_ufs(ufs_cmi_selecionadas, 'CMI')
     
     if df_cmi_mil is None or len(df_cmi_mil) == 0 or df_cmi is None or len(df_cmi) == 0:
         st.error("Não há dados CMI ou CMI-Mil para os estados selecionados")
@@ -627,13 +507,14 @@ elif modo_visualizacao == "CMI":
         (df_cmi['Ano'] <= anos_selecionados[1])
     ]
     
-    # ===== VISUALIZAÇÃO =====
+    # ===== VISUALIZAÇÃO COMPARAÇÃO CMI vs CMI-Mil POR ESTADOS =====
     st.title("Comparação CMI vs CMI-Mil")
-    st.markdown(f"### {len(ufs_selecionadas)} Estados + {len(municipios_selecionados)} Municípios")
-    st.info("**CMI (verde)** vs **CMI-Mil (laranja)** | Mesmo padrão de linha = mesma entidade")
-    
-    # Métricas gerais
+    st.markdown(f"### Análise Comparativa dos Indicadores - {len(ufs_cmi_selecionadas)} Estados")
     st.markdown("---")
+    st.info("**CMI**: Coeficiente de Mortalidade Infantil | **CMI-Mil**: CMI a cada mil óbitos regressivos, trazendo consistência aos dados")
+    
+    # Métricas comparativas gerais
+    st.markdown("### Métricas Gerais")
     col1, col2, col3, col4 = st.columns(4)
     
     media_cmi_mil = df_cmi_mil_filtrado['Valor'].mean()
@@ -646,128 +527,104 @@ elif modo_visualizacao == "CMI":
     with col2:
         st.metric("Média CMI", f"{media_cmi:.2f}")
     with col3:
-        st.metric("Diferença", f"{diferenca:.2f}")
+        st.metric("Diferença Absoluta", f"{diferenca:.2f}")
     with col4:
-        st.metric("Diferença %", f"{perc_diferenca:+.2f}%")
+        st.metric("Diferença (%)", f"{perc_diferenca:+.2f}%")
     
-    # Gráfico comparativo principal - cada entidade com suas 2 linhas
+    # Gráfico de comparação temporal entre CMI e CMI-Mil
     st.markdown("---")
-    st.subheader("Comparação CMI vs CMI-Mil por Entidade")
+    st.subheader("Evolução Temporal: CMI vs CMI-Mil")
     
-    # Prepara dados para o gráfico
-    df_mil_plot = df_cmi_mil_filtrado.groupby(['Ano', 'Entidade'])['Valor'].mean().reset_index()
-    df_mil_plot['Indicador'] = 'CMI-Mil'
-    df_mil_plot['Entidade_Indicador'] = df_mil_plot['Entidade'] + ' (CMI-Mil)'
+    # Agrupa dados por ano
+    df_cmi_mil_ano = df_cmi_mil_filtrado.groupby('Ano')['Valor'].mean().reset_index()
+    df_cmi_ano = df_cmi_filtrado.groupby('Ano')['Valor'].mean().reset_index()
     
-    df_cmi_plot = df_cmi_filtrado.groupby(['Ano', 'Entidade'])['Valor'].mean().reset_index()
-    df_cmi_plot['Indicador'] = 'CMI'
-    df_cmi_plot['Entidade_Indicador'] = df_cmi_plot['Entidade'] + ' (CMI)'
+    # Combina os dados
+    df_cmi_mil_ano['Indicador'] = 'CMI-Mil'
+    df_cmi_ano['Indicador'] = 'CMI'
+    df_combined = pd.concat([df_cmi_mil_ano, df_cmi_ano])
     
-    df_combined = pd.concat([df_mil_plot, df_cmi_plot])
-    
-    # Cria gráfico com cores únicas para cada combinação entidade+indicador
-    fig = px.line(
+    fig_comp = px.line(
         df_combined,
         x='Ano',
         y='Valor',
-        color='Entidade_Indicador',
+        color='Indicador',
+        title=f"Comparação CMI vs CMI-Mil ({anos_selecionados[0]}-{anos_selecionados[1]})",
         markers=True,
-        color_discrete_sequence=COLOR_SCALE
-    
+        labels={'Valor': 'Taxa', 'Indicador': 'Indicador'},
+        color_discrete_map={'CMI-Mil': '#3b82f6', 'CMI': '#10b981'}
     )
-    fig.update_layout(
-        title=f"CMI vs CMI-Mil ({anos_selecionados[0]}-{anos_selecionados[1]})",
-        xaxis_title="Ano",
-        yaxis_title="Valor",
+    fig_comp.update_layout(
         hovermode='x unified',
-        legend=dict(
-            orientation="v", 
-            yanchor="top", 
-            y=1, 
-            xanchor="left", 
-            x=1.02,
-            title_text="Entidade - Indicador"
-        ),
-        plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor='rgba(0,0,0,0)',
-        height=700
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        height=500
     )
-    fig.update_traces(line=dict(width=3), marker=dict(size=8))
-    fig.update_xaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
-    fig.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
+    fig_comp.update_traces(line=dict(width=3))
+    st.plotly_chart(fig_comp, use_container_width=True)
     
-    st.plotly_chart(fig, use_container_width=True)
+    # Gráficos de barras comparativos lado a lado
+    st.markdown("---")
+    st.subheader("Comparação por Estado")
     
-    # Gráficos comparativos
     col1, col2 = st.columns(2)
     
     with col1:
-        st.subheader("Média por Entidade")
-        df_media_mil = df_cmi_mil_filtrado.groupby('Entidade')['Valor'].mean().reset_index()
-        df_media_mil['Indicador'] = 'CMI-Mil'
-        df_media_mil['Entidade_Indicador'] = df_media_mil['Entidade'] + ' (CMI-Mil)'
+        st.markdown("#### CMI-Mil por Estado")
+        df_total_cmi_mil = df_cmi_mil_filtrado.groupby('UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
         
-        df_media_cmi = df_cmi_filtrado.groupby('Entidade')['Valor'].mean().reset_index()
-        df_media_cmi['Indicador'] = 'CMI'
-        df_media_cmi['Entidade_Indicador'] = df_media_cmi['Entidade'] + ' (CMI)'
-        
-        df_media_comp = pd.concat([df_media_mil, df_media_cmi])
-        
-        fig_bar = px.bar(
-            df_media_comp,
-            y='Entidade',
-            x='Valor',
-            color='Entidade_Indicador',
-            orientation='h',
-            title="Média no Período",
-            labels={'Valor': 'Valor Médio'},
-            color_discrete_sequence=COLOR_SCALE,
-            barmode='group'
+        fig_bar_mil = px.bar(
+            df_total_cmi_mil,
+            x='UF',
+            y='Valor',
+            color='UF',
+            title="Média CMI-Mil por Estado",
+            labels={'Valor': 'CMI-Mil', 'UF': 'Estado'},
+            color_discrete_sequence=COLOR_SCALE
         )
-        fig_bar.update_layout(
-            plot_bgcolor='rgba(0,0,0,0)',
-            paper_bgcolor='rgba(0,0,0,0)',
-            yaxis={'categoryorder': 'total ascending'},
-            showlegend=False
-        )
-        st.plotly_chart(fig_bar, use_container_width=True)
-    
-    with col2:
-        st.subheader("Diferença CMI-Mil - CMI")
-        df_dif = df_media_mil.merge(df_media_cmi, on='Entidade', suffixes=('_mil', '_cmi'))
-        df_dif['Diferença'] = df_dif['Valor_mil'] - df_dif['Valor_cmi']
-        df_dif['Cor'] = df_dif['Diferença'].apply(lambda x: 'Positiva' if x > 0 else 'Negativa')
-        
-        fig_dif = px.bar(
-            df_dif,
-            y='Entidade',
-            x='Diferença',
-            orientation='h',
-            color='Cor',
-            title="Diferença entre Indicadores",
-            color_discrete_map={'Positiva': '#10b981', 'Negativa': '#ef4444'}
-        )
-        fig_dif.update_layout(
+        fig_bar_mil.update_layout(
+            showlegend=False,
             plot_bgcolor='rgba(0,0,0,0)',
             paper_bgcolor='rgba(0,0,0,0)'
         )
-        st.plotly_chart(fig_dif, use_container_width=True)
+        fig_bar_mil.update_xaxes(showgrid=False)
+        fig_bar_mil.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
+        st.plotly_chart(fig_bar_mil, use_container_width=True)
     
-    # Tabela comparativa
+    with col2:
+        st.markdown("#### CMI por Estado")
+        df_total_cmi = df_cmi_filtrado.groupby('UF')['Valor'].mean().reset_index().sort_values('Valor', ascending=False)
+        
+        fig_bar_cmi = px.bar(
+            df_total_cmi,
+            x='UF',
+            y='Valor',
+            color='UF',
+            title="Média CMI por Estado",
+            labels={'Valor': 'CMI', 'UF': 'Estado'},
+            color_discrete_sequence=COLOR_SCALE
+        )
+        fig_bar_cmi.update_layout(
+            showlegend=False,
+            plot_bgcolor='rgba(0,0,0,0)',
+            paper_bgcolor='rgba(0,0,0,0)'
+        )
+        fig_bar_cmi.update_xaxes(showgrid=False)
+        fig_bar_cmi.update_yaxes(showgrid=True, gridwidth=1, gridcolor='#334155')
+        st.plotly_chart(fig_bar_cmi, use_container_width=True)
+    
+    # Tabela de dados comparativos
     st.markdown("---")
-    st.subheader("Tabela Comparativa Detalhada")
+    st.subheader("Tabela Comparativa: CMI vs CMI-Mil")
     
-    df_resumo_mil = df_cmi_mil_filtrado.groupby(['Entidade', 'Tipo_Entidade']).agg({
-        'Valor': 'mean'
-    }).round(2).reset_index()
-    df_resumo_mil.columns = ['Entidade', 'Tipo', 'CMI-Mil']
+    df_resumo_mil = df_cmi_mil_filtrado.groupby('UF')['Valor'].mean().reset_index()
+    df_resumo_mil.columns = ['UF', 'CMI-Mil']
+    df_resumo_mil['CMI-Mil'] = df_resumo_mil['CMI-Mil'].round(2)
     
-    df_resumo_cmi = df_cmi_filtrado.groupby(['Entidade', 'Tipo_Entidade']).agg({
-        'Valor': 'mean'
-    }).round(2).reset_index()
-    df_resumo_cmi.columns = ['Entidade', 'Tipo', 'CMI']
+    df_resumo_cmi = df_cmi_filtrado.groupby('UF')['Valor'].mean().reset_index()
+    df_resumo_cmi.columns = ['UF', 'CMI']
+    df_resumo_cmi['CMI'] = df_resumo_cmi['CMI'].round(2)
     
-    df_resumo_comp = pd.merge(df_resumo_mil, df_resumo_cmi, on=['Entidade', 'Tipo'])
+    df_resumo_comp = pd.merge(df_resumo_mil, df_resumo_cmi, on='UF')
     df_resumo_comp['Diferença'] = (df_resumo_comp['CMI-Mil'] - df_resumo_comp['CMI']).round(2)
     df_resumo_comp['Diferença %'] = ((df_resumo_comp['CMI-Mil'] - df_resumo_comp['CMI']) / df_resumo_comp['CMI'] * 100).round(2)
     df_resumo_comp = df_resumo_comp.sort_values('CMI-Mil', ascending=False)
