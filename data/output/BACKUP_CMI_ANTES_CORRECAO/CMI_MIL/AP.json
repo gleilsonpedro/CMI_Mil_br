@@ -1,0 +1,5826 @@
+[
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 1996,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 1996,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 1996,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 1996,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 1996,
+    "Valor": 268.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 1996,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 1996,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 1996,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 1996,
+    "Valor": 73.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 1996,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 1997,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 1997,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 1997,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 1997,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 1997,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 1997,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 1997,
+    "Valor": 285.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 1997,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 1997,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 1997,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 1997,
+    "Valor": 77.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 1997,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2001,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2001,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2001,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2001,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2001,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2001,
+    "Valor": 17.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2001,
+    "Valor": 221.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2001,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2001,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2001,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2001,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2001,
+    "Valor": 57.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2001,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2001,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2002,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2002,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2002,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2002,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2002,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2002,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2002,
+    "Valor": 20.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2002,
+    "Valor": 221.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2002,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2002,
+    "Valor": 10.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2002,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2002,
+    "Valor": 56.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2002,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2002,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2003,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2003,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2003,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2003,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2003,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2003,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2003,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2003,
+    "Valor": 18.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2003,
+    "Valor": 211.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2003,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2003,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2003,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2003,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2003,
+    "Valor": 34.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2003,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2003,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2004,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2004,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2004,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2004,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2004,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2004,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2004,
+    "Valor": 18.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2004,
+    "Valor": 200.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2004,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2004,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2004,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2004,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2004,
+    "Valor": 42.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2004,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2004,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2005,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2005,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2005,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2005,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2005,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2005,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2005,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2005,
+    "Valor": 33.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2005,
+    "Valor": 169.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2005,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2005,
+    "Valor": 12.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2005,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2005,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2005,
+    "Valor": 30.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2005,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2005,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2006,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2006,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2006,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2006,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2006,
+    "Valor": 28.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2006,
+    "Valor": 200.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2006,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2006,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2006,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2006,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2006,
+    "Valor": 44.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2006,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2006,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2007,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2007,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2007,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2007,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2007,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2007,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2007,
+    "Valor": 23.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2007,
+    "Valor": 212.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2007,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2007,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2007,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2007,
+    "Valor": 30.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2007,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2007,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2008,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2008,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2008,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2008,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2008,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2008,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2008,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2008,
+    "Valor": 22.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2008,
+    "Valor": 227.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2008,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2008,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2008,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2008,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2008,
+    "Valor": 40.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2008,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2008,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2009,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2009,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2009,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2009,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2009,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2009,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2009,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2009,
+    "Valor": 18.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2009,
+    "Valor": 225.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2009,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2009,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2009,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2009,
+    "Valor": 36.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2009,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2009,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2010,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2010,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2010,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2010,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2010,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2010,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2010,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2010,
+    "Valor": 13.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2010,
+    "Valor": 189.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2010,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2010,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2010,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2010,
+    "Valor": 36.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2010,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2010,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2011,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2011,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2011,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2011,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2011,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2011,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2011,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2011,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2011,
+    "Valor": 192.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2011,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2011,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2011,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2011,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2011,
+    "Valor": 44.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2011,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2011,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2012,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2012,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2012,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2012,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2012,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2012,
+    "Valor": 14.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2012,
+    "Valor": 201.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2012,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2012,
+    "Valor": 12.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2012,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2012,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2012,
+    "Valor": 41.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2012,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2012,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2013,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2013,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2013,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2013,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2013,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2013,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2013,
+    "Valor": 13.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2013,
+    "Valor": 211.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2013,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2013,
+    "Valor": 18.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2013,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2013,
+    "Valor": 35.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2013,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2013,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2014,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2014,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2014,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2014,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2014,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2014,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2014,
+    "Valor": 23.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2014,
+    "Valor": 189.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2014,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2014,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2014,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2014,
+    "Valor": 32.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2014,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2014,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2015,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2015,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2015,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2015,
+    "Valor": 20.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2015,
+    "Valor": 168.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2015,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2015,
+    "Valor": 13.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2015,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2015,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2015,
+    "Valor": 33.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2015,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2015,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2016,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2016,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2016,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2016,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2016,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2016,
+    "Valor": 22.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2016,
+    "Valor": 168.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2016,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2016,
+    "Valor": 13.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2016,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2016,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2016,
+    "Valor": 36.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2016,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2016,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2017,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2017,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2017,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2017,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2017,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2017,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2017,
+    "Valor": 198.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2017,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2017,
+    "Valor": 14.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2017,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2017,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2017,
+    "Valor": 39.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2017,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2017,
+    "Valor": 10.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2018,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2018,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2018,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2018,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2018,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2018,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2018,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2018,
+    "Valor": 200.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2018,
+    "Valor": 10.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2018,
+    "Valor": 14.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2018,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2018,
+    "Valor": 29.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2018,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2018,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2019,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2019,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2019,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2019,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2019,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2019,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2019,
+    "Valor": 18.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2019,
+    "Valor": 183.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2019,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2019,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2019,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2019,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2019,
+    "Valor": 40.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2019,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2019,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2020,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2020,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2020,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2020,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2020,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2020,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2020,
+    "Valor": 20.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2020,
+    "Valor": 166.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2020,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2020,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2020,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2020,
+    "Valor": 35.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2020,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2020,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2021,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2021,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2021,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2021,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2021,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2021,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2021,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2021,
+    "Valor": 13.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2021,
+    "Valor": 175.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2021,
+    "Valor": 15.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2021,
+    "Valor": 11.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2021,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2021,
+    "Valor": 35.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2021,
+    "Valor": 14.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2021,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2022,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2022,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2022,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2022,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2022,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2022,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2022,
+    "Valor": 14.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2022,
+    "Valor": 150.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2022,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2022,
+    "Valor": 10.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2022,
+    "Valor": 8.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2022,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2022,
+    "Valor": 35.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2022,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2022,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2023,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2023,
+    "Valor": 9.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2023,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2023,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2023,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2023,
+    "Valor": 10.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2023,
+    "Valor": 160.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2023,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2023,
+    "Valor": 19.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2023,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2023,
+    "Valor": 37.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2023,
+    "Valor": 5.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2023,
+    "Valor": 6.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2024,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2024,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2024,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2024,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2024,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2024,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2024,
+    "Valor": 16.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2024,
+    "Valor": 121.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2024,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2024,
+    "Valor": 7.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2024,
+    "Valor": 10.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2024,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2024,
+    "Valor": 38.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2024,
+    "Valor": 4.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2024,
+    "Valor": 2.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 1996,
+    "Valor": 152.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 1996,
+    "Valor": 48.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 1996,
+    "Valor": 37.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 1996,
+    "Valor": 138.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 1996,
+    "Valor": 14.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 1996,
+    "Valor": 60.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 1996,
+    "Valor": 810.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 1996,
+    "Valor": 9436.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 1996,
+    "Valor": 215.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 1996,
+    "Valor": 31.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 1996,
+    "Valor": 174.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 1996,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 1996,
+    "Valor": 2831.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 1996,
+    "Valor": 84.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 1997,
+    "Valor": 123.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 1997,
+    "Valor": 136.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 1997,
+    "Valor": 44.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 1997,
+    "Valor": 148.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 1997,
+    "Valor": 1.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 1997,
+    "Valor": 71.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 1997,
+    "Valor": 3.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 1997,
+    "Valor": 691.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 1997,
+    "Valor": 9508.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 1997,
+    "Valor": 185.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 1997,
+    "Valor": 145.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 1997,
+    "Valor": 184.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 1997,
+    "Valor": 23.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 1997,
+    "Valor": 2828.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 1997,
+    "Valor": 89.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 1997,
+    "Valor": 138.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2001,
+    "Valor": 92.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2001,
+    "Valor": 265.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2001,
+    "Valor": 64.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2001,
+    "Valor": 126.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2001,
+    "Valor": 77.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2001,
+    "Valor": 118.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2001,
+    "Valor": 63.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2001,
+    "Valor": 818.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2001,
+    "Valor": 8919.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2001,
+    "Valor": 368.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2001,
+    "Valor": 279.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2001,
+    "Valor": 304.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2001,
+    "Valor": 39.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2001,
+    "Valor": 2576.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2001,
+    "Valor": 209.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2001,
+    "Valor": 292.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2002,
+    "Valor": 104.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2002,
+    "Valor": 192.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2002,
+    "Valor": 68.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2002,
+    "Valor": 146.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2002,
+    "Valor": 102.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2002,
+    "Valor": 92.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2002,
+    "Valor": 92.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2002,
+    "Valor": 983.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2002,
+    "Valor": 8579.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2002,
+    "Valor": 385.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2002,
+    "Valor": 368.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2002,
+    "Valor": 257.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2002,
+    "Valor": 50.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2002,
+    "Valor": 2241.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2002,
+    "Valor": 239.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2002,
+    "Valor": 298.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2003,
+    "Valor": 96.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2003,
+    "Valor": 198.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2003,
+    "Valor": 84.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2003,
+    "Valor": 177.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2003,
+    "Valor": 105.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2003,
+    "Valor": 108.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2003,
+    "Valor": 84.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2003,
+    "Valor": 984.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2003,
+    "Valor": 8821.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2003,
+    "Valor": 382.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2003,
+    "Valor": 421.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2003,
+    "Valor": 291.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2003,
+    "Valor": 61.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2003,
+    "Valor": 2382.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2003,
+    "Valor": 267.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2003,
+    "Valor": 303.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2004,
+    "Valor": 90.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2004,
+    "Valor": 178.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2004,
+    "Valor": 111.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2004,
+    "Valor": 169.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2004,
+    "Valor": 71.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2004,
+    "Valor": 102.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2004,
+    "Valor": 90.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2004,
+    "Valor": 876.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2004,
+    "Valor": 8200.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2004,
+    "Valor": 331.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2004,
+    "Valor": 345.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2004,
+    "Valor": 332.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2004,
+    "Valor": 56.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2004,
+    "Valor": 2467.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2004,
+    "Valor": 203.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2004,
+    "Valor": 350.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2005,
+    "Valor": 110.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2005,
+    "Valor": 204.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2005,
+    "Valor": 160.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2005,
+    "Valor": 175.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2005,
+    "Valor": 81.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2005,
+    "Valor": 121.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2005,
+    "Valor": 67.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2005,
+    "Valor": 995.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2005,
+    "Valor": 8422.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2005,
+    "Valor": 374.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2005,
+    "Valor": 436.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2005,
+    "Valor": 261.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2005,
+    "Valor": 69.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2005,
+    "Valor": 2205.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2005,
+    "Valor": 222.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2005,
+    "Valor": 303.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2006,
+    "Valor": 79.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2006,
+    "Valor": 153.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2006,
+    "Valor": 148.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2006,
+    "Valor": 207.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2006,
+    "Valor": 112.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2006,
+    "Valor": 130.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2006,
+    "Valor": 86.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2006,
+    "Valor": 994.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2006,
+    "Valor": 8712.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2006,
+    "Valor": 409.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2006,
+    "Valor": 443.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2006,
+    "Valor": 314.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2006,
+    "Valor": 85.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2006,
+    "Valor": 2282.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2006,
+    "Valor": 238.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2006,
+    "Valor": 320.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2007,
+    "Valor": 71.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2007,
+    "Valor": 132.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2007,
+    "Valor": 130.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2007,
+    "Valor": 211.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2007,
+    "Valor": 92.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2007,
+    "Valor": 113.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2007,
+    "Valor": 84.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2007,
+    "Valor": 906.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2007,
+    "Valor": 8781.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2007,
+    "Valor": 398.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2007,
+    "Valor": 388.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2007,
+    "Valor": 268.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2007,
+    "Valor": 76.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2007,
+    "Valor": 2208.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2007,
+    "Valor": 283.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2007,
+    "Valor": 284.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2008,
+    "Valor": 112.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2008,
+    "Valor": 149.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2008,
+    "Valor": 146.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2008,
+    "Valor": 193.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2008,
+    "Valor": 100.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2008,
+    "Valor": 126.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2008,
+    "Valor": 35.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2008,
+    "Valor": 1015.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2008,
+    "Valor": 9125.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2008,
+    "Valor": 430.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2008,
+    "Valor": 455.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2008,
+    "Valor": 359.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2008,
+    "Valor": 80.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2008,
+    "Valor": 2241.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2008,
+    "Valor": 251.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2008,
+    "Valor": 288.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2009,
+    "Valor": 74.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2009,
+    "Valor": 121.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2009,
+    "Valor": 115.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2009,
+    "Valor": 210.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2009,
+    "Valor": 75.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2009,
+    "Valor": 82.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2009,
+    "Valor": 77.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2009,
+    "Valor": 1004.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2009,
+    "Valor": 8852.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2009,
+    "Valor": 374.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2009,
+    "Valor": 357.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2009,
+    "Valor": 258.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2009,
+    "Valor": 83.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2009,
+    "Valor": 2073.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2009,
+    "Valor": 266.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2009,
+    "Valor": 277.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2010,
+    "Valor": 73.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2010,
+    "Valor": 144.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2010,
+    "Valor": 137.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2010,
+    "Valor": 217.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2010,
+    "Valor": 76.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2010,
+    "Valor": 107.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2010,
+    "Valor": 66.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2010,
+    "Valor": 925.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2010,
+    "Valor": 9302.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2010,
+    "Valor": 411.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2010,
+    "Valor": 421.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2010,
+    "Valor": 318.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2010,
+    "Valor": 73.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2010,
+    "Valor": 2240.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2010,
+    "Valor": 246.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2010,
+    "Valor": 251.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2011,
+    "Valor": 70.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2011,
+    "Valor": 155.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2011,
+    "Valor": 188.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2011,
+    "Valor": 191.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2011,
+    "Valor": 87.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2011,
+    "Valor": 109.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2011,
+    "Valor": 97.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2011,
+    "Valor": 863.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2011,
+    "Valor": 9404.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2011,
+    "Valor": 410.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2011,
+    "Valor": 486.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2011,
+    "Valor": 342.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2011,
+    "Valor": 78.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2011,
+    "Valor": 2126.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2011,
+    "Valor": 245.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2011,
+    "Valor": 263.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2012,
+    "Valor": 77.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2012,
+    "Valor": 148.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2012,
+    "Valor": 279.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2012,
+    "Valor": 180.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2012,
+    "Valor": 68.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2012,
+    "Valor": 168.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2012,
+    "Valor": 102.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2012,
+    "Valor": 893.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2012,
+    "Valor": 8993.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2012,
+    "Valor": 404.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2012,
+    "Valor": 484.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2012,
+    "Valor": 305.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2012,
+    "Valor": 76.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2012,
+    "Valor": 2186.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2012,
+    "Valor": 288.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2012,
+    "Valor": 243.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2013,
+    "Valor": 89.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2013,
+    "Valor": 154.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2013,
+    "Valor": 283.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2013,
+    "Valor": 195.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2013,
+    "Valor": 83.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2013,
+    "Valor": 193.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2013,
+    "Valor": 115.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2013,
+    "Valor": 887.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2013,
+    "Valor": 9540.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2013,
+    "Valor": 449.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2013,
+    "Valor": 500.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2013,
+    "Valor": 340.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2013,
+    "Valor": 79.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2013,
+    "Valor": 2260.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2013,
+    "Valor": 271.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2013,
+    "Valor": 271.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2014,
+    "Valor": 73.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2014,
+    "Valor": 141.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2014,
+    "Valor": 274.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2014,
+    "Valor": 194.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2014,
+    "Valor": 81.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2014,
+    "Valor": 187.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2014,
+    "Valor": 121.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2014,
+    "Valor": 996.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2014,
+    "Valor": 9799.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2014,
+    "Valor": 432.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2014,
+    "Valor": 529.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2014,
+    "Valor": 427.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2014,
+    "Valor": 72.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2014,
+    "Valor": 2378.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2014,
+    "Valor": 293.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2014,
+    "Valor": 274.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2015,
+    "Valor": 63.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2015,
+    "Valor": 161.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2015,
+    "Valor": 244.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2015,
+    "Valor": 198.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2015,
+    "Valor": 85.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2015,
+    "Valor": 192.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2015,
+    "Valor": 109.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2015,
+    "Valor": 923.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2015,
+    "Valor": 9492.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2015,
+    "Valor": 466.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2015,
+    "Valor": 469.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2015,
+    "Valor": 414.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2015,
+    "Valor": 84.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2015,
+    "Valor": 2267.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2015,
+    "Valor": 302.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2015,
+    "Valor": 278.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2016,
+    "Valor": 67.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2016,
+    "Valor": 133.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2016,
+    "Valor": 252.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2016,
+    "Valor": 176.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2016,
+    "Valor": 89.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2016,
+    "Valor": 180.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2016,
+    "Valor": 99.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2016,
+    "Valor": 783.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2016,
+    "Valor": 9478.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2016,
+    "Valor": 460.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2016,
+    "Valor": 559.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2016,
+    "Valor": 369.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2016,
+    "Valor": 66.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2016,
+    "Valor": 2253.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2016,
+    "Valor": 311.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2016,
+    "Valor": 246.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2017,
+    "Valor": 60.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2017,
+    "Valor": 141.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2017,
+    "Valor": 272.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2017,
+    "Valor": 210.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2017,
+    "Valor": 106.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2017,
+    "Valor": 164.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2017,
+    "Valor": 120.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2017,
+    "Valor": 813.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2017,
+    "Valor": 9269.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2017,
+    "Valor": 450.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2017,
+    "Valor": 557.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2017,
+    "Valor": 395.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2017,
+    "Valor": 80.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2017,
+    "Valor": 2188.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2017,
+    "Valor": 300.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2017,
+    "Valor": 274.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2018,
+    "Valor": 76.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2018,
+    "Valor": 188.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2018,
+    "Valor": 303.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2018,
+    "Valor": 223.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2018,
+    "Valor": 118.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2018,
+    "Valor": 168.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2018,
+    "Valor": 157.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2018,
+    "Valor": 830.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2018,
+    "Valor": 9293.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2018,
+    "Valor": 516.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2018,
+    "Valor": 577.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2018,
+    "Valor": 440.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2018,
+    "Valor": 77.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2018,
+    "Valor": 2279.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2018,
+    "Valor": 319.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2018,
+    "Valor": 300.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2019,
+    "Valor": 92.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2019,
+    "Valor": 169.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2019,
+    "Valor": 311.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2019,
+    "Valor": 214.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2019,
+    "Valor": 90.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2019,
+    "Valor": 168.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2019,
+    "Valor": 145.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2019,
+    "Valor": 776.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2019,
+    "Valor": 8884.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2019,
+    "Valor": 576.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2019,
+    "Valor": 596.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2019,
+    "Valor": 411.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2019,
+    "Valor": 71.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2019,
+    "Valor": 2230.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2019,
+    "Valor": 331.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2019,
+    "Valor": 292.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2020,
+    "Valor": 94.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2020,
+    "Valor": 196.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2020,
+    "Valor": 330.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2020,
+    "Valor": 203.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2020,
+    "Valor": 113.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2020,
+    "Valor": 177.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2020,
+    "Valor": 151.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2020,
+    "Valor": 736.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2020,
+    "Valor": 8446.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2020,
+    "Valor": 527.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2020,
+    "Valor": 592.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2020,
+    "Valor": 374.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2020,
+    "Valor": 98.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2020,
+    "Valor": 1995.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2020,
+    "Valor": 337.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2020,
+    "Valor": 264.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2021,
+    "Valor": 94.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2021,
+    "Valor": 160.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2021,
+    "Valor": 336.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2021,
+    "Valor": 209.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2021,
+    "Valor": 117.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2021,
+    "Valor": 154.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2021,
+    "Valor": 156.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2021,
+    "Valor": 688.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2021,
+    "Valor": 8589.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2021,
+    "Valor": 575.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2021,
+    "Valor": 609.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2021,
+    "Valor": 393.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2021,
+    "Valor": 111.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2021,
+    "Valor": 2200.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2021,
+    "Valor": 343.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2021,
+    "Valor": 259.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2022,
+    "Valor": 61.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2022,
+    "Valor": 184.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2022,
+    "Valor": 290.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2022,
+    "Valor": 174.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2022,
+    "Valor": 101.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2022,
+    "Valor": 149.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2022,
+    "Valor": 139.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2022,
+    "Valor": 598.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2022,
+    "Valor": 7963.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2022,
+    "Valor": 485.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2022,
+    "Valor": 559.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2022,
+    "Valor": 353.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2022,
+    "Valor": 78.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2022,
+    "Valor": 1990.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2022,
+    "Valor": 285.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2022,
+    "Valor": 206.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2023,
+    "Valor": 61.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2023,
+    "Valor": 132.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2023,
+    "Valor": 280.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2023,
+    "Valor": 172.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2023,
+    "Valor": 114.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2023,
+    "Valor": 139.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2023,
+    "Valor": 119.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2023,
+    "Valor": 594.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2023,
+    "Valor": 7414.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2023,
+    "Valor": 481.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2023,
+    "Valor": 583.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2023,
+    "Valor": 328.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2023,
+    "Valor": 76.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2023,
+    "Valor": 1926.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2023,
+    "Valor": 296.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2023,
+    "Valor": 233.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Ano": 2024,
+    "Valor": 57.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Ano": 2024,
+    "Valor": 141.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Ano": 2024,
+    "Valor": 275.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Ano": 2024,
+    "Valor": 174.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Ano": 2024,
+    "Valor": 99.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Ano": 2024,
+    "Valor": 135.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Ano": 2024,
+    "Valor": 127.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Ano": 2024,
+    "Valor": 539.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Ano": 2024,
+    "Valor": 7156.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Ano": 2024,
+    "Valor": 434.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Ano": 2024,
+    "Valor": 537.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Ano": 2024,
+    "Valor": 328.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Ano": 2024,
+    "Valor": 64.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Ano": 2024,
+    "Valor": 1808.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Ano": 2024,
+    "Valor": 243.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Ano": 2024,
+    "Valor": 186.0,
+    "UF": "AP",
+    "Tipo": "CMI_MIL"
+  }
+]

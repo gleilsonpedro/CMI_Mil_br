@@ -1,4370 +1,3714 @@
 [
   {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 1996,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 1996,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 1996,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 1996,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 1996,
     "Valor": 268,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 1996,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 1996,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 1996,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 1996,
     "Valor": 73,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 1996,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 1997,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 1997,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 1997,
     "Valor": 285,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 1997,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 1997,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 1997,
     "Valor": 77,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1997,
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1997,
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1997,
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 1997,
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
+    "Ano": 1998,
+    "Valor": 4,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 1997,
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
+    "Ano": 1998,
+    "Valor": 3,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
+    "Ano": 1998,
+    "Valor": 229,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
+    "Ano": 1998,
+    "Valor": 5,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
+    "Ano": 1998,
+    "Valor": 3,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
+    "Ano": 1998,
+    "Valor": 4,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
+    "Ano": 1998,
+    "Valor": 78,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
+    "Ano": 1998,
+    "Valor": 1,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
+    "Ano": 1999,
+    "Valor": 1,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
+    "Ano": 1999,
+    "Valor": 4,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
+    "Ano": 1999,
+    "Valor": 0,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
+    "Ano": 1999,
+    "Valor": 0,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
+    "Ano": 1999,
+    "Valor": 2,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
+    "Ano": 1999,
+    "Valor": 1,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
+    "Ano": 1999,
+    "Valor": 3,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
+    "Ano": 1999,
+    "Valor": 4,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
+    "Ano": 1999,
+    "Valor": 277,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
+    "Ano": 1999,
+    "Valor": 3,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
+    "Ano": 1999,
+    "Valor": 4,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
+    "Ano": 1999,
+    "Valor": 4,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
+    "Ano": 1999,
+    "Valor": 1,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
+    "Ano": 1999,
+    "Valor": 55,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
+    "Ano": 1999,
+    "Valor": 0,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
+    "Ano": 1999,
+    "Valor": 1,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
+    "Ano": 2000,
+    "Valor": 1,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
+    "Ano": 2000,
+    "Valor": 2,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
+    "Ano": 2000,
+    "Valor": 0,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
+    "Ano": 2000,
+    "Valor": 0,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
+    "Ano": 2000,
+    "Valor": 2,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
+    "Ano": 2000,
+    "Valor": 2,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
+    "Ano": 2000,
+    "Valor": 2,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
+    "Ano": 2000,
+    "Valor": 3,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
+    "Ano": 2000,
+    "Valor": 216,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
+    "Ano": 2000,
+    "Valor": 9,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
+    "Ano": 2000,
+    "Valor": 6,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
+    "Ano": 2000,
+    "Valor": 8,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
+    "Ano": 2000,
+    "Valor": 0,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
+    "Ano": 2000,
+    "Valor": 61,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
+    "Ano": 2000,
+    "Valor": 2,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
+    "Ano": 2000,
+    "Valor": 0,
+    "UF": "AP",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2001,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2001,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2001,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2001,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2001,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2001,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2001,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2001,
     "Valor": 17,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2001,
     "Valor": 221,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2001,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2001,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2001,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2001,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2001,
     "Valor": 57,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2001,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2001,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2002,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2002,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2002,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2002,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2002,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2002,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2002,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2002,
     "Valor": 20,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2002,
     "Valor": 221,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2002,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2002,
     "Valor": 10,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2002,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2002,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2002,
     "Valor": 56,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2002,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2002,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2003,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2003,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2003,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2003,
     "Valor": 18,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2003,
     "Valor": 211,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2003,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2003,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2003,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2003,
     "Valor": 34,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2003,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2003,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2004,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2004,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2004,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2004,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2004,
     "Valor": 18,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2004,
     "Valor": 200,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2004,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2004,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2004,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2004,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2004,
     "Valor": 42,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2004,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2005,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2005,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2005,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2005,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2005,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2005,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2005,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2005,
     "Valor": 33,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2005,
     "Valor": 169,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2005,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2005,
     "Valor": 12,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2005,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2005,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2005,
     "Valor": 30,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2005,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2005,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2006,
-    "Valor": 1,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2006,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2006,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2006,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2006,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2006,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2006,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2006,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2006,
     "Valor": 28,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2006,
     "Valor": 200,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2006,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2006,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2006,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2006,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2006,
     "Valor": 44,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2006,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2006,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2006,
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
+    "Ano": 2007,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2007,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
-    "Ano": 2007,
-    "Valor": 1,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2007,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2007,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2007,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2007,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2007,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2007,
     "Valor": 23,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2007,
     "Valor": 212,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2007,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2007,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2007,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2007,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2007,
     "Valor": 30,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2007,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2007,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2008,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2008,
     "Valor": 22,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2008,
     "Valor": 227,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2008,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2008,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2008,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2008,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2008,
     "Valor": 40,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2008,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2008,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2009,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2009,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2009,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2009,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2009,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2009,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2009,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2009,
     "Valor": 18,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2009,
     "Valor": 225,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2009,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2009,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2009,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2009,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2009,
     "Valor": 36,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2009,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2009,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2010,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2010,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2010,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2010,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2010,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2010,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2010,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2010,
     "Valor": 13,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2010,
     "Valor": 189,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2010,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2010,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2010,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2010,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2010,
     "Valor": 36,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2010,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2010,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2011,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2011,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2011,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2011,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2011,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2011,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2011,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2011,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2011,
     "Valor": 192,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2011,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2011,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2011,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2011,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2011,
     "Valor": 44,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2011,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2011,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2012,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2012,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2012,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2012,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2012,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2012,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2012,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2012,
     "Valor": 14,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2012,
     "Valor": 201,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2012,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2012,
     "Valor": 12,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2012,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2012,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2012,
     "Valor": 41,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2012,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2012,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2013,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2013,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2013,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2013,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2013,
     "Valor": 13,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2013,
     "Valor": 211,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2013,
     "Valor": 18,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2013,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2013,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2013,
     "Valor": 35,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2014,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2014,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2014,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2014,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2014,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2014,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2014,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2014,
     "Valor": 23,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2014,
     "Valor": 189,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2014,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2014,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2014,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2014,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2014,
     "Valor": 32,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2014,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2014,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2015,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2015,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2015,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2015,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2015,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2015,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2015,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2015,
     "Valor": 20,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2015,
     "Valor": 168,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2015,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2015,
     "Valor": 13,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2015,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2015,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2015,
     "Valor": 33,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2015,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2015,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2016,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2016,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2016,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2016,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2016,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2016,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2016,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2016,
     "Valor": 22,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2016,
     "Valor": 168,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2016,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2016,
     "Valor": 13,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2016,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2016,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2016,
     "Valor": 36,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2016,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2016,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2017,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2017,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2017,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2017,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2017,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2017,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2017,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2017,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2017,
     "Valor": 198,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2017,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2017,
     "Valor": 14,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2017,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2017,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2017,
     "Valor": 39,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2017,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2017,
     "Valor": 10,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2018,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2018,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2018,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2018,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2018,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2018,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2018,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2018,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2018,
     "Valor": 200,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2018,
     "Valor": 10,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2018,
     "Valor": 14,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2018,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2018,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2018,
     "Valor": 29,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2018,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2018,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2019,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2019,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2019,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2019,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2019,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2019,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2019,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2019,
     "Valor": 18,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2019,
     "Valor": 183,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2019,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2019,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2019,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2019,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2019,
     "Valor": 40,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2019,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2019,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2020,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2020,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2020,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2020,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2020,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2020,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2020,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2020,
     "Valor": 20,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2020,
     "Valor": 166,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2020,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2020,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2020,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2020,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2020,
     "Valor": 35,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2020,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2020,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2021,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2021,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2021,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2021,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2021,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2021,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2021,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2021,
     "Valor": 13,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2021,
     "Valor": 175,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2021,
     "Valor": 15,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2021,
     "Valor": 11,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2021,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2021,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2021,
     "Valor": 35,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2021,
     "Valor": 14,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2021,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2022,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2022,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2022,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2022,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2022,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2022,
     "Valor": 14,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2022,
     "Valor": 150,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2022,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2022,
     "Valor": 10,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2022,
     "Valor": 8,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2022,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2022,
     "Valor": 35,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2022,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2023,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2023,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160010 AMAPA",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2023,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2023,
     "Valor": 9,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2023,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2023,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2023,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2023,
     "Valor": 10,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2023,
     "Valor": 160,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2023,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2023,
     "Valor": 19,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2023,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2023,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2023,
     "Valor": 37,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2023,
     "Valor": 5,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2023,
     "Valor": 6,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2024,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2024,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2024,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2024,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2024,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2024,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2024,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2024,
     "Valor": 16,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2024,
     "Valor": 121,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2024,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2024,
     "Valor": 7,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2024,
     "Valor": 10,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2024,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2024,
     "Valor": 38,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2024,
     "Valor": 4,
     "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2024,
     "Valor": 2,
     "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   }
 ]

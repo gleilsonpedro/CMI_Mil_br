@@ -15,11 +15,14 @@ if sys.platform == 'win32':
 
 # Configuração de caminhos
 BASE_DIR = Path(__file__).parent.parent
+# IMPORTANTE: As planilhas contêm dados diferentes!
+# CMI_Mil_Br_0_4.xlsx → CMI calculado ×1000 (por mil nascidos vivos)
+# CMI_PURO_semMIL.xlsx → CMI calculado ×100 (porcentagem)
 ARQUIVO_EXCEL = BASE_DIR / 'data' / 'input' / 'CMI_Mil_Br_0_4.xlsx'
 ARQUIVO_EXCEL_PURO = BASE_DIR / 'data' / 'input' / 'CMI_PURO_semMIL.xlsx'
 OUTPUT_DIR_NV = BASE_DIR / 'data' / 'output' / 'nascidos_vivos'
 OUTPUT_DIR_OB = BASE_DIR / 'data' / 'output' / 'obitos'
-OUTPUT_DIR_CMI = BASE_DIR / 'data' / 'output' / 'CMI_MIL'
+OUTPUT_DIR_CMI_MIL = BASE_DIR / 'data' / 'output' / 'CMI_MIL'
 OUTPUT_DIR_CMI_PURO = BASE_DIR / 'data' / 'output' / 'CMI_puro'
 
 def limpar_nome_coluna(col_name):
@@ -244,11 +247,22 @@ def processar_aba(xls, nome_aba, tipo, uf):
 def salvar_json(df, uf, tipo):
     """
     Salva DataFrame como JSON
+    
+    IMPORTANTE - Mapeamento correto:
+    ==========================================
+    Planilha CMI_Mil_Br_0_4.xlsx:
+      - Abas "CMI UF" contém → CMI ×1000
+      - tipo='CMI_MIL' → salva em OUTPUT_DIR_CMI_MIL/
+    
+    Planilha CMI_PURO_semMIL.xlsx:
+      - Abas "CMI UF" contém → CMI ×100
+      - tipo='CMI_puro' → salva em OUTPUT_DIR_CMI_PURO/
+    ==========================================
     """
     if tipo == 'CMI_MIL':
-        output_dir = OUTPUT_DIR_CMI
+        output_dir = OUTPUT_DIR_CMI_MIL  # CMI×1000
     elif tipo == 'CMI_puro':
-        output_dir = OUTPUT_DIR_CMI_PURO
+        output_dir = OUTPUT_DIR_CMI_PURO  # CMI×100
     elif tipo == 'OB':
         output_dir = OUTPUT_DIR_OB
     else:

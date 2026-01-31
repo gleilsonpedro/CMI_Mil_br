@@ -1,0 +1,3482 @@
+[
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 20.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 35.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 35.71,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 18.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 11.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 43.8,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 14.93,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 15.44,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 24.39,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 17.18,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 22.73,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 26.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 18.73,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 32.79,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 12.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 32.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 28.3,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 24.63,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 27.03,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 22.73,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 150.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 22.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 24.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 19.16,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 48.28,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 36.04,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 20.55,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 19.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 29.85,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 21.74,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 24.59,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 17.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 7.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 19.61,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 51.28,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 60.61,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 64.04,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 15.51,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 20.66,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 15.38,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 62.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 19.74,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 20.41,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 21.81,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 18.73,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 28.99,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 23.44,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 6.45,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 20.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 15.33,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 72.92,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 24.53,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 16.81,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 33.02,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 21.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 20.69,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 7.81,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 13.65,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 13.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 9.43,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 16.18,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 16.95,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 42.19,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 27.15,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 18.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 17.52,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 30.43,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 15.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 13.3,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 17.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 6.58,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 19.11,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 13.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 10.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 19.72,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 16.81,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 4.33,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 11.11,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 25.86,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 10.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 32.79,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 33.33,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 13.7,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 6.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 22.73,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 12.54,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 14.76,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 9.76,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 23.14,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 16.26,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 35.93,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 26.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 18.04,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 11.95,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 48.39,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 15.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 7.48,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 6.54,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 18.99,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 19.55,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 20.53,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 12.74,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 18.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 13.33,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 32.79,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 60.5,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 16.19,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 28.57,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 15.04,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 15.04,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 29.17,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 5.36,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 11.36,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 47.95,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 25.89,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 38.71,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 42.21,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 18.35,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 25.21,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 8.77,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 40.76,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 38.65,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 14.29,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 14.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 34.36,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 21.65,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 18.46,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 6.13,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 20.69,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 19.23,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 23.1,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 9.43,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 25.24,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 23.08,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 62.5,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 36.73,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 62.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 13.59,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 28.85,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 14.13,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 12.38,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 18.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 6.85,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 19.48,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 34.97,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 29.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 37.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 50.85,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 27.52,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 45.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 33.52,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 47.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 13.61,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 24.82,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 7.46,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 26.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 5.78,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 15.15,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 11.15,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 15.38,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 23.89,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 20.11,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 26.55,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 30.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 25.07,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 10.42,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 19.61,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 13.69,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 10.07,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 7.14,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 25.06,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 24.39,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 13.33,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 6.23,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 28.3,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 48.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 11.76,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 14.81,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 10.31,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 47.15,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 49.65,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 56.64,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 13.37,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 29.66,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 21.35,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 20.23,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 38.89,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 13.51,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 14.93,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 17.42,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 8.47,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 38.34,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 22.9,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 6.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 11.92,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 24.9,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 10.79,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 5.46,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 11.9,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 12.99,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 12.86,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 33.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 11.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 8.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 21.9,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 32.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 3.86,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 26.39,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 10.24,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 10.49,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 9.8,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 11.46,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 13.79,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 10.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 9.71,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 8.8,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 34.97,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 23.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 11.24,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 32.7,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 29.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 31.67,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 14.16,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 3.21,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 19.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 54.12,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 7.25,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 11.56,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 7.41,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 9.4,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 6.12,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 14.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 17.24,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 20.83,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 55.37,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 71.55,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 11.97,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 18.35,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 11.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 47.17,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 13.25,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 27.21,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 19.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 18.37,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 22.79,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 9.48,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 25.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 17.43,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 53.69,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 49.73,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 13.77,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 15.38,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 24.86,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 40.71,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 12.99,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 32.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 16.72,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 18.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 14.71,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 22.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 17.09,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 74.63,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 36.48,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 29.5,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 45.45,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 11.61,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 22.54,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 27.52,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 41.06,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 28.78,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 11.83,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 26.39,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 9.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 16.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 1.9,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 42.74,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 10.99,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 23.17,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 39.27,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 41.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 14.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 10.96,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 3.17,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 49.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 7.25,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 19.48,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 16.36,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 19.61,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 33.21,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 28.85,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 12.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 15.72,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 28.17,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 34.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 11.93,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 31.83,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 14.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 44.23,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 16.39,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 12.99,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 16.18,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 24.1,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 39.47,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 8.88,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 8.2,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 9.43,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 47.19,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 43.88,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 36.64,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 13.6,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 20.46,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 14.84,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 78.82,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 27.62,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 50.72,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 18.46,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 12.96,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 21.28,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 14.33,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 16.81,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 23.26,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 35.09,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 49.33,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 46.41,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 14.21,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 10.64,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 18.18,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 26.97,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 19.61,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 16.22,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 13.44,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 12.27,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 32.37,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 15.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 7.63,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 9.35,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 17.86,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 55.7,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 29.85,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 13.54,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 28.02,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 21.45,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 64.97,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 5.46,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 6.71,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 17.8,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 19.86,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 15.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 15.05,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 31.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 18.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 29.85,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 55.17,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 48.18,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 13.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 25.4,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 11.96,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 35.38,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 4.76,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 35.21,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 16.26,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 12.58,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 18.06,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 17.83,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 7.09,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 41.19,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 44.08,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 55.48,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 13.9,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 11.63,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 15.27,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 24.1,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 5.52,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 6.94,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 24.77,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 13.48,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 34.93,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 10.53,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 17.24,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 32.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 25.29,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 72.26,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 57.49,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 18.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 35.8,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 14.01,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 33.24,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 4.72,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 30.49,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 28.25,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 27.4,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 34.8,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 7.52,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 7.87,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 11.11,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 30.14,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 61.32,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 28.79,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 16.08,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 17.81,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 5.36,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 66.86,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 5.75,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 7.04,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 12.23,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 10.99,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 17.02,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 18.28,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 7.25,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "RR",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 21.45,
+    "UF": "RR",
+    "Tipo": "CMI"
+  }
+]

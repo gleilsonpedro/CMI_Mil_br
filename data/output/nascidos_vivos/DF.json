@@ -1,1458 +1,234 @@
 [
   {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 1996,
     "Valor": 46767,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 1997,
     "Valor": 46855,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
+    "Ano": 1998,
+    "Valor": 48418,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
+    "Ano": 1999,
+    "Valor": 49349,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
+    "Ano": 2000,
+    "Valor": 47991,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2001,
     "Valor": 46891,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2002,
     "Valor": 45799,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2003,
     "Valor": 46097,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2004,
     "Valor": 45593,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2005,
     "Valor": 45917,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2006,
     "Valor": 45152,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2007,
     "Valor": 44098,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2008,
     "Valor": 44173,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2009,
     "Valor": 43932,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2010,
     "Valor": 44251,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2011,
     "Valor": 43465,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2012,
     "Valor": 43497,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2013,
     "Valor": 44530,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2014,
     "Valor": 44721,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2015,
     "Valor": 46122,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2016,
     "Valor": 43340,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2017,
     "Valor": 44568,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2018,
     "Valor": 44195,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2019,
     "Valor": 42422,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2020,
     "Valor": 39361,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2021,
     "Valor": 38035,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2022,
     "Valor": 35928,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2023,
     "Valor": 35551,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - DF",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "530010 BRASILIA",
+    "Municipio": "BRASILIA",
+    "Codigo_Municipio": "530010",
     "Ano": 2024,
     "Valor": 33233,
     "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "DF",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   }
 ]

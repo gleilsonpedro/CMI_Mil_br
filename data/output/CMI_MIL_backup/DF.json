@@ -1,0 +1,366 @@
+[
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 1996,
+    "Valor": 46767.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 1997,
+    "Valor": 46855.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2001,
+    "Valor": 46891.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2002,
+    "Valor": 45799.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2003,
+    "Valor": 46097.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2004,
+    "Valor": 45593.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2005,
+    "Valor": 45917.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2006,
+    "Valor": 45152.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2007,
+    "Valor": 44098.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2008,
+    "Valor": 44173.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2009,
+    "Valor": 43932.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2010,
+    "Valor": 44251.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2011,
+    "Valor": 43465.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2012,
+    "Valor": 43497.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2013,
+    "Valor": 44530.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2014,
+    "Valor": 44721.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2015,
+    "Valor": 46122.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2016,
+    "Valor": 43340.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2017,
+    "Valor": 44568.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2018,
+    "Valor": 44195.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2019,
+    "Valor": 42422.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2020,
+    "Valor": 39361.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2021,
+    "Valor": 38035.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2022,
+    "Valor": 35928.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2023,
+    "Valor": 35551.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2024,
+    "Valor": 33233.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 1996,
+    "Valor": 822.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 1997,
+    "Valor": 827.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2001,
+    "Valor": 712.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2002,
+    "Valor": 625.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2003,
+    "Valor": 613.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2004,
+    "Valor": 636.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2005,
+    "Valor": 626.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2006,
+    "Valor": 578.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2007,
+    "Valor": 489.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2008,
+    "Valor": 525.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2009,
+    "Valor": 522.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2010,
+    "Valor": 559.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2011,
+    "Valor": 499.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2012,
+    "Valor": 506.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2013,
+    "Valor": 567.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2014,
+    "Valor": 510.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2015,
+    "Valor": 488.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2016,
+    "Valor": 447.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2017,
+    "Valor": 494.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2018,
+    "Valor": 453.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2019,
+    "Valor": 362.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2020,
+    "Valor": 384.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2021,
+    "Valor": 402.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2022,
+    "Valor": 362.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2023,
+    "Valor": 386.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  },
+  {
+    "Municipio": "BRASILIA",
+    "Ano": 2024,
+    "Valor": 347.0,
+    "UF": "DF",
+    "Tipo": "CMI_MIL"
+  }
+]

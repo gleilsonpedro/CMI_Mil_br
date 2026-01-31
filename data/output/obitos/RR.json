@@ -1,4188 +1,3482 @@
 [
   {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 1996,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140002 AMAJARI",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 1996,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 1996,
     "Valor": 204,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 1996,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 1996,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 1996,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 1996,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 1996,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 1996,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 1996,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 1996,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 1996,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 1996,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 1996,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 1996,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 1997,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140002 AMAJARI",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 1997,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 1997,
     "Valor": 105,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 1997,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 1997,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 1997,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 1997,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 1997,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 1997,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 1997,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 1997,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 1997,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 1997,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 1997,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 1997,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1997,
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
+    "Ano": 1998,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
+    "Ano": 1998,
+    "Valor": 5,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
+    "Ano": 1998,
+    "Valor": 118,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
+    "Ano": 1998,
+    "Valor": 7,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
+    "Ano": 1998,
+    "Valor": 4,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
+    "Ano": 1998,
+    "Valor": 6,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
+    "Ano": 1998,
+    "Valor": 10,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
+    "Ano": 1998,
+    "Valor": 3,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
+    "Ano": 1998,
+    "Valor": 3,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
+    "Ano": 1998,
+    "Valor": 4,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
+    "Ano": 1998,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
+    "Ano": 1999,
+    "Valor": 14,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
+    "Ano": 1999,
+    "Valor": 26,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
+    "Ano": 1999,
+    "Valor": 98,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
+    "Ano": 1999,
+    "Valor": 5,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
+    "Ano": 1999,
+    "Valor": 3,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
+    "Ano": 1999,
+    "Valor": 28,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
+    "Ano": 1999,
+    "Valor": 3,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
+    "Ano": 1999,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
+    "Ano": 1999,
+    "Valor": 7,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
+    "Ano": 1999,
+    "Valor": 5,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
+    "Ano": 1999,
+    "Valor": 6,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
+    "Ano": 1999,
+    "Valor": 6,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
+    "Ano": 1999,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
+    "Ano": 1999,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
+    "Ano": 1999,
+    "Valor": 4,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
+    "Ano": 2000,
+    "Valor": 14,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
+    "Ano": 2000,
+    "Valor": 13,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
+    "Ano": 2000,
+    "Valor": 105,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
+    "Ano": 2000,
+    "Valor": 7,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
+    "Ano": 2000,
+    "Valor": 4,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
+    "Ano": 2000,
+    "Valor": 9,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
+    "Ano": 2000,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1997,
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
+    "Ano": 2000,
+    "Valor": 1,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
+    "Ano": 2000,
+    "Valor": 4,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
+    "Ano": 2000,
+    "Valor": 4,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
+    "Ano": 2000,
+    "Valor": 3,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
+    "Ano": 2000,
+    "Valor": 5,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
+    "Ano": 2000,
+    "Valor": 2,
+    "UF": "RR",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
+    "Ano": 2000,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
+    "Ano": 2000,
+    "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2001,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2001,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2001,
     "Valor": 106,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2001,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2001,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2001,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2001,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2001,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2001,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2001,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2001,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2001,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2001,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2001,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2001,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2002,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2002,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2002,
     "Valor": 61,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2002,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2002,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2002,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2002,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2002,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2002,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2002,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2002,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2002,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2002,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2002,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2002,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2003,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2003,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2003,
     "Valor": 75,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2003,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2003,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2003,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2003,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2003,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2003,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2003,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2003,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2003,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2003,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2003,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2003,
     "Valor": 17,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2004,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2004,
     "Valor": 13,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2004,
     "Valor": 90,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2004,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2004,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2004,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2004,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2004,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2004,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2004,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2004,
     "Valor": 13,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2004,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2004,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2004,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2004,
     "Valor": 15,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2005,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2005,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2005,
     "Valor": 86,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2005,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2005,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2005,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2005,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2005,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2005,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2005,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2005,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2005,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2005,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2005,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2005,
     "Valor": 22,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2006,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2006,
     "Valor": 32,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2006,
     "Valor": 79,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2006,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2006,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2006,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2006,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2006,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2006,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2006,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2006,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2006,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2006,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2006,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2006,
     "Valor": 16,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2007,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2007,
     "Valor": 18,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2007,
     "Valor": 82,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2007,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2007,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2007,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2007,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2007,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2007,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2007,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2007,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2007,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2007,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2007,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2007,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2008,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2008,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2008,
     "Valor": 84,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2008,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2008,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2008,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2008,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2008,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2008,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2008,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2008,
     "Valor": 13,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2008,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2008,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2008,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2008,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2009,
     "Valor": 14,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2009,
     "Valor": 29,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2009,
     "Valor": 79,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2009,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2009,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2009,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2009,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2009,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2009,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2009,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2009,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2009,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2009,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2009,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2009,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2010,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2010,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2010,
     "Valor": 72,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2010,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2010,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2010,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2010,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2010,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2010,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2010,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2010,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2010,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2010,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2010,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2010,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2011,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140002 AMAJARI",
-    "Ano": 2011,
-    "Valor": 1,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2011,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2011,
     "Valor": 64,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2011,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2011,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2011,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2011,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2011,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2011,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2011,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2011,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2011,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2011,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2011,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2011,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2012,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2012,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2012,
     "Valor": 90,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2012,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2012,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2012,
     "Valor": 23,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2012,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2012,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2012,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2012,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2012,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2012,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2012,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2012,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2012,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2013,
     "Valor": 17,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2013,
     "Valor": 43,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2013,
     "Valor": 76,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2013,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2013,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2013,
     "Valor": 20,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2013,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2013,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2013,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2013,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2013,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2013,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2013,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2013,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2013,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2014,
     "Valor": 16,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2014,
     "Valor": 28,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2014,
     "Valor": 93,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2014,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2014,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2014,
     "Valor": 16,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2014,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2014,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2014,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2014,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2014,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2014,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2014,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2014,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2014,
     "Valor": 17,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2015,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2015,
     "Valor": 25,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2015,
     "Valor": 78,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2015,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2015,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2015,
     "Valor": 17,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2015,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2015,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2015,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2015,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2015,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2015,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2015,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2015,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2015,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2016,
     "Valor": 13,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2016,
     "Valor": 26,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2016,
     "Valor": 96,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2016,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2016,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2016,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2016,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2016,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2016,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2016,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2016,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2016,
     "Valor": 18,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2016,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2016,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2016,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2017,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2017,
     "Valor": 18,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2017,
     "Valor": 84,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2017,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2017,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2017,
     "Valor": 18,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2017,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2017,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2017,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2017,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2017,
     "Valor": 15,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2017,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2017,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2017,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2017,
     "Valor": 21,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2018,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2018,
     "Valor": 27,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2018,
     "Valor": 111,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2018,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2018,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2018,
     "Valor": 32,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2018,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2018,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2018,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2018,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2018,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2018,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2018,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2018,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2018,
     "Valor": 18,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2019,
     "Valor": 22,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2019,
     "Valor": 33,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2019,
     "Valor": 127,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2019,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2019,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2019,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2019,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2019,
     "Valor": 3,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2019,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2019,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2019,
     "Valor": 18,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2019,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2019,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2019,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2019,
     "Valor": 11,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2020,
     "Valor": 22,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2020,
     "Valor": 22,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2020,
     "Valor": 111,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2020,
     "Valor": 13,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2020,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2020,
     "Valor": 28,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2020,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2020,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2020,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2020,
     "Valor": 11,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2020,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2020,
     "Valor": 9,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2020,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2020,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2020,
     "Valor": 18,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2021,
     "Valor": 24,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2021,
     "Valor": 37,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2021,
     "Valor": 108,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2021,
     "Valor": 11,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2021,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2021,
     "Valor": 15,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2021,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2021,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2021,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2021,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2021,
     "Valor": 11,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2021,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2021,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2021,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2021,
     "Valor": 29,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2022,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2022,
     "Valor": 39,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2022,
     "Valor": 109,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2022,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2022,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2022,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2022,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2022,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2022,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2022,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2022,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2022,
     "Valor": 6,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2022,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2022,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2022,
     "Valor": 13,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2023,
     "Valor": 31,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2023,
     "Valor": 38,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2023,
     "Valor": 140,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2023,
     "Valor": 15,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2023,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2023,
     "Valor": 12,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2023,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2023,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2023,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2023,
     "Valor": 14,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2023,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2023,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2023,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2023,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2023,
     "Valor": 17,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "AMAJARI",
+    "Codigo_Municipio": "140002",
     "Ano": 2024,
     "Valor": 26,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "ALTO ALEGRE",
+    "Codigo_Municipio": "140005",
     "Ano": 2024,
     "Valor": 19,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BOA VISTA",
+    "Codigo_Municipio": "140010",
     "Ano": 2024,
     "Valor": 111,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "BONFIM",
+    "Codigo_Municipio": "140015",
     "Ano": 2024,
     "Valor": 7,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CANTA",
+    "Codigo_Municipio": "140017",
     "Ano": 2024,
     "Valor": 2,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CARACARAI",
+    "Codigo_Municipio": "140020",
     "Ano": 2024,
     "Valor": 23,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "CAROEBE",
+    "Codigo_Municipio": "140023",
     "Ano": 2024,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "IRACEMA",
+    "Codigo_Municipio": "140028",
     "Ano": 2024,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "MUCAJAI",
+    "Codigo_Municipio": "140030",
     "Ano": 2024,
     "Valor": 4,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "NORMANDIA",
+    "Codigo_Municipio": "140040",
     "Ano": 2024,
     "Valor": 5,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "PACARAIMA",
+    "Codigo_Municipio": "140045",
     "Ano": 2024,
     "Valor": 8,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "RORAINOPOLIS",
+    "Codigo_Municipio": "140047",
     "Ano": 2024,
     "Valor": 10,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO JOAO DA BALIZA",
+    "Codigo_Municipio": "140050",
     "Ano": 2024,
     "Valor": 1,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "SAO LUIZ",
+    "Codigo_Municipio": "140060",
     "Ano": 2024,
     "Valor": 0,
     "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
+    "Municipio": "UIRAMUTA",
+    "Codigo_Municipio": "140070",
     "Ano": 2024,
     "Valor": 13,
     "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   }
 ]

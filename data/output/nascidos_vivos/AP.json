@@ -1,4188 +1,3714 @@
 [
   {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 1996,
     "Valor": 152,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 1996,
     "Valor": 48,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 1996,
     "Valor": 37,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 1996,
     "Valor": 138,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 1996,
     "Valor": 14,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 1996,
     "Valor": 60,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 1996,
     "Valor": 810,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 1996,
     "Valor": 9436,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 1996,
     "Valor": 215,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 1996,
     "Valor": 31,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 1996,
     "Valor": 174,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 1996,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 1996,
     "Valor": 2831,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 1996,
     "Valor": 84,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 1997,
-    "Valor": 2,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 1997,
     "Valor": 123,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 1997,
     "Valor": 136,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 1997,
     "Valor": 44,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 1997,
     "Valor": 148,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 1997,
     "Valor": 71,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 1997,
     "Valor": 3,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 1997,
     "Valor": 691,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 1997,
     "Valor": 9508,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 1997,
     "Valor": 185,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 1997,
     "Valor": 145,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 1997,
     "Valor": 184,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 1997,
     "Valor": 23,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 1997,
     "Valor": 2828,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 1997,
     "Valor": 89,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 1997,
     "Valor": 138,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
+    "Ano": 1998,
+    "Valor": 108,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
+    "Ano": 1998,
+    "Valor": 158,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
+    "Ano": 1998,
+    "Valor": 59,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
+    "Ano": 1998,
+    "Valor": 123,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
+    "Ano": 1998,
+    "Valor": 2,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
+    "Ano": 1998,
+    "Valor": 77,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2001,
-    "Valor": 0,
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
+    "Ano": 1998,
+    "Valor": 7,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
+    "Ano": 1998,
+    "Valor": 702,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
+    "Ano": 1998,
+    "Valor": 9494,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
+    "Ano": 1998,
+    "Valor": 215,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
+    "Ano": 1998,
+    "Valor": 179,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
+    "Ano": 1998,
+    "Valor": 205,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
+    "Ano": 1998,
+    "Valor": 46,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
+    "Ano": 1998,
+    "Valor": 2813,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
+    "Ano": 1998,
+    "Valor": 70,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
+    "Ano": 1998,
+    "Valor": 187,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
+    "Ano": 1999,
+    "Valor": 56,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
+    "Ano": 1999,
+    "Valor": 156,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
+    "Ano": 1999,
+    "Valor": 21,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
+    "Ano": 1999,
+    "Valor": 178,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
+    "Ano": 1999,
+    "Valor": 26,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
+    "Ano": 1999,
+    "Valor": 93,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
+    "Ano": 1999,
+    "Valor": 22,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
+    "Ano": 1999,
+    "Valor": 331,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
+    "Ano": 1999,
+    "Valor": 9838,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
+    "Ano": 1999,
+    "Valor": 224,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
+    "Ano": 1999,
+    "Valor": 208,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
+    "Ano": 1999,
+    "Valor": 254,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
+    "Ano": 1999,
+    "Valor": 11,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
+    "Ano": 1999,
+    "Valor": 1937,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
+    "Ano": 1999,
+    "Valor": 69,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
+    "Ano": 1999,
+    "Valor": 164,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
+    "Ano": 2000,
+    "Valor": 117,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
+    "Ano": 2000,
+    "Valor": 184,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
+    "Ano": 2000,
+    "Valor": 37,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
+    "Ano": 2000,
+    "Valor": 179,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
+    "Ano": 2000,
+    "Valor": 52,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
+    "Ano": 2000,
+    "Valor": 97,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
+    "Ano": 2000,
+    "Valor": 32,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
+    "Ano": 2000,
+    "Valor": 845,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
+    "Ano": 2000,
+    "Valor": 8985,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
+    "Ano": 2000,
+    "Valor": 397,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
+    "Ano": 2000,
+    "Valor": 244,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
+    "Ano": 2000,
+    "Valor": 248,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
+    "Ano": 2000,
+    "Valor": 16,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
+    "Ano": 2000,
+    "Valor": 2414,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
+    "Ano": 2000,
+    "Valor": 126,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
+    "Ano": 2000,
+    "Valor": 265,
+    "UF": "AP",
+    "Tipo": "Nascidos_Vivos"
+  },
+  {
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2001,
     "Valor": 92,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2001,
     "Valor": 265,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2001,
     "Valor": 64,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2001,
     "Valor": 126,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2001,
     "Valor": 77,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2001,
     "Valor": 118,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2001,
     "Valor": 63,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2001,
     "Valor": 818,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2001,
     "Valor": 8919,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2001,
     "Valor": 368,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2001,
     "Valor": 279,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2001,
     "Valor": 304,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2001,
     "Valor": 39,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2001,
     "Valor": 2576,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2001,
     "Valor": 209,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2001,
     "Valor": 292,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2002,
     "Valor": 104,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2002,
     "Valor": 192,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2002,
     "Valor": 68,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2002,
     "Valor": 146,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2002,
     "Valor": 102,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2002,
     "Valor": 92,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2002,
     "Valor": 92,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2002,
     "Valor": 983,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2002,
     "Valor": 8579,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2002,
     "Valor": 385,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2002,
     "Valor": 368,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2002,
     "Valor": 257,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2002,
     "Valor": 50,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2002,
     "Valor": 2241,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2002,
     "Valor": 239,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2002,
     "Valor": 298,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2003,
     "Valor": 96,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2003,
     "Valor": 198,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2003,
     "Valor": 84,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2003,
     "Valor": 177,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2003,
     "Valor": 105,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2003,
     "Valor": 108,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2003,
     "Valor": 84,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2003,
     "Valor": 984,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2003,
     "Valor": 8821,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2003,
     "Valor": 382,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2003,
     "Valor": 421,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2003,
     "Valor": 291,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2003,
     "Valor": 61,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2003,
     "Valor": 2382,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2003,
     "Valor": 267,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2003,
     "Valor": 303,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2004,
     "Valor": 90,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2004,
     "Valor": 178,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2004,
     "Valor": 111,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2004,
     "Valor": 169,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2004,
     "Valor": 71,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2004,
     "Valor": 102,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2004,
     "Valor": 90,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2004,
     "Valor": 876,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2004,
     "Valor": 8200,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2004,
     "Valor": 331,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2004,
     "Valor": 345,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2004,
     "Valor": 332,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2004,
     "Valor": 56,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2004,
     "Valor": 2467,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2004,
     "Valor": 203,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2004,
     "Valor": 350,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2005,
     "Valor": 110,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2005,
     "Valor": 204,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2005,
     "Valor": 160,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2005,
     "Valor": 175,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2005,
     "Valor": 81,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2005,
     "Valor": 121,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2005,
     "Valor": 67,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2005,
     "Valor": 995,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2005,
     "Valor": 8422,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2005,
     "Valor": 374,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2005,
     "Valor": 436,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2005,
     "Valor": 261,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2005,
     "Valor": 69,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2005,
     "Valor": 2205,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2005,
     "Valor": 222,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2005,
     "Valor": 303,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2006,
-    "Valor": 2,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2006,
     "Valor": 79,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2006,
     "Valor": 153,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2006,
     "Valor": 148,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2006,
     "Valor": 207,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2006,
     "Valor": 112,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2006,
     "Valor": 130,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2006,
     "Valor": 86,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2006,
     "Valor": 994,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2006,
     "Valor": 8712,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2006,
     "Valor": 409,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2006,
     "Valor": 443,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2006,
     "Valor": 314,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2006,
     "Valor": 85,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2006,
     "Valor": 2282,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2006,
     "Valor": 238,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2006,
     "Valor": 320,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2007,
     "Valor": 71,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2007,
     "Valor": 132,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2007,
     "Valor": 130,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2007,
     "Valor": 211,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2007,
     "Valor": 92,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2007,
     "Valor": 113,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2007,
     "Valor": 84,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2007,
     "Valor": 906,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2007,
     "Valor": 8781,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2007,
     "Valor": 398,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2007,
     "Valor": 388,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2007,
     "Valor": 268,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2007,
     "Valor": 76,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2007,
     "Valor": 2208,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2007,
     "Valor": 283,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2007,
     "Valor": 284,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2008,
     "Valor": 112,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2008,
     "Valor": 149,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2008,
     "Valor": 146,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2008,
     "Valor": 193,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2008,
     "Valor": 100,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2008,
     "Valor": 126,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2008,
     "Valor": 35,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2008,
     "Valor": 1015,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2008,
     "Valor": 9125,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2008,
     "Valor": 430,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2008,
     "Valor": 455,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2008,
     "Valor": 359,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2008,
     "Valor": 80,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2008,
     "Valor": 2241,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2008,
     "Valor": 251,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2008,
     "Valor": 288,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2009,
     "Valor": 74,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2009,
     "Valor": 121,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2009,
     "Valor": 115,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2009,
     "Valor": 210,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2009,
     "Valor": 75,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2009,
     "Valor": 82,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2009,
     "Valor": 77,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2009,
     "Valor": 1004,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2009,
     "Valor": 8852,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2009,
     "Valor": 374,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2009,
     "Valor": 357,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2009,
     "Valor": 258,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2009,
     "Valor": 83,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2009,
     "Valor": 2073,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2009,
     "Valor": 266,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2009,
     "Valor": 277,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2010,
-    "Valor": 1,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2010,
     "Valor": 73,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2010,
     "Valor": 144,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2010,
     "Valor": 137,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2010,
     "Valor": 217,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2010,
     "Valor": 76,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2010,
     "Valor": 107,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2010,
     "Valor": 66,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2010,
     "Valor": 925,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2010,
     "Valor": 9302,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2010,
     "Valor": 411,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2010,
     "Valor": 421,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2010,
     "Valor": 318,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2010,
     "Valor": 73,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2010,
     "Valor": 2240,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2010,
     "Valor": 246,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2010,
     "Valor": 251,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2011,
     "Valor": 70,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2011,
     "Valor": 155,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2011,
     "Valor": 188,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2011,
     "Valor": 191,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2011,
     "Valor": 87,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2011,
     "Valor": 109,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2011,
     "Valor": 97,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2011,
     "Valor": 863,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2011,
     "Valor": 9404,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2011,
     "Valor": 410,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2011,
     "Valor": 486,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2011,
     "Valor": 342,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2011,
     "Valor": 78,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2011,
     "Valor": 2126,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2011,
     "Valor": 245,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2011,
     "Valor": 263,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2012,
-    "Valor": 1,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2012,
     "Valor": 77,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2012,
     "Valor": 148,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2012,
     "Valor": 279,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2012,
     "Valor": 180,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2012,
     "Valor": 68,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2012,
     "Valor": 168,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2012,
     "Valor": 102,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2012,
     "Valor": 893,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2012,
     "Valor": 8993,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2012,
     "Valor": 404,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2012,
     "Valor": 484,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2012,
     "Valor": 305,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2012,
     "Valor": 76,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2012,
     "Valor": 2186,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2012,
     "Valor": 288,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2012,
     "Valor": 243,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2013,
-    "Valor": 1,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2013,
     "Valor": 89,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2013,
     "Valor": 154,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2013,
     "Valor": 283,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2013,
     "Valor": 195,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2013,
     "Valor": 83,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2013,
     "Valor": 193,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2013,
     "Valor": 115,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2013,
     "Valor": 887,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2013,
     "Valor": 9540,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2013,
     "Valor": 449,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2013,
     "Valor": 500,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2013,
     "Valor": 340,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2013,
     "Valor": 79,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2013,
     "Valor": 2260,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2013,
     "Valor": 271,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2013,
     "Valor": 271,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2014,
     "Valor": 73,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2014,
     "Valor": 141,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2014,
     "Valor": 274,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2014,
     "Valor": 194,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2014,
     "Valor": 81,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2014,
     "Valor": 187,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2014,
     "Valor": 121,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2014,
     "Valor": 996,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2014,
     "Valor": 9799,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2014,
     "Valor": 432,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2014,
     "Valor": 529,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2014,
     "Valor": 427,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2014,
     "Valor": 72,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2014,
     "Valor": 2378,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2014,
     "Valor": 293,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2014,
     "Valor": 274,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2015,
-    "Valor": 3,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2015,
     "Valor": 63,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2015,
     "Valor": 161,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2015,
     "Valor": 244,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2015,
     "Valor": 198,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2015,
     "Valor": 85,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2015,
     "Valor": 192,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2015,
     "Valor": 109,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2015,
     "Valor": 923,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2015,
     "Valor": 9492,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2015,
     "Valor": 466,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2015,
     "Valor": 469,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2015,
     "Valor": 414,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2015,
     "Valor": 84,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2015,
     "Valor": 2267,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2015,
     "Valor": 302,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2015,
     "Valor": 278,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2016,
     "Valor": 67,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2016,
     "Valor": 133,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2016,
     "Valor": 252,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2016,
     "Valor": 176,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2016,
     "Valor": 89,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2016,
     "Valor": 180,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2016,
     "Valor": 99,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2016,
     "Valor": 783,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2016,
     "Valor": 9478,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2016,
     "Valor": 460,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2016,
     "Valor": 559,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2016,
     "Valor": 369,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2016,
     "Valor": 66,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2016,
     "Valor": 2253,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2016,
     "Valor": 311,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2016,
     "Valor": 246,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2017,
     "Valor": 60,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2017,
     "Valor": 141,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2017,
     "Valor": 272,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2017,
     "Valor": 210,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2017,
     "Valor": 106,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2017,
     "Valor": 164,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2017,
     "Valor": 120,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2017,
     "Valor": 813,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2017,
     "Valor": 9269,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2017,
     "Valor": 450,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2017,
     "Valor": 557,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2017,
     "Valor": 395,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2017,
     "Valor": 80,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2017,
     "Valor": 2188,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2017,
     "Valor": 300,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2017,
     "Valor": 274,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2018,
     "Valor": 76,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2018,
     "Valor": 188,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2018,
     "Valor": 303,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2018,
     "Valor": 223,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2018,
     "Valor": 118,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2018,
     "Valor": 168,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2018,
     "Valor": 157,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2018,
     "Valor": 830,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2018,
     "Valor": 9293,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2018,
     "Valor": 516,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2018,
     "Valor": 577,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2018,
     "Valor": 440,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2018,
     "Valor": 77,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2018,
     "Valor": 2279,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2018,
     "Valor": 319,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2018,
     "Valor": 300,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2019,
     "Valor": 92,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2019,
     "Valor": 169,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2019,
     "Valor": 311,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2019,
     "Valor": 214,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2019,
     "Valor": 90,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2019,
     "Valor": 168,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2019,
     "Valor": 145,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2019,
     "Valor": 776,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2019,
     "Valor": 8884,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2019,
     "Valor": 576,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2019,
     "Valor": 596,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2019,
     "Valor": 411,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2019,
     "Valor": 71,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2019,
     "Valor": 2230,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2019,
     "Valor": 331,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2019,
     "Valor": 292,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2020,
     "Valor": 94,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2020,
     "Valor": 196,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2020,
     "Valor": 330,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2020,
     "Valor": 203,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2020,
     "Valor": 113,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2020,
     "Valor": 177,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2020,
     "Valor": 151,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2020,
     "Valor": 736,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2020,
     "Valor": 8446,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2020,
     "Valor": 527,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2020,
     "Valor": 592,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2020,
     "Valor": 374,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2020,
     "Valor": 98,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2020,
     "Valor": 1995,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2020,
     "Valor": 337,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2020,
     "Valor": 264,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2021,
     "Valor": 94,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2021,
     "Valor": 160,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2021,
     "Valor": 336,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2021,
     "Valor": 209,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2021,
     "Valor": 117,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2021,
     "Valor": 154,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2021,
     "Valor": 156,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2021,
     "Valor": 688,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2021,
     "Valor": 8589,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2021,
     "Valor": 575,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2021,
     "Valor": 609,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2021,
     "Valor": 393,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2021,
     "Valor": 111,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2021,
     "Valor": 2200,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2021,
     "Valor": 343,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2021,
     "Valor": 259,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2022,
     "Valor": 61,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2022,
     "Valor": 184,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2022,
     "Valor": 290,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2022,
     "Valor": 174,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2022,
     "Valor": 101,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2022,
     "Valor": 149,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2022,
     "Valor": 139,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2022,
     "Valor": 598,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2022,
     "Valor": 7963,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2022,
     "Valor": 485,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2022,
     "Valor": 559,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2022,
     "Valor": 353,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2022,
     "Valor": 78,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2022,
     "Valor": 1990,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2022,
     "Valor": 285,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2022,
     "Valor": 206,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2023,
     "Valor": 61,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2023,
     "Valor": 132,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2023,
     "Valor": 280,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2023,
     "Valor": 172,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2023,
     "Valor": 114,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2023,
     "Valor": 139,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2023,
     "Valor": 119,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2023,
     "Valor": 594,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2023,
     "Valor": 7414,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2023,
     "Valor": 481,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2023,
     "Valor": 583,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2023,
     "Valor": 328,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2023,
     "Valor": 76,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2023,
     "Valor": 1926,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2023,
     "Valor": 296,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2023,
     "Valor": 233,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AP",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "160005 SERRA DO NAVIO",
+    "Municipio": "SERRA DO NAVIO",
+    "Codigo_Municipio": "160005",
     "Ano": 2024,
     "Valor": 57,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160010 AMAPA",
+    "Municipio": "AMAPA",
+    "Codigo_Municipio": "160010",
     "Ano": 2024,
     "Valor": 141,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Municipio": "PEDRA BRANCA DO AMAPARI",
+    "Codigo_Municipio": "160015",
     "Ano": 2024,
     "Valor": 275,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160020 CALCOENE",
+    "Municipio": "CALCOENE",
+    "Codigo_Municipio": "160020",
     "Ano": 2024,
     "Valor": 174,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160021 CUTIAS",
+    "Municipio": "CUTIAS",
+    "Codigo_Municipio": "160021",
     "Ano": 2024,
     "Valor": 99,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160023 FERREIRA GOMES",
+    "Municipio": "FERREIRA GOMES",
+    "Codigo_Municipio": "160023",
     "Ano": 2024,
     "Valor": 135,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160025 ITAUBAL",
+    "Municipio": "ITAUBAL",
+    "Codigo_Municipio": "160025",
     "Ano": 2024,
     "Valor": 127,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160027 LARANJAL DO JARI",
+    "Municipio": "LARANJAL DO JARI",
+    "Codigo_Municipio": "160027",
     "Ano": 2024,
     "Valor": 539,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160030 MACAPA",
+    "Municipio": "MACAPA",
+    "Codigo_Municipio": "160030",
     "Ano": 2024,
     "Valor": 7156,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160040 MAZAGAO",
+    "Municipio": "MAZAGAO",
+    "Codigo_Municipio": "160040",
     "Ano": 2024,
     "Valor": 434,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160050 OIAPOQUE",
+    "Municipio": "OIAPOQUE",
+    "Codigo_Municipio": "160050",
     "Ano": 2024,
     "Valor": 537,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160053 PORTO GRANDE",
+    "Municipio": "PORTO GRANDE",
+    "Codigo_Municipio": "160053",
     "Ano": 2024,
     "Valor": 328,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160055 PRACUUBA",
+    "Municipio": "PRACUUBA",
+    "Codigo_Municipio": "160055",
     "Ano": 2024,
     "Valor": 64,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160060 SANTANA",
+    "Municipio": "SANTANA",
+    "Codigo_Municipio": "160060",
     "Ano": 2024,
     "Valor": 1808,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160070 TARTARUGALZINHO",
+    "Municipio": "TARTARUGALZINHO",
+    "Codigo_Municipio": "160070",
     "Ano": 2024,
     "Valor": 243,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   },
   {
-    "Municipio": "160080 VITORIA DO JARI",
+    "Municipio": "VITORIA DO JARI",
+    "Codigo_Municipio": "160080",
     "Ano": 2024,
     "Valor": 186,
     "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AP",
-    "Tipo": "Nascidos Vivos"
+    "Tipo": "Nascidos_Vivos"
   }
 ]

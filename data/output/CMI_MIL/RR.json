@@ -1,4467 +1,3046 @@
 [
   {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 1996,
-    "Valor": 0,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 1996,
-    "Valor": 0,
+    "Valor": 20.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 1996,
-    "Valor": 20,
+    "Valor": 35.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 1996,
-    "Valor": 35,
+    "Valor": 35.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 1996,
-    "Valor": 35,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 1996,
-    "Valor": 0,
+    "Valor": 18.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 1996,
-    "Valor": 18,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 1996,
-    "Valor": 0,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 1996,
-    "Valor": 0,
+    "Valor": 11.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 1996,
-    "Valor": 11,
+    "Valor": 43.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 1996,
-    "Valor": 43,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 1996,
-    "Valor": 0,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 1996,
-    "Valor": 0,
+    "Valor": 14.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 1996,
-    "Valor": 14,
+    "Valor": 15.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 1996,
-    "Valor": 15,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 1997,
-    "Valor": 0,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 1997,
-    "Valor": 0,
+    "Valor": 22.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 1997,
-    "Valor": 22,
+    "Valor": 17.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 1997,
-    "Valor": 17,
+    "Valor": 29.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 1997,
-    "Valor": 29,
+    "Valor": 26.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 1997,
-    "Valor": 26,
+    "Valor": 18.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 1997,
-    "Valor": 18,
+    "Valor": 0.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 1997,
-    "Valor": 0,
+    "Valor": 32.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 1997,
-    "Valor": 32,
+    "Valor": 12.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 1997,
-    "Valor": 12,
+    "Valor": 38.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 1997,
-    "Valor": 38,
+    "Valor": 28.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 1997,
-    "Valor": 28,
+    "Valor": 24.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 1997,
-    "Valor": 24,
+    "Valor": 20.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 1997,
-    "Valor": 20,
+    "Valor": 17.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 1997,
-    "Valor": 17,
+    "Valor": 150.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 1997,
-    "Valor": 150,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 1998,
-    "Valor": 0,
+    "Valor": 12.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 1998,
-    "Valor": 12,
+    "Valor": 23.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 1998,
-    "Valor": 23,
+    "Valor": 19.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 1998,
-    "Valor": 19,
+    "Valor": 34.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 1998,
-    "Valor": 34,
+    "Valor": 32.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 1998,
-    "Valor": 32,
+    "Valor": 19.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 1998,
-    "Valor": 19,
+    "Valor": 9.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 1998,
-    "Valor": 9,
+    "Valor": 15.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 1998,
-    "Valor": 15,
+    "Valor": 17.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 1998,
-    "Valor": 17,
+    "Valor": 32.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 1998,
-    "Valor": 32,
+    "Valor": 26.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 1998,
-    "Valor": 26,
+    "Valor": 21.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 1998,
-    "Valor": 21,
+    "Valor": 16.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 1998,
-    "Valor": 16,
+    "Valor": 18.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 1998,
-    "Valor": 18,
+    "Valor": 84.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 1998,
-    "Valor": 84,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 1998,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1998,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1998,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1998,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1998,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1998,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 1999,
-    "Valor": 0,
+    "Valor": 48.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 1999,
-    "Valor": 48,
+    "Valor": 39.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 1999,
-    "Valor": 39,
+    "Valor": 15.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 1999,
-    "Valor": 15,
+    "Valor": 30.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 1999,
-    "Valor": 30,
+    "Valor": 23.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 1999,
-    "Valor": 23,
+    "Valor": 38.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 1999,
-    "Valor": 38,
+    "Valor": 14.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 1999,
-    "Valor": 14,
+    "Valor": 17.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 1999,
-    "Valor": 17,
+    "Valor": 18.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 1999,
-    "Valor": 18,
+    "Valor": 27.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 1999,
-    "Valor": 27,
+    "Valor": 27.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 1999,
-    "Valor": 27,
+    "Valor": 22.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 1999,
-    "Valor": 22,
+    "Valor": 14.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 1999,
-    "Valor": 14,
+    "Valor": 18.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 1999,
-    "Valor": 18,
+    "Valor": 28.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 1999,
-    "Valor": 28,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 1999,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1999,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1999,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1999,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1999,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1999,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2000,
-    "Valor": 0,
+    "Valor": 57.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2000,
-    "Valor": 57,
+    "Valor": 38.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2000,
-    "Valor": 38,
+    "Valor": 16.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2000,
-    "Valor": 16,
+    "Valor": 30.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2000,
-    "Valor": 30,
+    "Valor": 22.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2000,
-    "Valor": 22,
+    "Valor": 36.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2000,
-    "Valor": 36,
+    "Valor": 10.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2000,
-    "Valor": 10,
+    "Valor": 14.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2000,
-    "Valor": 14,
+    "Valor": 19.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2000,
-    "Valor": 19,
+    "Valor": 23.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2000,
-    "Valor": 23,
+    "Valor": 19.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2000,
-    "Valor": 19,
+    "Valor": 20.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2000,
-    "Valor": 20,
+    "Valor": 14.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2000,
-    "Valor": 14,
+    "Valor": 15.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2000,
-    "Valor": 15,
+    "Valor": 34.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2000,
-    "Valor": 34,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2000,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2000,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2000,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2000,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2000,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2000,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2001,
-    "Valor": 0,
+    "Valor": 48.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2001,
-    "Valor": 48,
+    "Valor": 34.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2001,
-    "Valor": 34,
+    "Valor": 17.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2001,
-    "Valor": 17,
+    "Valor": 29.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2001,
-    "Valor": 29,
+    "Valor": 20.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2001,
-    "Valor": 20,
+    "Valor": 32.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2001,
-    "Valor": 32,
+    "Valor": 12.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2001,
-    "Valor": 12,
+    "Valor": 11.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2001,
-    "Valor": 11,
+    "Valor": 21.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2001,
-    "Valor": 21,
+    "Valor": 18.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2001,
-    "Valor": 18,
+    "Valor": 17.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2001,
-    "Valor": 17,
+    "Valor": 19.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2001,
-    "Valor": 19,
+    "Valor": 14.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2001,
-    "Valor": 14,
+    "Valor": 13.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2001,
-    "Valor": 13,
+    "Valor": 25.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2001,
-    "Valor": 25,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2002,
-    "Valor": 0,
+    "Valor": 44.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2002,
-    "Valor": 44,
+    "Valor": 22.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2002,
-    "Valor": 22,
+    "Valor": 10.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2002,
-    "Valor": 10,
+    "Valor": 31.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2002,
-    "Valor": 31,
+    "Valor": 23.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2002,
-    "Valor": 23,
+    "Valor": 16.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2002,
-    "Valor": 16,
+    "Valor": 11.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2002,
-    "Valor": 11,
+    "Valor": 13.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2002,
-    "Valor": 13,
+    "Valor": 16.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2002,
-    "Valor": 16,
+    "Valor": 15.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2002,
-    "Valor": 15,
+    "Valor": 13.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2002,
-    "Valor": 13,
+    "Valor": 19.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2002,
-    "Valor": 19,
+    "Valor": 15.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2002,
-    "Valor": 15,
+    "Valor": 12.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2002,
-    "Valor": 12,
+    "Valor": 27.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2002,
-    "Valor": 27,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2003,
-    "Valor": 0,
+    "Valor": 41.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2003,
-    "Valor": 41,
+    "Valor": 19.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2003,
-    "Valor": 19,
+    "Valor": 12.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2003,
-    "Valor": 12,
+    "Valor": 33.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2003,
-    "Valor": 33,
+    "Valor": 20.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2003,
-    "Valor": 20,
+    "Valor": 11.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2003,
-    "Valor": 11,
+    "Valor": 10.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2003,
-    "Valor": 10,
+    "Valor": 14.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2003,
-    "Valor": 14,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2003,
-    "Valor": 16,
+    "Valor": 16.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2003,
-    "Valor": 16,
+    "Valor": 10.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2003,
-    "Valor": 10,
+    "Valor": 20.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2003,
-    "Valor": 20,
+    "Valor": 14.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2003,
-    "Valor": 14,
+    "Valor": 14.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2003,
-    "Valor": 14,
+    "Valor": 32.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2003,
-    "Valor": 32,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2004,
-    "Valor": 0,
+    "Valor": 37.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2004,
-    "Valor": 37,
+    "Valor": 23.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2004,
-    "Valor": 23,
+    "Valor": 15.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2004,
-    "Valor": 15,
+    "Valor": 31.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2004,
-    "Valor": 31,
+    "Valor": 23.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2004,
-    "Valor": 23,
+    "Valor": 8.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2004,
-    "Valor": 8,
+    "Valor": 11.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2004,
-    "Valor": 11,
+    "Valor": 20.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2004,
-    "Valor": 20,
+    "Valor": 19.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2004,
-    "Valor": 19,
+    "Valor": 22.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2004,
-    "Valor": 22,
+    "Valor": 19.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2004,
-    "Valor": 19,
+    "Valor": 20.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2004,
-    "Valor": 20,
+    "Valor": 16.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2004,
-    "Valor": 16,
+    "Valor": 13.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2004,
-    "Valor": 13,
+    "Valor": 37.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2004,
-    "Valor": 37,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2005,
-    "Valor": 0,
+    "Valor": 32.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2005,
-    "Valor": 32,
+    "Valor": 20.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2005,
-    "Valor": 20,
+    "Valor": 14.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2005,
-    "Valor": 14,
+    "Valor": 32.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2005,
-    "Valor": 32,
+    "Valor": 23.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2005,
-    "Valor": 23,
+    "Valor": 10.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2005,
-    "Valor": 10,
+    "Valor": 10.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2005,
-    "Valor": 10,
+    "Valor": 20.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2005,
-    "Valor": 20,
+    "Valor": 19.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2005,
-    "Valor": 19,
+    "Valor": 24.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2005,
-    "Valor": 24,
+    "Valor": 19.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2005,
-    "Valor": 19,
+    "Valor": 20.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2005,
-    "Valor": 20,
+    "Valor": 15.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2005,
-    "Valor": 15,
+    "Valor": 12.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2005,
-    "Valor": 12,
+    "Valor": 53.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2005,
-    "Valor": 53,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2006,
-    "Valor": 0,
+    "Valor": 27.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2006,
-    "Valor": 27,
+    "Valor": 39.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2006,
-    "Valor": 39,
+    "Valor": 13.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2006,
-    "Valor": 13,
+    "Valor": 31.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2006,
-    "Valor": 31,
+    "Valor": 19.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2006,
-    "Valor": 19,
+    "Valor": 11.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2006,
-    "Valor": 11,
+    "Valor": 10.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2006,
-    "Valor": 10,
+    "Valor": 18.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2006,
-    "Valor": 18,
+    "Valor": 21.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2006,
-    "Valor": 21,
+    "Valor": 29.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2006,
-    "Valor": 29,
+    "Valor": 23.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2006,
-    "Valor": 23,
+    "Valor": 24.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2006,
-    "Valor": 24,
+    "Valor": 20.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2006,
-    "Valor": 20,
+    "Valor": 13.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2006,
-    "Valor": 13,
+    "Valor": 49.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2006,
-    "Valor": 49,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2007,
-    "Valor": 0,
+    "Valor": 29.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2007,
-    "Valor": 29,
+    "Valor": 41.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2007,
-    "Valor": 41,
+    "Valor": 13.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2007,
-    "Valor": 13,
+    "Valor": 26.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2007,
-    "Valor": 26,
+    "Valor": 17.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2007,
-    "Valor": 17,
+    "Valor": 15.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2007,
-    "Valor": 15,
+    "Valor": 10.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2007,
-    "Valor": 10,
+    "Valor": 18.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2007,
-    "Valor": 18,
+    "Valor": 19.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2007,
-    "Valor": 19,
+    "Valor": 27.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2007,
-    "Valor": 27,
+    "Valor": 26.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2007,
-    "Valor": 26,
+    "Valor": 25.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2007,
-    "Valor": 25,
+    "Valor": 21.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2007,
-    "Valor": 21,
+    "Valor": 13.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2007,
-    "Valor": 13,
+    "Valor": 44.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2007,
-    "Valor": 44,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2008,
-    "Valor": 0,
+    "Valor": 25.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2008,
-    "Valor": 25,
+    "Valor": 42.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2008,
-    "Valor": 42,
+    "Valor": 13.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2008,
-    "Valor": 13,
+    "Valor": 24.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2008,
-    "Valor": 24,
+    "Valor": 12.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2008,
-    "Valor": 12,
+    "Valor": 21.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2008,
-    "Valor": 21,
+    "Valor": 11.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2008,
-    "Valor": 11,
+    "Valor": 18.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2008,
-    "Valor": 18,
+    "Valor": 14.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2008,
-    "Valor": 14,
+    "Valor": 25.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2008,
-    "Valor": 25,
+    "Valor": 27.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2008,
-    "Valor": 27,
+    "Valor": 22.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2008,
-    "Valor": 22,
+    "Valor": 22.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2008,
-    "Valor": 22,
+    "Valor": 13.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2008,
-    "Valor": 13,
+    "Valor": 39.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2008,
-    "Valor": 39,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2009,
-    "Valor": 0,
+    "Valor": 33.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2009,
-    "Valor": 33,
+    "Valor": 38.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2009,
-    "Valor": 38,
+    "Valor": 13.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2009,
-    "Valor": 13,
+    "Valor": 23.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2009,
-    "Valor": 23,
+    "Valor": 12.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2009,
-    "Valor": 12,
+    "Valor": 24.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2009,
-    "Valor": 24,
+    "Valor": 10.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2009,
-    "Valor": 10,
+    "Valor": 23.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2009,
-    "Valor": 23,
+    "Valor": 12.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2009,
-    "Valor": 12,
+    "Valor": 23.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2009,
-    "Valor": 23,
+    "Valor": 29.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2009,
-    "Valor": 29,
+    "Valor": 13.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2009,
-    "Valor": 13,
+    "Valor": 20.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2009,
-    "Valor": 20,
+    "Valor": 11.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2009,
-    "Valor": 11,
+    "Valor": 37.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2009,
-    "Valor": 37,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2010,
-    "Valor": 0,
+    "Valor": 28.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2010,
-    "Valor": 28,
+    "Valor": 30.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2010,
-    "Valor": 30,
+    "Valor": 11.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2010,
-    "Valor": 11,
+    "Valor": 21.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2010,
-    "Valor": 21,
+    "Valor": 11.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2010,
-    "Valor": 11,
+    "Valor": 17.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2010,
-    "Valor": 17,
+    "Valor": 10.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2010,
-    "Valor": 10,
+    "Valor": 22.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2010,
-    "Valor": 22,
+    "Valor": 10.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2010,
-    "Valor": 10,
+    "Valor": 22.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2010,
-    "Valor": 22,
+    "Valor": 25.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2010,
-    "Valor": 25,
+    "Valor": 9.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2010,
-    "Valor": 9,
+    "Valor": 21.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2010,
-    "Valor": 21,
+    "Valor": 11.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2010,
-    "Valor": 11,
+    "Valor": 36.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2010,
-    "Valor": 36,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2011,
-    "Valor": 0,
+    "Valor": 22.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2011,
-    "Valor": 22,
+    "Valor": 29.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2011,
-    "Valor": 29,
+    "Valor": 10.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2011,
-    "Valor": 10,
+    "Valor": 17.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2011,
-    "Valor": 17,
+    "Valor": 12.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2011,
-    "Valor": 12,
+    "Valor": 12.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2011,
-    "Valor": 12,
+    "Valor": 11.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2011,
-    "Valor": 11,
+    "Valor": 17.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2011,
-    "Valor": 17,
+    "Valor": 10.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2011,
-    "Valor": 10,
+    "Valor": 20.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2011,
-    "Valor": 20,
+    "Valor": 28.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2011,
-    "Valor": 28,
+    "Valor": 13.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2011,
-    "Valor": 13,
+    "Valor": 19.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2011,
-    "Valor": 19,
+    "Valor": 12.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2011,
-    "Valor": 12,
+    "Valor": 38.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2011,
-    "Valor": 38,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2012,
-    "Valor": 0,
+    "Valor": 27.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2012,
-    "Valor": 27,
+    "Valor": 21.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2012,
-    "Valor": 21,
+    "Valor": 14.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2012,
-    "Valor": 14,
+    "Valor": 15.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2012,
-    "Valor": 15,
+    "Valor": 15.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2012,
-    "Valor": 15,
+    "Valor": 25.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2012,
-    "Valor": 25,
+    "Valor": 11.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2012,
-    "Valor": 11,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2012,
-    "Valor": 16,
+    "Valor": 11.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2012,
-    "Valor": 11,
+    "Valor": 15.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2012,
-    "Valor": 15,
+    "Valor": 17.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2012,
-    "Valor": 17,
+    "Valor": 15.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2012,
-    "Valor": 15,
+    "Valor": 19.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2012,
-    "Valor": 19,
+    "Valor": 11.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2012,
-    "Valor": 11,
+    "Valor": 27.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2012,
-    "Valor": 27,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2013,
-    "Valor": 0,
+    "Valor": 29.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2013,
-    "Valor": 29,
+    "Valor": 51.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2013,
-    "Valor": 51,
+    "Valor": 12.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2013,
-    "Valor": 12,
+    "Valor": 13.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2013,
-    "Valor": 13,
+    "Valor": 13.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2013,
-    "Valor": 13,
+    "Valor": 39.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2013,
-    "Valor": 39,
+    "Valor": 10.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2013,
-    "Valor": 10,
+    "Valor": 19.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2013,
-    "Valor": 19,
+    "Valor": 12.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2013,
-    "Valor": 12,
+    "Valor": 12.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2013,
-    "Valor": 12,
+    "Valor": 18.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2013,
-    "Valor": 18,
+    "Valor": 15.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2013,
-    "Valor": 15,
+    "Valor": 19.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2013,
-    "Valor": 19,
+    "Valor": 12.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2013,
-    "Valor": 12,
+    "Valor": 23.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2013,
-    "Valor": 23,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2014,
-    "Valor": 0,
+    "Valor": 36.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2014,
-    "Valor": 36,
+    "Valor": 61.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2014,
-    "Valor": 61,
+    "Valor": 13.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2014,
-    "Valor": 13,
+    "Valor": 12.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2014,
-    "Valor": 12,
+    "Valor": 18.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2014,
-    "Valor": 18,
+    "Valor": 47.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2014,
-    "Valor": 47,
+    "Valor": 11.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2014,
-    "Valor": 11,
+    "Valor": 21.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2014,
-    "Valor": 21,
+    "Valor": 13.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2014,
-    "Valor": 13,
+    "Valor": 15.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2014,
-    "Valor": 15,
+    "Valor": 14.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2014,
-    "Valor": 14,
+    "Valor": 15.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2014,
-    "Valor": 15,
+    "Valor": 19.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2014,
-    "Valor": 19,
+    "Valor": 13.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2014,
-    "Valor": 13,
+    "Valor": 25.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2014,
-    "Valor": 25,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2015,
-    "Valor": 0,
+    "Valor": 41.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2015,
-    "Valor": 41,
+    "Valor": 47.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2015,
-    "Valor": 47,
+    "Valor": 11.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2015,
-    "Valor": 11,
+    "Valor": 18.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2015,
-    "Valor": 18,
+    "Valor": 21.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2015,
-    "Valor": 21,
+    "Valor": 43.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2015,
-    "Valor": 43,
+    "Valor": 12.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2015,
-    "Valor": 12,
+    "Valor": 21.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2015,
-    "Valor": 21,
+    "Valor": 18.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2015,
-    "Valor": 18,
+    "Valor": 15.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2015,
-    "Valor": 15,
+    "Valor": 18.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2015,
-    "Valor": 18,
+    "Valor": 10.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2015,
-    "Valor": 10,
+    "Valor": 18.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2015,
-    "Valor": 18,
+    "Valor": 13.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2015,
-    "Valor": 13,
+    "Valor": 25.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2015,
-    "Valor": 25,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2016,
-    "Valor": 0,
+    "Valor": 43.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2016,
-    "Valor": 43,
+    "Valor": 43.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2016,
-    "Valor": 43,
+    "Valor": 14.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2016,
-    "Valor": 14,
+    "Valor": 16.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2016,
-    "Valor": 16,
+    "Valor": 18.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2016,
-    "Valor": 18,
+    "Valor": 43.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2016,
-    "Valor": 43,
+    "Valor": 12.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2016,
-    "Valor": 12,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2016,
-    "Valor": 16,
+    "Valor": 20.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2016,
-    "Valor": 20,
+    "Valor": 14.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2016,
-    "Valor": 14,
+    "Valor": 17.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2016,
-    "Valor": 17,
+    "Valor": 17.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2016,
-    "Valor": 17,
+    "Valor": 18.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2016,
-    "Valor": 18,
+    "Valor": 13.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2016,
-    "Valor": 13,
+    "Valor": 19.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2016,
-    "Valor": 19,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2017,
-    "Valor": 0,
+    "Valor": 32.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2017,
-    "Valor": 32,
+    "Valor": 38.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2017,
-    "Valor": 38,
+    "Valor": 11.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2017,
-    "Valor": 11,
+    "Valor": 21.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2017,
-    "Valor": 21,
+    "Valor": 17.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2017,
-    "Valor": 17,
+    "Valor": 44.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2017,
-    "Valor": 44,
+    "Valor": 13.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2017,
-    "Valor": 13,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2017,
-    "Valor": 16,
+    "Valor": 19.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2017,
-    "Valor": 19,
+    "Valor": 16.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2017,
-    "Valor": 16,
+    "Valor": 25.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2017,
-    "Valor": 25,
+    "Valor": 20.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2017,
-    "Valor": 20,
+    "Valor": 17.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2017,
-    "Valor": 17,
+    "Valor": 14.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2017,
-    "Valor": 14,
+    "Valor": 27.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2017,
-    "Valor": 27,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2018,
-    "Valor": 0,
+    "Valor": 37.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2018,
-    "Valor": 37,
+    "Valor": 35.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2018,
-    "Valor": 35,
+    "Valor": 13.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2018,
-    "Valor": 13,
+    "Valor": 21.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2018,
-    "Valor": 21,
+    "Valor": 11.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2018,
-    "Valor": 11,
+    "Valor": 57.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2018,
-    "Valor": 57,
+    "Valor": 15.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2018,
-    "Valor": 15,
+    "Valor": 21.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2018,
-    "Valor": 21,
+    "Valor": 20.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2018,
-    "Valor": 20,
+    "Valor": 17.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2018,
-    "Valor": 17,
+    "Valor": 26.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2018,
-    "Valor": 26,
+    "Valor": 11.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2018,
-    "Valor": 11,
+    "Valor": 19.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2018,
-    "Valor": 19,
+    "Valor": 14.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2018,
-    "Valor": 14,
+    "Valor": 32.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2018,
-    "Valor": 32,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2019,
-    "Valor": 0,
+    "Valor": 41.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2019,
-    "Valor": 41,
+    "Valor": 41.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2019,
-    "Valor": 41,
+    "Valor": 14.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2019,
-    "Valor": 14,
+    "Valor": 20.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2019,
-    "Valor": 20,
+    "Valor": 15.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2019,
-    "Valor": 15,
+    "Valor": 49.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2019,
-    "Valor": 49,
+    "Valor": 17.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2019,
-    "Valor": 17,
+    "Valor": 22.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2019,
-    "Valor": 22,
+    "Valor": 15.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2019,
-    "Valor": 15,
+    "Valor": 16.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2019,
-    "Valor": 16,
+    "Valor": 30.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2019,
-    "Valor": 30,
+    "Valor": 15.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2019,
-    "Valor": 15,
+    "Valor": 17.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2019,
-    "Valor": 17,
+    "Valor": 12.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2019,
-    "Valor": 12,
+    "Valor": 25.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2019,
-    "Valor": 25,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2020,
-    "Valor": 0,
+    "Valor": 49.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2020,
-    "Valor": 49,
+    "Valor": 38.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2020,
-    "Valor": 38,
+    "Valor": 13.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2020,
-    "Valor": 13,
+    "Valor": 19.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2020,
-    "Valor": 19,
+    "Valor": 18.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2020,
-    "Valor": 18,
+    "Valor": 56.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2020,
-    "Valor": 56,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2020,
-    "Valor": 16,
+    "Valor": 19.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2020,
-    "Valor": 19,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2020,
-    "Valor": 16,
+    "Valor": 16.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2020,
-    "Valor": 16,
+    "Valor": 24.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2020,
-    "Valor": 24,
+    "Valor": 15.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2020,
-    "Valor": 15,
+    "Valor": 21.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2020,
-    "Valor": 21,
+    "Valor": 13.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2020,
-    "Valor": 13,
+    "Valor": 23.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2020,
-    "Valor": 23,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2021,
-    "Valor": 0,
+    "Valor": 53.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2021,
-    "Valor": 53,
+    "Valor": 39.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2021,
-    "Valor": 39,
+    "Valor": 13.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2021,
-    "Valor": 13,
+    "Valor": 21.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2021,
-    "Valor": 21,
+    "Valor": 17.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2021,
-    "Valor": 17,
+    "Valor": 42.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2021,
-    "Valor": 42,
+    "Valor": 12.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2021,
-    "Valor": 12,
+    "Valor": 19.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2021,
-    "Valor": 19,
+    "Valor": 15.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2021,
-    "Valor": 15,
+    "Valor": 16.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2021,
-    "Valor": 16,
+    "Valor": 17.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2021,
-    "Valor": 17,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2021,
-    "Valor": 16,
+    "Valor": 20.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2021,
-    "Valor": 20,
+    "Valor": 14.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2021,
-    "Valor": 14,
+    "Valor": 36.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2021,
-    "Valor": 36,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2022,
-    "Valor": 0,
+    "Valor": 51.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2022,
-    "Valor": 51,
+    "Valor": 51.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2022,
-    "Valor": 51,
+    "Valor": 13.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2022,
-    "Valor": 13,
+    "Valor": 21.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2022,
-    "Valor": 21,
+    "Valor": 16.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2022,
-    "Valor": 16,
+    "Valor": 43.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2022,
-    "Valor": 43,
+    "Valor": 13.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2022,
-    "Valor": 13,
+    "Valor": 19.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2022,
-    "Valor": 19,
+    "Valor": 19.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2022,
-    "Valor": 19,
+    "Valor": 15.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2022,
-    "Valor": 15,
+    "Valor": 26.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2022,
-    "Valor": 26,
+    "Valor": 14.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2022,
-    "Valor": 14,
+    "Valor": 19.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2022,
-    "Valor": 19,
+    "Valor": 16.4,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2022,
-    "Valor": 16,
+    "Valor": 34.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2022,
-    "Valor": 34,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2023,
-    "Valor": 0,
+    "Valor": 57.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2023,
-    "Valor": 57,
+    "Valor": 56.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2023,
-    "Valor": 56,
+    "Valor": 18.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2023,
-    "Valor": 18,
+    "Valor": 24.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2023,
-    "Valor": 24,
+    "Valor": 13.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2023,
-    "Valor": 13,
+    "Valor": 31.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2023,
-    "Valor": 31,
+    "Valor": 11.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2023,
-    "Valor": 11,
+    "Valor": 22.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2023,
-    "Valor": 22,
+    "Valor": 22.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2023,
-    "Valor": 22,
+    "Valor": 18.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2023,
-    "Valor": 18,
+    "Valor": 34.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2023,
-    "Valor": 34,
+    "Valor": 9.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2023,
-    "Valor": 9,
+    "Valor": 18.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2023,
-    "Valor": 18,
+    "Valor": 17.3,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2023,
-    "Valor": 17,
+    "Valor": 27.8,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2023,
-    "Valor": 27,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - RR",
+    "Municipio": "AMAJARI",
     "Ano": 2024,
-    "Valor": 0,
+    "Valor": 59.2,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140002 AMAJARI",
+    "Municipio": "ALTO ALEGRE",
     "Ano": 2024,
-    "Valor": 59,
+    "Valor": 43.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140005 ALTO ALEGRE",
+    "Municipio": "BOA VISTA",
     "Ano": 2024,
-    "Valor": 43,
+    "Valor": 16.1,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140010 BOA VISTA",
+    "Municipio": "BONFIM",
     "Ano": 2024,
-    "Valor": 16,
+    "Valor": 21.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140015 BONFIM",
+    "Municipio": "CANTA",
     "Ano": 2024,
-    "Valor": 21,
+    "Valor": 11.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140017 CANTA",
+    "Municipio": "CARACARAI",
     "Ano": 2024,
-    "Valor": 11,
+    "Valor": 41.5,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140020 CARACARAI",
+    "Municipio": "CAROEBE",
     "Ano": 2024,
-    "Valor": 41,
+    "Valor": 7.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140023 CAROEBE",
+    "Municipio": "IRACEMA",
     "Ano": 2024,
-    "Valor": 7,
+    "Valor": 21.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140028 IRACEMA",
+    "Municipio": "MUCAJAI",
     "Ano": 2024,
-    "Valor": 21,
+    "Valor": 21.9,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140030 MUCAJAI",
+    "Municipio": "NORMANDIA",
     "Ano": 2024,
-    "Valor": 21,
+    "Valor": 17.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140040 NORMANDIA",
+    "Municipio": "PACARAIMA",
     "Ano": 2024,
-    "Valor": 17,
+    "Valor": 26.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140045 PACARAIMA",
+    "Municipio": "RORAINOPOLIS",
     "Ano": 2024,
-    "Valor": 26,
+    "Valor": 13.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140047 RORAINOPOLIS",
+    "Municipio": "SAO JOAO DA BALIZA",
     "Ano": 2024,
-    "Valor": 13,
+    "Valor": 12.7,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140050 SAO JOAO DA BALIZA",
+    "Municipio": "SAO LUIZ",
     "Ano": 2024,
-    "Valor": 12,
+    "Valor": 17.0,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   },
   {
-    "Municipio": "140060 SAO LUIZ",
+    "Municipio": "UIRAMUTA",
     "Ano": 2024,
-    "Valor": 17,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "140070 UIRAMUTA",
-    "Ano": 2024,
-    "Valor": 25,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "RR",
-    "Tipo": "CMI_MIL"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
+    "Valor": 25.6,
     "UF": "RR",
     "Tipo": "CMI_MIL"
   }

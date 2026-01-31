@@ -1,0 +1,6266 @@
+[
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 1996,
+    "Valor": 56.17977528089887,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 1996,
+    "Valor": 21.352313167259787,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 1996,
+    "Valor": 47.61904761904762,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 1996,
+    "Valor": 24.61410095953275,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 1996,
+    "Valor": 30.76923076923077,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 1996,
+    "Valor": 66.86046511627907,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 1996,
+    "Valor": 18.95734597156398,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 1996,
+    "Valor": 21.73913043478261,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 1996,
+    "Valor": 14.705882352941176,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 1996,
+    "Valor": 34.08683171869394,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 1996,
+    "Valor": 28.571428571428573,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 1996,
+    "Valor": 18.867924528301888,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 1996,
+    "Valor": 14.836795252225519,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 1996,
+    "Valor": 70.4225352112676,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 1996,
+    "Valor": 31.25,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 1997,
+    "Valor": 32.967032967032964,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 1997,
+    "Valor": 10.638297872340425,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 1997,
+    "Valor": 38.16793893129771,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 1997,
+    "Valor": 25.717480432351845,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 1997,
+    "Valor": 500.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 1997,
+    "Valor": 79.47019867549669,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 1997,
+    "Valor": 12.820512820512821,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 1997,
+    "Valor": 18.912529550827422,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 1997,
+    "Valor": 27.77777777777778,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 1997,
+    "Valor": 25.86109542631282,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 1997,
+    "Valor": 21.73913043478261,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 1997,
+    "Valor": 26.854219948849106,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 1997,
+    "Valor": 4.504504504504505,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 1997,
+    "Valor": 17.91044776119403,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 1998,
+    "Valor": 14.705882352941176,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 1998,
+    "Valor": 39.21568627450981,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 1998,
+    "Valor": 43.75,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 1998,
+    "Valor": 37.15034965034965,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 1998,
+    "Valor": 666.6666666666666,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 1998,
+    "Valor": 101.26582278481013,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 1998,
+    "Valor": 17.391304347826086,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 1998,
+    "Valor": 34.48275862068966,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 1998,
+    "Valor": 15.503875968992247,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 1998,
+    "Valor": 8.695652173913043,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 1998,
+    "Valor": 31.319358816276203,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 1998,
+    "Valor": 25.974025974025974,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 1998,
+    "Valor": 54.794520547945204,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 1998,
+    "Valor": 25.331724969843183,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 1998,
+    "Valor": 247.19101123595505,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 1998,
+    "Valor": 49.45054945054945,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 1998,
+    "Valor": 57.142857142857146,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 1999,
+    "Valor": 13.513513513513514,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 1999,
+    "Valor": 51.282051282051285,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 1999,
+    "Valor": 25.056947608200456,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 1999,
+    "Valor": 45.45454545454545,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 1999,
+    "Valor": 29.885057471264368,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 1999,
+    "Valor": 20.54794520547945,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 1999,
+    "Valor": 24.752475247524753,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 1999,
+    "Valor": 9.868421052631579,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 1999,
+    "Valor": 6.7114093959731544,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 1999,
+    "Valor": 26.987186755868013,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 1999,
+    "Valor": 8.51063829787234,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 1999,
+    "Valor": 13.289036544850498,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 1999,
+    "Valor": 16.97530864197531,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 1999,
+    "Valor": 23.709902370990235,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 1999,
+    "Valor": 10.498687664041995,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 1999,
+    "Valor": 106.38297872340425,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2000,
+    "Valor": 38.46153846153846,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2000,
+    "Valor": 9.00900900900901,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2000,
+    "Valor": 8.658008658008658,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2000,
+    "Valor": 33.333333333333336,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2000,
+    "Valor": 37.735849056603776,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2000,
+    "Valor": 24.752475247524753,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2000,
+    "Valor": 32.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2000,
+    "Valor": 101.91082802547771,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2000,
+    "Valor": 12.779552715654953,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2000,
+    "Valor": 20.408163265306122,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2000,
+    "Valor": 6.578947368421052,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2000,
+    "Valor": 8.426966292134832,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2000,
+    "Valor": 11.904761904761905,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2000,
+    "Valor": 27.995655846506576,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2000,
+    "Valor": 31.34796238244514,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2000,
+    "Valor": 24.63768115942029,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2000,
+    "Valor": 252.9182879377432,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2000,
+    "Valor": 11.049723756906078,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2000,
+    "Valor": 96.7741935483871,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2001,
+    "Valor": 40.69767441860465,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2001,
+    "Valor": 8.676789587852495,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2001,
+    "Valor": 71.42857142857143,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2001,
+    "Valor": 21.768707482993197,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2001,
+    "Valor": 23.102310231023104,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2001,
+    "Valor": 36.82170542635659,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2001,
+    "Valor": 8.064516129032258,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2001,
+    "Valor": 22.988505747126435,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2001,
+    "Valor": 49.53560371517028,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2001,
+    "Valor": 13.698630136986301,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2001,
+    "Valor": 23.62609142270159,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2001,
+    "Valor": 4.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2001,
+    "Valor": 57.142857142857146,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2001,
+    "Valor": 22.388059701492537,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2001,
+    "Valor": 32.0945945945946,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2001,
+    "Valor": 48.484848484848484,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2001,
+    "Valor": 7.9787234042553195,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2001,
+    "Valor": 53.333333333333336,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2002,
+    "Valor": 27.027027027027028,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2002,
+    "Valor": 14.256619144602851,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2002,
+    "Valor": 8.928571428571429,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2002,
+    "Valor": 25.731584258324926,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2002,
+    "Valor": 33.67003367003367,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2002,
+    "Valor": 40.35874439461883,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2002,
+    "Valor": 62.5,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2002,
+    "Valor": 3.125,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2002,
+    "Valor": 22.22222222222222,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2002,
+    "Valor": 18.666666666666668,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2002,
+    "Valor": 31.446540880503143,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2002,
+    "Valor": 20.881971465629054,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2002,
+    "Valor": 3.676470588235294,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2002,
+    "Valor": 29.197080291970803,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2002,
+    "Valor": 14.823261117445838,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2002,
+    "Valor": 25.4323499491353,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2002,
+    "Valor": 12.594458438287154,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2002,
+    "Valor": 67.22689075630252,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2003,
+    "Valor": 5.58659217877095,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2003,
+    "Valor": 13.245033112582782,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2003,
+    "Valor": 16.885553470919323,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2003,
+    "Valor": 10.638297872340425,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2003,
+    "Valor": 38.16793893129771,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2003,
+    "Valor": 19.627085377821395,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2003,
+    "Valor": 13.377926421404682,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2003,
+    "Valor": 29.360967184801382,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2003,
+    "Valor": 38.46153846153846,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2003,
+    "Valor": 14.285714285714286,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2003,
+    "Valor": 6.451612903225806,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2003,
+    "Valor": 14.492753623188406,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2003,
+    "Valor": 16.181229773462782,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2003,
+    "Valor": 22.2975616116834,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2003,
+    "Valor": 11.764705882352942,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2003,
+    "Valor": 26.31578947368421,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2003,
+    "Valor": 14.336917562724015,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2003,
+    "Valor": 19.20768307322929,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2003,
+    "Valor": 28.824833702882483,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2003,
+    "Valor": 12.953367875647668,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2003,
+    "Valor": 29.850746268656717,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2004,
+    "Valor": 13.100436681222707,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2004,
+    "Valor": 14.563106796116505,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2004,
+    "Valor": 13.12910284463895,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2004,
+    "Valor": 25.423728813559322,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2004,
+    "Valor": 25.806451612903224,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2004,
+    "Valor": 11.335012594458439,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2004,
+    "Valor": 18.315018315018314,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2004,
+    "Valor": 56.76126878130217,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2004,
+    "Valor": 6.172839506172839,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2004,
+    "Valor": 21.85792349726776,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2004,
+    "Valor": 20.05730659025788,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2004,
+    "Valor": 25.252525252525253,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2004,
+    "Valor": 22.59264361482298,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2004,
+    "Valor": 4.056795131845842,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2004,
+    "Valor": 27.68166089965398,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2004,
+    "Valor": 18.3752417794971,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2004,
+    "Valor": 33.45388788426763,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2004,
+    "Valor": 13.850415512465373,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2004,
+    "Valor": 16.304347826086957,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2005,
+    "Valor": 24.691358024691358,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2005,
+    "Valor": 14.851485148514852,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2005,
+    "Valor": 16.129032258064516,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2005,
+    "Valor": 8.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2005,
+    "Valor": 25.12562814070352,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2005,
+    "Valor": 19.886363636363637,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2005,
+    "Valor": 22.388059701492537,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2005,
+    "Valor": 27.946537059538276,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2005,
+    "Valor": 33.333333333333336,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2005,
+    "Valor": 2.5316455696202533,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2005,
+    "Valor": 15.384615384615385,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2005,
+    "Valor": 16.33986928104575,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2005,
+    "Valor": 12.56281407035176,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2005,
+    "Valor": 30.075187969924812,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2005,
+    "Valor": 20.44456641053787,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2005,
+    "Valor": 5.639097744360902,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2005,
+    "Valor": 62.5,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2005,
+    "Valor": 25.210084033613445,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2005,
+    "Valor": 20.669291338582678,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2005,
+    "Valor": 27.272727272727273,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2005,
+    "Valor": 27.45995423340961,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2005,
+    "Valor": 25.751072961373392,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2006,
+    "Valor": 22.321428571428573,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2006,
+    "Valor": 16.666666666666668,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2006,
+    "Valor": 16.949152542372882,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2006,
+    "Valor": 17.699115044247787,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2006,
+    "Valor": 26.31578947368421,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2006,
+    "Valor": 31.09452736318408,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2006,
+    "Valor": 24.137931034482758,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2006,
+    "Valor": 25.35211267605634,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2006,
+    "Valor": 9.090909090909092,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2006,
+    "Valor": 28.213166144200628,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2006,
+    "Valor": 29.12621359223301,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2006,
+    "Valor": 5.797101449275362,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2006,
+    "Valor": 15.19756838905775,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2006,
+    "Valor": 5.763688760806916,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2006,
+    "Valor": 18.37985023825732,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2006,
+    "Valor": 25.423728813559322,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2006,
+    "Valor": 85.9375,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2006,
+    "Valor": 25.089605734767026,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2006,
+    "Valor": 12.915129151291513,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2006,
+    "Valor": 24.456521739130434,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2006,
+    "Valor": 15.267175572519085,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2006,
+    "Valor": 38.04347826086956,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2007,
+    "Valor": 13.88888888888889,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2007,
+    "Valor": 19.011406844106464,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2007,
+    "Valor": 10.141987829614605,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2007,
+    "Valor": 16.949152542372882,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2007,
+    "Valor": 6.622516556291391,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2007,
+    "Valor": 20.3125,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2007,
+    "Valor": 28.880866425992778,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2007,
+    "Valor": 162.16216216216216,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2007,
+    "Valor": 19.23076923076923,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2007,
+    "Valor": 7.858546168958743,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2007,
+    "Valor": 36.08247422680412,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2007,
+    "Valor": 5.882352941176471,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2007,
+    "Valor": 17.191977077363898,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2007,
+    "Valor": 11.933174224343675,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2007,
+    "Valor": 21.932927692089997,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2007,
+    "Valor": 7.94912559618442,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2007,
+    "Valor": 70.65217391304348,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2007,
+    "Valor": 24.64788732394366,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2007,
+    "Valor": 17.625231910946198,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2007,
+    "Valor": 48.85057471264368,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2007,
+    "Valor": 17.77777777777778,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2007,
+    "Valor": 20.491803278688526,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2008,
+    "Valor": 32.967032967032964,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2008,
+    "Valor": 3.3444816053511706,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2008,
+    "Valor": 26.565464895635674,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2008,
+    "Valor": 13.605442176870747,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2008,
+    "Valor": 25.77319587628866,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2008,
+    "Valor": 20.385674931129476,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2008,
+    "Valor": 10.94890510948905,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2008,
+    "Valor": 30.338389731621938,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2008,
+    "Valor": 8.064516129032258,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2008,
+    "Valor": 10.37344398340249,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2008,
+    "Valor": 20.2020202020202,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2008,
+    "Valor": 4.008016032064128,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2008,
+    "Valor": 12.626262626262626,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2008,
+    "Valor": 10.498687664041995,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2008,
+    "Valor": 17.685342388228637,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2008,
+    "Valor": 5.025125628140704,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2008,
+    "Valor": 47.12041884816754,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2008,
+    "Valor": 22.1606648199446,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2008,
+    "Valor": 11.019283746556473,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2008,
+    "Valor": 26.646928201332347,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2008,
+    "Valor": 20.61855670103093,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2008,
+    "Valor": 2.785515320334262,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2009,
+    "Valor": 18.587360594795538,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2009,
+    "Valor": 14.880952380952381,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2009,
+    "Valor": 10.615711252653927,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2009,
+    "Valor": 6.25,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2009,
+    "Valor": 10.152284263959391,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2009,
+    "Valor": 15.521064301552107,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2009,
+    "Valor": 30.18867924528302,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2009,
+    "Valor": 27.181688125894134,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2009,
+    "Valor": 107.62331838565022,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2009,
+    "Valor": 24.282560706401767,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2009,
+    "Valor": 21.85792349726776,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2009,
+    "Valor": 11.811023622047244,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2009,
+    "Valor": 20.71005917159763,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2009,
+    "Valor": 11.904761904761905,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2009,
+    "Valor": 17.742428877332518,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2009,
+    "Valor": 7.299270072992701,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2009,
+    "Valor": 70.75471698113208,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2009,
+    "Valor": 8.379888268156424,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2009,
+    "Valor": 12.609117361784675,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2009,
+    "Valor": 28.985507246376812,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2009,
+    "Valor": 6.734006734006734,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2009,
+    "Valor": 8.823529411764707,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2010,
+    "Valor": 25.641025641025642,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2010,
+    "Valor": 11.904761904761905,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2010,
+    "Valor": 12.631578947368421,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2010,
+    "Valor": 21.62162162162162,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2010,
+    "Valor": 10.471204188481675,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2010,
+    "Valor": 14.501160092807424,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2010,
+    "Valor": 27.66798418972332,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2010,
+    "Valor": 17.25997842502697,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2010,
+    "Valor": 30.888030888030887,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2010,
+    "Valor": 9.7799511002445,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2010,
+    "Valor": 28.30188679245283,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2010,
+    "Valor": 11.933174224343675,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2010,
+    "Valor": 5.9523809523809526,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2010,
+    "Valor": 11.396011396011396,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2010,
+    "Valor": 18.176169022836724,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2010,
+    "Valor": 10.964912280701755,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2010,
+    "Valor": 39.02439024390244,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2010,
+    "Valor": 8.241758241758241,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2010,
+    "Valor": 18.730489073881373,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2010,
+    "Valor": 18.12191103789127,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2010,
+    "Valor": 23.48993288590604,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2010,
+    "Valor": 27.027027027027028,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2011,
+    "Valor": 13.84083044982699,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2011,
+    "Valor": 11.538461538461538,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2011,
+    "Valor": 14.9812734082397,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2011,
+    "Valor": 20.512820512820515,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2011,
+    "Valor": 24.154589371980677,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2011,
+    "Valor": 14.038876889848812,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2011,
+    "Valor": 12.820512820512821,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2011,
+    "Valor": 17.640573318632857,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2011,
+    "Valor": 82.3045267489712,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2011,
+    "Valor": 12.320328542094456,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2011,
+    "Valor": 11.857707509881424,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2011,
+    "Valor": 9.090909090909092,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2011,
+    "Valor": 7.6923076923076925,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2011,
+    "Valor": 13.03969863807592,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2011,
+    "Valor": 4.301075268817204,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2011,
+    "Valor": 38.793103448275865,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2011,
+    "Valor": 15.765765765765765,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2011,
+    "Valor": 13.422818791946309,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2011,
+    "Valor": 17.255546425636812,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2011,
+    "Valor": 9.146341463414634,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2011,
+    "Valor": 5.617977528089888,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2012,
+    "Valor": 15.810276679841897,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2012,
+    "Valor": 18.264840182648403,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2012,
+    "Valor": 19.801980198019802,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2012,
+    "Valor": 15.151515151515152,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2012,
+    "Valor": 24.875621890547265,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2012,
+    "Valor": 14.933946008041355,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2012,
+    "Valor": 31.914893617021278,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2012,
+    "Valor": 18.805309734513273,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2012,
+    "Valor": 44.60966542750929,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2012,
+    "Valor": 12.953367875647668,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2012,
+    "Valor": 19.53125,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2012,
+    "Valor": 14.767932489451477,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2012,
+    "Valor": 5.665722379603399,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2012,
+    "Valor": 17.75147928994083,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2012,
+    "Valor": 12.096156790690554,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2012,
+    "Valor": 12.820512820512821,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2012,
+    "Valor": 42.47104247104247,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2012,
+    "Valor": 22.727272727272727,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2012,
+    "Valor": 18.29924650161464,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2012,
+    "Valor": 24.179620034542314,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2012,
+    "Valor": 12.861736334405144,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2012,
+    "Valor": 17.341040462427745,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2013,
+    "Valor": 11.627906976744185,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2013,
+    "Valor": 9.389671361502348,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2013,
+    "Valor": 26.41509433962264,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2013,
+    "Valor": 4.9504950495049505,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2013,
+    "Valor": 5.181347150259067,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2013,
+    "Valor": 16.264722378014582,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2013,
+    "Valor": 10.909090909090908,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2013,
+    "Valor": 37.92667509481669,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2013,
+    "Valor": 18.45018450184502,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2013,
+    "Valor": 5.012531328320802,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2013,
+    "Valor": 17.467248908296945,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2013,
+    "Valor": 10.309278350515465,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2013,
+    "Valor": 17.964071856287426,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2013,
+    "Valor": 24.390243902439025,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2013,
+    "Valor": 13.350196739741428,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2013,
+    "Valor": 5.509641873278237,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2013,
+    "Valor": 53.81165919282511,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2013,
+    "Valor": 14.117647058823529,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2013,
+    "Valor": 23.23008849557522,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2013,
+    "Valor": 20.210896309314588,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2013,
+    "Valor": 13.605442176870747,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2013,
+    "Valor": 13.812154696132596,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2014,
+    "Valor": 18.587360594795538,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2014,
+    "Valor": 20.408163265306122,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2014,
+    "Valor": 14.625228519195613,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2014,
+    "Valor": 4.132231404958677,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2014,
+    "Valor": 25.641025641025642,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2014,
+    "Valor": 12.101210121012102,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2014,
+    "Valor": 7.633587786259542,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2014,
+    "Valor": 22.919179734620023,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2014,
+    "Valor": 21.27659574468085,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2014,
+    "Valor": 12.106537530266344,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2014,
+    "Valor": 37.03703703703704,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2014,
+    "Valor": 30.56768558951965,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2014,
+    "Valor": 6.211180124223603,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2014,
+    "Valor": 4.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2014,
+    "Valor": 15.261731564684068,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2014,
+    "Valor": 20.304568527918782,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2014,
+    "Valor": 54.054054054054056,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2014,
+    "Valor": 19.867549668874172,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2014,
+    "Valor": 16.928657799274486,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2014,
+    "Valor": 21.13821138211382,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2014,
+    "Valor": 6.5359477124183005,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2014,
+    "Valor": 29.891304347826086,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2015,
+    "Valor": 9.216589861751151,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2015,
+    "Valor": 29.41176470588235,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2015,
+    "Valor": 26.365348399246706,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2015,
+    "Valor": 8.064516129032258,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2015,
+    "Valor": 9.132420091324201,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2015,
+    "Valor": 10.87547580206634,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2015,
+    "Valor": 7.168458781362007,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2015,
+    "Valor": 33.67875647668394,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2015,
+    "Valor": 14.652014652014651,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2015,
+    "Valor": 22.78481012658228,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2015,
+    "Valor": 30.075187969924812,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2015,
+    "Valor": 15.730337078651685,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2015,
+    "Valor": 22.857142857142858,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2015,
+    "Valor": 15.267175572519085,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2015,
+    "Valor": 14.5010768126346,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2015,
+    "Valor": 15.151515151515152,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2015,
+    "Valor": 73.33333333333333,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2015,
+    "Valor": 13.544018058690744,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2015,
+    "Valor": 9.445100354191263,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2015,
+    "Valor": 30.042918454935624,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2015,
+    "Valor": 12.422360248447205,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2015,
+    "Valor": 13.966480446927374,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2016,
+    "Valor": 42.10526315789474,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2016,
+    "Valor": 28.571428571428573,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2016,
+    "Valor": 4.032258064516129,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2016,
+    "Valor": 25.77319587628866,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2016,
+    "Valor": 9.803921568627452,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2016,
+    "Valor": 22.22222222222222,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2016,
+    "Valor": 22.781774580335732,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2016,
+    "Valor": 11.406844106463879,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2016,
+    "Valor": 6.153846153846154,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2016,
+    "Valor": 25.423728813559322,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2016,
+    "Valor": 17.045454545454547,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2016,
+    "Valor": 5.899705014749262,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2016,
+    "Valor": 8.695652173913043,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2016,
+    "Valor": 12.851527063804053,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2016,
+    "Valor": 32.89473684210526,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2016,
+    "Valor": 52.63157894736842,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2016,
+    "Valor": 4.878048780487805,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2016,
+    "Valor": 20.99737532808399,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2016,
+    "Valor": 20.408163265306122,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2016,
+    "Valor": 18.237082066869302,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2016,
+    "Valor": 8.426966292134832,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2017,
+    "Valor": 11.71875,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2017,
+    "Valor": 8.064516129032258,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2017,
+    "Valor": 17.54385964912281,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2017,
+    "Valor": 6.514657980456026,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2017,
+    "Valor": 16.46090534979424,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2017,
+    "Valor": 11.282660332541568,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2017,
+    "Valor": 10.309278350515465,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2017,
+    "Valor": 15.6062424969988,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2017,
+    "Valor": 22.55639097744361,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2017,
+    "Valor": 8.379888268156424,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2017,
+    "Valor": 26.81992337164751,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2017,
+    "Valor": 28.350515463917525,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2017,
+    "Valor": 9.836065573770492,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2017,
+    "Valor": 14.184397163120567,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2017,
+    "Valor": 11.455108359133128,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2017,
+    "Valor": 19.12568306010929,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2017,
+    "Valor": 25.252525252525253,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2017,
+    "Valor": 12.658227848101266,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2017,
+    "Valor": 14.102564102564102,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2017,
+    "Valor": 22.968197879858657,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2017,
+    "Valor": 3.278688524590164,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2017,
+    "Valor": 9.30232558139535,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2018,
+    "Valor": 9.25925925925926,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2018,
+    "Valor": 15.151515151515152,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2018,
+    "Valor": 14.814814814814815,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2018,
+    "Valor": 3.2679738562091503,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2018,
+    "Valor": 18.01801801801802,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2018,
+    "Valor": 15.945330296127562,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2018,
+    "Valor": 25.641025641025642,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2018,
+    "Valor": 37.21488595438175,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2018,
+    "Valor": 14.598540145985401,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2018,
+    "Valor": 24.52316076294278,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2018,
+    "Valor": 7.936507936507937,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2018,
+    "Valor": 19.656019656019655,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2018,
+    "Valor": 16.181229773462782,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2018,
+    "Valor": 27.559055118110237,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2018,
+    "Valor": 14.318706697459584,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2018,
+    "Valor": 12.690355329949238,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2018,
+    "Valor": 43.47826086956522,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2018,
+    "Valor": 10.504201680672269,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2018,
+    "Valor": 13.959390862944163,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2018,
+    "Valor": 15.088013411567477,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2018,
+    "Valor": 12.307692307692308,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2018,
+    "Valor": 17.857142857142858,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2019,
+    "Valor": 18.796992481203006,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2019,
+    "Valor": 16.666666666666668,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2019,
+    "Valor": 12.158054711246201,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2019,
+    "Valor": 17.136539524599225,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2019,
+    "Valor": 12.738853503184714,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2019,
+    "Valor": 35.59127439724455,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2019,
+    "Valor": 9.174311926605505,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2019,
+    "Valor": 26.08695652173913,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2019,
+    "Valor": 43.47826086956522,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2019,
+    "Valor": 20.089285714285715,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2019,
+    "Valor": 6.289308176100629,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2019,
+    "Valor": 22.22222222222222,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2019,
+    "Valor": 11.068943706514863,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2019,
+    "Valor": 41.91616766467066,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2019,
+    "Valor": 37.634408602150536,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2019,
+    "Valor": 9.59232613908873,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2019,
+    "Valor": 13.020833333333334,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2019,
+    "Valor": 21.872265966754156,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2019,
+    "Valor": 13.468013468013469,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2019,
+    "Valor": 7.915567282321899,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2020,
+    "Valor": 12.658227848101266,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2020,
+    "Valor": 13.953488372093023,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2020,
+    "Valor": 7.590132827324478,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2020,
+    "Valor": 12.448132780082988,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2020,
+    "Valor": 5.2631578947368425,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2020,
+    "Valor": 10.644589000591367,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2020,
+    "Valor": 17.064846416382252,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2020,
+    "Valor": 31.685678073510772,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2020,
+    "Valor": 19.51219512195122,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2020,
+    "Valor": 19.047619047619047,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2020,
+    "Valor": 7.142857142857143,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2020,
+    "Valor": 8.982035928143713,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2020,
+    "Valor": 24.56140350877193,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2020,
+    "Valor": 13.937282229965156,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2020,
+    "Valor": 14.969538729329852,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2020,
+    "Valor": 14.409221902017292,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2020,
+    "Valor": 46.97986577181208,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2020,
+    "Valor": 14.962593516209477,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2020,
+    "Valor": 19.461077844311376,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2020,
+    "Valor": 19.810508182601207,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2020,
+    "Valor": 18.9873417721519,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2020,
+    "Valor": 19.390581717451525,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2021,
+    "Valor": 3.9840637450199203,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2021,
+    "Valor": 14.760147601476016,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2021,
+    "Valor": 22.857142857142858,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2021,
+    "Valor": 11.952191235059761,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2021,
+    "Valor": 13.953488372093023,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2021,
+    "Valor": 14.492753623188406,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2021,
+    "Valor": 16.44736842105263,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2021,
+    "Valor": 28.1214848143982,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2021,
+    "Valor": 20.27027027027027,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2021,
+    "Valor": 10.554089709762533,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2021,
+    "Valor": 43.47826086956522,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2021,
+    "Valor": 15.801354401805868,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2021,
+    "Valor": 14.184397163120567,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2021,
+    "Valor": 11.834319526627219,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2021,
+    "Valor": 16.766678432756795,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2021,
+    "Valor": 17.91044776119403,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2021,
+    "Valor": 50.561797752808985,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2021,
+    "Valor": 17.857142857142858,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2021,
+    "Valor": 15.810276679841897,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2021,
+    "Valor": 20.442930153321978,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2021,
+    "Valor": 12.269938650306749,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2021,
+    "Valor": 16.949152542372882,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2022,
+    "Valor": 14.634146341463415,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2022,
+    "Valor": 25.53191489361702,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2022,
+    "Valor": 29.52029520295203,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2022,
+    "Valor": 8.695652173913043,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2022,
+    "Valor": 10.989010989010989,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2022,
+    "Valor": 14.603174603174603,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2022,
+    "Valor": 7.194244604316546,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2022,
+    "Valor": 22.249690976514216,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2022,
+    "Valor": 34.78260869565217,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2022,
+    "Valor": 21.21212121212121,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2022,
+    "Valor": 24.793388429752067,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2022,
+    "Valor": 8.152173913043478,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2022,
+    "Valor": 3.90625,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2022,
+    "Valor": 22.55639097744361,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2022,
+    "Valor": 14.944890715486643,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2022,
+    "Valor": 6.230529595015576,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2022,
+    "Valor": 46.2962962962963,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2022,
+    "Valor": 14.534883720930232,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2022,
+    "Valor": 17.03800786369594,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2022,
+    "Valor": 22.058823529411764,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2022,
+    "Valor": 6.369426751592357,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2022,
+    "Valor": 29.761904761904763,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2023,
+    "Valor": 7.782101167315175,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2023,
+    "Valor": 5.780346820809249,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2023,
+    "Valor": 19.53125,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2023,
+    "Valor": 11.11111111111111,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2023,
+    "Valor": 16.223231667748216,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2023,
+    "Valor": 21.352313167259787,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2023,
+    "Valor": 24.764150943396228,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2023,
+    "Valor": 14.545454545454545,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2023,
+    "Valor": 8.474576271186441,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2023,
+    "Valor": 34.72222222222222,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2023,
+    "Valor": 20.080321285140563,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2023,
+    "Valor": 13.274336283185841,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2023,
+    "Valor": 16.89648475432123,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2023,
+    "Valor": 10.526315789473685,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2023,
+    "Valor": 69.65174129353234,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2023,
+    "Valor": 8.670520231213873,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2023,
+    "Valor": 16.602809706257982,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2023,
+    "Valor": 26.548672566371682,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2023,
+    "Valor": 13.157894736842104,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2023,
+    "Valor": 5.830903790087463,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120001 ACRELANDIA",
+    "Ano": 2024,
+    "Valor": 5.181347150259067,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120005 ASSIS BRASIL",
+    "Ano": 2024,
+    "Valor": 27.77777777777778,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120010 BRASILEIA",
+    "Ano": 2024,
+    "Valor": 26.666666666666668,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120013 BUJARI",
+    "Ano": 2024,
+    "Valor": 18.099547511312217,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120017 CAPIXABA",
+    "Ano": 2024,
+    "Valor": 27.3224043715847,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Ano": 2024,
+    "Valor": 19.055509527754765,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120025 EPITACIOLANDIA",
+    "Ano": 2024,
+    "Valor": 21.27659574468085,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120030 FEIJO",
+    "Ano": 2024,
+    "Valor": 25.940337224383917,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120032 JORDAO",
+    "Ano": 2024,
+    "Valor": 21.390374331550802,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120033 MANCIO LIMA",
+    "Ano": 2024,
+    "Valor": 10.169491525423728,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120034 MANOEL URBANO",
+    "Ano": 2024,
+    "Valor": 30.888030888030887,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Ano": 2024,
+    "Valor": 36.666666666666664,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Ano": 2024,
+    "Valor": 13.392857142857142,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120039 PORTO WALTER",
+    "Ano": 2024,
+    "Valor": 9.345794392523365,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120040 RIO BRANCO",
+    "Ano": 2024,
+    "Valor": 14.752370916754478,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120042 RODRIGUES ALVES",
+    "Ano": 2024,
+    "Valor": 12.345679012345679,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Ano": 2024,
+    "Valor": 74.28571428571429,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120045 SENADOR GUIOMARD",
+    "Ano": 2024,
+    "Valor": 10.1010101010101,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120050 SENA MADUREIRA",
+    "Ano": 2024,
+    "Valor": 21.27659574468085,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120060 TARAUACA",
+    "Ano": 2024,
+    "Valor": 12.88404360753221,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120070 XAPURI",
+    "Ano": 2024,
+    "Valor": 3.787878787878788,
+    "UF": "AC"
+  },
+  {
+    "Municipio": "120080 PORTO ACRE",
+    "Ano": 2024,
+    "Valor": 23.411371237458194,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AC"
+  }
+]

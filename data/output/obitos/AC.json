@@ -1,5462 +1,5106 @@
 [
   {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 1996,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 1996,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 1996,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 1996,
     "Valor": 59,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 1996,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 1996,
     "Valor": 23,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 1996,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 1996,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 1996,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 1996,
     "Valor": 285,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 1996,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 1996,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 1996,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 1996,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 1996,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 1996,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 1996,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 1997,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 1997,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 1997,
     "Valor": 15,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 1997,
     "Valor": 69,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 1997,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 1997,
     "Valor": 24,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 1997,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 1997,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 1997,
     "Valor": 229,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 1997,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 1997,
     "Valor": 21,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 1997,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 1997,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 1997,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 1997,
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
+    "Ano": 1998,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
+    "Ano": 1998,
+    "Valor": 7,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 1997,
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
+    "Ano": 1998,
+    "Valor": 85,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
+    "Ano": 1998,
+    "Valor": 32,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 1997,
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
+    "Ano": 1998,
+    "Valor": 6,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 1997,
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
+    "Ano": 1998,
+    "Valor": 5,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
+    "Ano": 1998,
+    "Valor": 4,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
+    "Ano": 1998,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
+    "Ano": 1998,
+    "Valor": 254,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
+    "Ano": 1998,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 1997,
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
+    "Ano": 1998,
+    "Valor": 8,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
+    "Ano": 1998,
+    "Valor": 21,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
+    "Ano": 1998,
+    "Valor": 22,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
+    "Ano": 1998,
+    "Valor": 9,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
+    "Ano": 1998,
+    "Valor": 2,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
+    "Ano": 1999,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
+    "Ano": 1999,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "",
-    "Ano": 1997,
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
+    "Ano": 1999,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2001,
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
+    "Ano": 1999,
+    "Valor": 2,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
+    "Ano": 1999,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
+    "Ano": 1999,
+    "Valor": 44,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
+    "Ano": 1999,
+    "Valor": 3,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
+    "Ano": 1999,
+    "Valor": 13,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
+    "Ano": 1999,
+    "Valor": 0,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
+    "Ano": 1999,
+    "Valor": 0,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
+    "Ano": 1999,
+    "Valor": 3,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
+    "Ano": 1999,
+    "Valor": 5,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
+    "Ano": 1999,
+    "Valor": 3,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
+    "Ano": 1999,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
+    "Ano": 1999,
+    "Valor": 238,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
+    "Ano": 1999,
+    "Valor": 2,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
+    "Ano": 1999,
+    "Valor": 0,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
+    "Ano": 1999,
+    "Valor": 4,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
+    "Ano": 1999,
+    "Valor": 11,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
+    "Ano": 1999,
+    "Valor": 17,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
+    "Ano": 1999,
+    "Valor": 4,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
+    "Ano": 1999,
+    "Valor": 5,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
+    "Ano": 2000,
+    "Valor": 6,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
+    "Ano": 2000,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
+    "Ano": 2000,
+    "Valor": 4,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
+    "Ano": 2000,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
+    "Ano": 2000,
+    "Valor": 2,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
+    "Ano": 2000,
+    "Valor": 60,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
+    "Ano": 2000,
+    "Valor": 8,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
+    "Ano": 2000,
+    "Valor": 48,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
+    "Ano": 2000,
+    "Valor": 0,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
+    "Ano": 2000,
+    "Valor": 4,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
+    "Ano": 2000,
+    "Valor": 3,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
+    "Ano": 2000,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
+    "Ano": 2000,
+    "Valor": 3,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
+    "Ano": 2000,
+    "Valor": 1,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
+    "Ano": 2000,
+    "Valor": 232,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
+    "Ano": 2000,
+    "Valor": 0,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
+    "Ano": 2000,
+    "Valor": 0,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
+    "Ano": 2000,
+    "Valor": 10,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
+    "Ano": 2000,
+    "Valor": 17,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
+    "Ano": 2000,
+    "Valor": 65,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
+    "Ano": 2000,
+    "Valor": 4,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
+    "Ano": 2000,
+    "Valor": 6,
+    "UF": "AC",
+    "Tipo": "Obitos"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2001,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2001,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2001,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2001,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2001,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2001,
     "Valor": 48,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2001,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2001,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2001,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2001,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2001,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2001,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2001,
     "Valor": 16,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2001,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2001,
     "Valor": 184,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2001,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2001,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2001,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2001,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2001,
     "Valor": 32,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2001,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2001,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2001,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2002,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2002,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2002,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2002,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2002,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2002,
     "Valor": 51,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2002,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2002,
     "Valor": 27,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2002,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2002,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2002,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2002,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2002,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2002,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2002,
     "Valor": 161,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2002,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2002,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2002,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2002,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2002,
     "Valor": 25,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2002,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2002,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2002,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120001 ACRELANDIA",
-    "Ano": 2003,
-    "Valor": 1,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2003,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2003,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2003,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2003,
     "Valor": 40,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2003,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2003,
     "Valor": 17,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2003,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2003,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2003,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2003,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2003,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2003,
     "Valor": 171,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2003,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2003,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2003,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2003,
     "Valor": 16,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2003,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2003,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2003,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2003,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2004,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2004,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2004,
     "Valor": 27,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2004,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2004,
     "Valor": 34,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2004,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2004,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2004,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2004,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2004,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2004,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2004,
     "Valor": 164,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2004,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2004,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2004,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2004,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2004,
     "Valor": 37,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2004,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2004,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2004,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2005,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2005,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2005,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2005,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2005,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2005,
     "Valor": 42,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2005,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2005,
     "Valor": 23,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2005,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2005,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2005,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2005,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2005,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2005,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2005,
     "Valor": 149,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2005,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2005,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2005,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2005,
     "Valor": 21,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2005,
     "Valor": 33,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2005,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2005,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2005,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2006,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2006,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2006,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2006,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2006,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2006,
     "Valor": 50,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2006,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2006,
     "Valor": 18,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2006,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2006,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2006,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2006,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2006,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2006,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2006,
     "Valor": 135,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2006,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2006,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2006,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2006,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2006,
     "Valor": 27,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2006,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2006,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2006,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2007,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2007,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2007,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2007,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2007,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2007,
     "Valor": 39,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2007,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2007,
     "Valor": 24,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2007,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2007,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2007,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2007,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2007,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2007,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2007,
     "Valor": 155,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2007,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2007,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2007,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2007,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2007,
     "Valor": 34,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2007,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2007,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2007,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2008,
-    "Valor": 1,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2008,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2008,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2008,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2008,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2008,
     "Valor": 37,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2008,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2008,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2008,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2008,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2008,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2008,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2008,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2008,
     "Valor": 125,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2008,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2008,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2008,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2008,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2008,
     "Valor": 36,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2008,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2008,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2008,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2009,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2009,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2009,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2009,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2009,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2009,
     "Valor": 28,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2009,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2009,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2009,
     "Valor": 24,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2009,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2009,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2009,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2009,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2009,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2009,
     "Valor": 116,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2009,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2009,
     "Valor": 15,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2009,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2009,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2009,
     "Valor": 36,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2009,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2009,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2009,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2010,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2010,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2010,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2010,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2010,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2010,
     "Valor": 25,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2010,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2010,
     "Valor": 16,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2010,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2010,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2010,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2010,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2010,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2010,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2010,
     "Valor": 117,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2010,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2010,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2010,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2010,
     "Valor": 18,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2010,
     "Valor": 22,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2010,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2010,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2010,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2011,
-    "Valor": 1,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2011,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2011,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2011,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2011,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2011,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2011,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2011,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2011,
     "Valor": 16,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2011,
     "Valor": 20,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2011,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2011,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2011,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2011,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2011,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2011,
     "Valor": 90,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2011,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2011,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2011,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2011,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2011,
     "Valor": 21,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2011,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2011,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2011,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2012,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2012,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2012,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2012,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2012,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2012,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2012,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2012,
     "Valor": 17,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2012,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2012,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2012,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2012,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2012,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2012,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2012,
     "Valor": 79,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2012,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2012,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2012,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2012,
     "Valor": 17,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2012,
     "Valor": 28,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2012,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2012,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2012,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2013,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2013,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2013,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2013,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2013,
     "Valor": 29,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2013,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2013,
     "Valor": 30,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2013,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2013,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2013,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2013,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2013,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2013,
     "Valor": 95,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2013,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2013,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2013,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2013,
     "Valor": 21,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2013,
     "Valor": 23,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2013,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2013,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2013,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2014,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2014,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2014,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2014,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2014,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2014,
     "Valor": 22,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2014,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2014,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2014,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2014,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2014,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2014,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2014,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2014,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2014,
     "Valor": 107,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2014,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2014,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2014,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2014,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2014,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2014,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2014,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2014,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2015,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2015,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2015,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2015,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2015,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2015,
     "Valor": 20,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2015,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2015,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2015,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2015,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2015,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2015,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2015,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2015,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2015,
     "Valor": 101,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2015,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2015,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2015,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2015,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2015,
     "Valor": 35,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2015,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2015,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2015,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2016,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120001 ACRELANDIA",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2016,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2016,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2016,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2016,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2016,
     "Valor": 16,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2016,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2016,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2016,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2016,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2016,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2016,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2016,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2016,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2016,
     "Valor": 85,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2016,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2016,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2016,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2016,
     "Valor": 16,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2016,
     "Valor": 22,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2016,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2016,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2016,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2017,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2017,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2017,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2017,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2017,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2017,
     "Valor": 19,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2017,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2017,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2017,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2017,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2017,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2017,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2017,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2017,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2017,
     "Valor": 74,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2017,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2017,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2017,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2017,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2017,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2017,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2017,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2017,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2018,
-    "Valor": 1,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2018,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2018,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2018,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2018,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2018,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2018,
     "Valor": 28,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2018,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2018,
     "Valor": 31,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2018,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2018,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2018,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2018,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2018,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2018,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2018,
     "Valor": 93,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2018,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2018,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2018,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2018,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2018,
     "Valor": 18,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2018,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2018,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2018,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2019,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120001 ACRELANDIA",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2019,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2019,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2019,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2019,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2019,
     "Valor": 31,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2019,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2019,
     "Valor": 31,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2019,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2019,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2019,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2019,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2019,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2019,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2019,
     "Valor": 70,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2019,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2019,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2019,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2019,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2019,
     "Valor": 25,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2019,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2019,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2019,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2020,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2020,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2020,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2020,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2020,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2020,
     "Valor": 18,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2020,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2020,
     "Valor": 25,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2020,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2020,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2020,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2020,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2020,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2020,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2020,
     "Valor": 86,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2020,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2020,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2020,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2020,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2020,
     "Valor": 23,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2020,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2020,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2020,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2021,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120001 ACRELANDIA",
-    "Ano": 2021,
-    "Valor": 1,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2021,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2021,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2021,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2021,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2021,
     "Valor": 26,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2021,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2021,
     "Valor": 25,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2021,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2021,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2021,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2021,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2021,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2021,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2021,
     "Valor": 95,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2021,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2021,
     "Valor": 9,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2021,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2021,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2021,
     "Valor": 24,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2021,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2021,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2021,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120001 ACRELANDIA",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2022,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2022,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2022,
     "Valor": 16,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2022,
     "Valor": 23,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2022,
     "Valor": 18,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2022,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2022,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2022,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2022,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2022,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2022,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2022,
     "Valor": 80,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2022,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2022,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2022,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2022,
     "Valor": 24,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2022,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2022,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2022,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2023,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120001 ACRELANDIA",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2023,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2023,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2023,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2023,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2023,
     "Valor": 25,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2023,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2023,
     "Valor": 21,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2023,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2023,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2023,
     "Valor": 10,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2023,
     "Valor": 0,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2023,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2023,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2023,
     "Valor": 87,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2023,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2023,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2023,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2023,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2023,
     "Valor": 30,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2023,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2023,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "Notas:",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2023,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "MUNICIPIO IGNORADO - AC",
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": "120001",
     "Ano": 2024,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120001 ACRELANDIA",
-    "Ano": 2024,
-    "Valor": 1,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "120005 ASSIS BRASIL",
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": "120005",
     "Ano": 2024,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120010 BRASILEIA",
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": "120010",
     "Ano": 2024,
     "Valor": 12,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120013 BUJARI",
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": "120013",
     "Ano": 2024,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120017 CAPIXABA",
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": "120017",
     "Ano": 2024,
     "Valor": 5,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120020 CRUZEIRO DO SUL",
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": "120020",
     "Ano": 2024,
     "Valor": 23,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120025 EPITACIOLANDIA",
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": "120025",
     "Ano": 2024,
     "Valor": 6,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120030 FEIJO",
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": "120030",
     "Ano": 2024,
     "Valor": 20,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120032 JORDAO",
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": "120032",
     "Ano": 2024,
     "Valor": 4,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120033 MANCIO LIMA",
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": "120033",
     "Ano": 2024,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120034 MANOEL URBANO",
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": "120034",
     "Ano": 2024,
     "Valor": 8,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120035 MARECHAL THAUMATURGO",
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": "120035",
     "Ano": 2024,
     "Valor": 11,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120038 PLACIDO DE CASTRO",
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": "120038",
     "Ano": 2024,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120039 PORTO WALTER",
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": "120039",
     "Ano": 2024,
     "Valor": 2,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120040 RIO BRANCO",
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": "120040",
     "Ano": 2024,
     "Valor": 70,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120042 RODRIGUES ALVES",
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": "120042",
     "Ano": 2024,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120043 SANTA ROSA DO PURUS",
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": "120043",
     "Ano": 2024,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120045 SENADOR GUIOMARD",
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": "120045",
     "Ano": 2024,
     "Valor": 3,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120050 SENA MADUREIRA",
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": "120050",
     "Ano": 2024,
     "Valor": 14,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120060 TARAUACA",
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": "120060",
     "Ano": 2024,
     "Valor": 13,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120070 XAPURI",
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": "120070",
     "Ano": 2024,
     "Valor": 1,
     "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   },
   {
-    "Municipio": "120080 PORTO ACRE",
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": "120080",
     "Ano": 2024,
     "Valor": 7,
     "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Notas:",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
-  },
-  {
-    "Municipio": "",
-    "Ano": 2024,
-    "Valor": 0,
-    "UF": "AC",
-    "Tipo": "Óbitos"
+    "Tipo": "Obitos"
   }
 ]

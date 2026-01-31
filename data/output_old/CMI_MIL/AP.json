@@ -1,0 +1,5222 @@
+[
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 1996,
+    "Valor": 6.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 1996,
+    "Valor": 81.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 1996,
+    "Valor": 33.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 1996,
+    "Valor": 1.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 1996,
+    "Valor": 28.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 1996,
+    "Valor": 32.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 1996,
+    "Valor": 32.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 1996,
+    "Valor": 17.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 1996,
+    "Valor": 25.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 1996,
+    "Valor": 11.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 1997,
+    "Valor": 3.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 1997,
+    "Valor": 21.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 1997,
+    "Valor": 49.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 1997,
+    "Valor": 3.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 1997,
+    "Valor": 22.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 1997,
+    "Valor": 333.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 1997,
+    "Valor": 5.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 1997,
+    "Valor": 30.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 1997,
+    "Valor": 30.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 1997,
+    "Valor": 5.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 1997,
+    "Valor": 19.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 1997,
+    "Valor": 38.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 1997,
+    "Valor": 27.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 1997,
+    "Valor": 11.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 1998,
+    "Valor": 2.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 1998,
+    "Valor": 17.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 1998,
+    "Valor": 28.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 1998,
+    "Valor": 2.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 1998,
+    "Valor": 33.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 1998,
+    "Valor": 100.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 1998,
+    "Valor": 7.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 1998,
+    "Valor": 24.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 1998,
+    "Valor": 27.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 1998,
+    "Valor": 11.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 1998,
+    "Valor": 19.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 1998,
+    "Valor": 13.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 1998,
+    "Valor": 27.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 1998,
+    "Valor": 12.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 1999,
+    "Valor": 4.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 1999,
+    "Valor": 20.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 1999,
+    "Valor": 24.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 1999,
+    "Valor": 1.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 1999,
+    "Valor": 46.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 1999,
+    "Valor": 26.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 1999,
+    "Valor": 125.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 1999,
+    "Valor": 6.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 1999,
+    "Valor": 28.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 1999,
+    "Valor": 23.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 1999,
+    "Valor": 14.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 1999,
+    "Valor": 18.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 1999,
+    "Valor": 24.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 1999,
+    "Valor": 28.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 1999,
+    "Valor": 9.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 1999,
+    "Valor": 2.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2000,
+    "Valor": 5.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2000,
+    "Valor": 17.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2000,
+    "Valor": 20.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2000,
+    "Valor": 1.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2000,
+    "Valor": 42.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2000,
+    "Valor": 25.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2000,
+    "Valor": 93.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2000,
+    "Valor": 6.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2000,
+    "Valor": 24.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2000,
+    "Valor": 21.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2000,
+    "Valor": 17.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2000,
+    "Valor": 21.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2000,
+    "Valor": 20.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2000,
+    "Valor": 25.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2000,
+    "Valor": 11.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2000,
+    "Valor": 1.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2001,
+    "Valor": 4.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2001,
+    "Valor": 13.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2001,
+    "Valor": 26.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2001,
+    "Valor": 2.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2001,
+    "Valor": 52.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2001,
+    "Valor": 21.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2001,
+    "Valor": 47.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2001,
+    "Valor": 12.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2001,
+    "Valor": 24.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2001,
+    "Valor": 21.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2001,
+    "Valor": 13.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2001,
+    "Valor": 19.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2001,
+    "Valor": 29.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2001,
+    "Valor": 22.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2001,
+    "Valor": 17.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2001,
+    "Valor": 3.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2002,
+    "Valor": 4.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2002,
+    "Valor": 13.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2002,
+    "Valor": 27.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2002,
+    "Valor": 2.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2002,
+    "Valor": 36.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2002,
+    "Valor": 21.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2002,
+    "Valor": 32.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2002,
+    "Valor": 20.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2002,
+    "Valor": 25.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2002,
+    "Valor": 22.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2002,
+    "Valor": 19.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2002,
+    "Valor": 20.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2002,
+    "Valor": 21.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2002,
+    "Valor": 25.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2002,
+    "Valor": 19.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2002,
+    "Valor": 10.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2003,
+    "Valor": 5.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2003,
+    "Valor": 12.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2003,
+    "Valor": 24.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2003,
+    "Valor": 3.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2003,
+    "Valor": 29.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2003,
+    "Valor": 23.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2003,
+    "Valor": 26.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2003,
+    "Valor": 19.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2003,
+    "Valor": 23.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2003,
+    "Valor": 20.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2003,
+    "Valor": 13.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2003,
+    "Valor": 22.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2003,
+    "Valor": 20.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2003,
+    "Valor": 14.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2003,
+    "Valor": 20.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2003,
+    "Valor": 14.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2004,
+    "Valor": 8.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2004,
+    "Valor": 12.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2004,
+    "Valor": 22.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2004,
+    "Valor": 5.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2004,
+    "Valor": 28.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2004,
+    "Valor": 24.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2004,
+    "Valor": 20.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2004,
+    "Valor": 19.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2004,
+    "Valor": 24.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2004,
+    "Valor": 18.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2004,
+    "Valor": 19.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2004,
+    "Valor": 21.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2004,
+    "Valor": 23.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2004,
+    "Valor": 17.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2004,
+    "Valor": 22.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2004,
+    "Valor": 20.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2005,
+    "Valor": 8.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2005,
+    "Valor": 16.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2005,
+    "Valor": 21.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2005,
+    "Valor": 8.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2005,
+    "Valor": 28.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2005,
+    "Valor": 25.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2005,
+    "Valor": 21.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2005,
+    "Valor": 27.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2005,
+    "Valor": 20.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2005,
+    "Valor": 16.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2005,
+    "Valor": 20.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2005,
+    "Valor": 25.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2005,
+    "Valor": 29.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2005,
+    "Valor": 13.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2005,
+    "Valor": 21.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2005,
+    "Valor": 19.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2005,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2006,
+    "Valor": 8.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2006,
+    "Valor": 14.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2006,
+    "Valor": 22.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2006,
+    "Valor": 13.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2006,
+    "Valor": 29.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2006,
+    "Valor": 25.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2006,
+    "Valor": 18.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2006,
+    "Valor": 30.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2006,
+    "Valor": 23.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2006,
+    "Valor": 13.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2006,
+    "Valor": 26.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2006,
+    "Valor": 25.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2006,
+    "Valor": 28.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2006,
+    "Valor": 19.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2006,
+    "Valor": 18.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2006,
+    "Valor": 18.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2006,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2007,
+    "Valor": 7.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2007,
+    "Valor": 16.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2007,
+    "Valor": 22.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2007,
+    "Valor": 13.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2007,
+    "Valor": 28.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2007,
+    "Valor": 27.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2007,
+    "Valor": 19.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2007,
+    "Valor": 26.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2007,
+    "Valor": 24.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2007,
+    "Valor": 11.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2007,
+    "Valor": 22.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2007,
+    "Valor": 22.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2007,
+    "Valor": 24.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2007,
+    "Valor": 13.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2007,
+    "Valor": 14.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2007,
+    "Valor": 16.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2007,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2008,
+    "Valor": 9.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2008,
+    "Valor": 16.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2008,
+    "Valor": 19.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2008,
+    "Valor": 15.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2008,
+    "Valor": 27.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2008,
+    "Valor": 25.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2008,
+    "Valor": 21.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2008,
+    "Valor": 21.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2008,
+    "Valor": 24.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2008,
+    "Valor": 12.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2008,
+    "Valor": 21.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2008,
+    "Valor": 20.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2008,
+    "Valor": 22.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2008,
+    "Valor": 17.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2008,
+    "Valor": 14.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2008,
+    "Valor": 14.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2008,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2009,
+    "Valor": 13.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2009,
+    "Valor": 16.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2009,
+    "Valor": 22.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2009,
+    "Valor": 16.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2009,
+    "Valor": 26.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2009,
+    "Valor": 24.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2009,
+    "Valor": 24.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2009,
+    "Valor": 17.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2009,
+    "Valor": 25.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2009,
+    "Valor": 10.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2009,
+    "Valor": 20.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2009,
+    "Valor": 21.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2009,
+    "Valor": 21.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2009,
+    "Valor": 17.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2009,
+    "Valor": 12.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2009,
+    "Valor": 17.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2009,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2010,
+    "Valor": 12.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2010,
+    "Valor": 16.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2010,
+    "Valor": 20.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2010,
+    "Valor": 12.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2010,
+    "Valor": 29.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2010,
+    "Valor": 24.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2010,
+    "Valor": 24.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2010,
+    "Valor": 16.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2010,
+    "Valor": 20.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2010,
+    "Valor": 12.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2010,
+    "Valor": 22.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2010,
+    "Valor": 20.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2010,
+    "Valor": 19.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2010,
+    "Valor": 16.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2010,
+    "Valor": 18.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2010,
+    "Valor": 13.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2010,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2011,
+    "Valor": 12.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2011,
+    "Valor": 18.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2011,
+    "Valor": 22.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2011,
+    "Valor": 11.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2011,
+    "Valor": 29.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2011,
+    "Valor": 25.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2011,
+    "Valor": 23.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2011,
+    "Valor": 13.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2011,
+    "Valor": 20.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2011,
+    "Valor": 13.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2011,
+    "Valor": 19.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2011,
+    "Valor": 24.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2011,
+    "Valor": 18.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2011,
+    "Valor": 20.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2011,
+    "Valor": 23.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2011,
+    "Valor": 14.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2012,
+    "Valor": 12.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2012,
+    "Valor": 18.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2012,
+    "Valor": 24.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2012,
+    "Valor": 10.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2012,
+    "Valor": 27.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2012,
+    "Valor": 22.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2012,
+    "Valor": 19.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2012,
+    "Valor": 14.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2012,
+    "Valor": 22.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2012,
+    "Valor": 16.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2012,
+    "Valor": 20.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2012,
+    "Valor": 22.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2012,
+    "Valor": 18.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2012,
+    "Valor": 18.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2012,
+    "Valor": 23.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2012,
+    "Valor": 15.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2012,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2013,
+    "Valor": 14.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2013,
+    "Valor": 20.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2013,
+    "Valor": 26.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2013,
+    "Valor": 15.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2013,
+    "Valor": 22.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2013,
+    "Valor": 18.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2013,
+    "Valor": 16.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2013,
+    "Valor": 15.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2013,
+    "Valor": 22.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2013,
+    "Valor": 11.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2013,
+    "Valor": 25.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2013,
+    "Valor": 17.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2013,
+    "Valor": 17.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2013,
+    "Valor": 15.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2013,
+    "Valor": 21.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2013,
+    "Valor": 13.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2013,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2014,
+    "Valor": 15.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2014,
+    "Valor": 19.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2014,
+    "Valor": 26.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2014,
+    "Valor": 19.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2014,
+    "Valor": 24.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2014,
+    "Valor": 17.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2014,
+    "Valor": 17.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2014,
+    "Valor": 19.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2014,
+    "Valor": 19.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2014,
+    "Valor": 9.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2014,
+    "Valor": 23.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2014,
+    "Valor": 14.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2014,
+    "Valor": 15.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2014,
+    "Valor": 13.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2014,
+    "Valor": 18.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2014,
+    "Valor": 14.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2014,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2015,
+    "Valor": 14.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2015,
+    "Valor": 17.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2015,
+    "Valor": 25.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2015,
+    "Valor": 17.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2015,
+    "Valor": 23.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2015,
+    "Valor": 15.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2015,
+    "Valor": 16.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2015,
+    "Valor": 22.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2015,
+    "Valor": 17.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2015,
+    "Valor": 12.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2015,
+    "Valor": 24.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2015,
+    "Valor": 13.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2015,
+    "Valor": 13.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2015,
+    "Valor": 14.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2015,
+    "Valor": 13.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2015,
+    "Valor": 13.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2015,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2016,
+    "Valor": 13.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2016,
+    "Valor": 18.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2016,
+    "Valor": 25.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2016,
+    "Valor": 19.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2016,
+    "Valor": 22.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2016,
+    "Valor": 12.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2016,
+    "Valor": 17.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2016,
+    "Valor": 24.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2016,
+    "Valor": 17.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2016,
+    "Valor": 19.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2016,
+    "Valor": 25.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2016,
+    "Valor": 16.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2016,
+    "Valor": 15.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2016,
+    "Valor": 16.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2016,
+    "Valor": 12.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2016,
+    "Valor": 11.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2017,
+    "Valor": 12.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2017,
+    "Valor": 16.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2017,
+    "Valor": 24.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2017,
+    "Valor": 18.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2017,
+    "Valor": 23.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2017,
+    "Valor": 11.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2017,
+    "Valor": 15.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2017,
+    "Valor": 18.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2017,
+    "Valor": 21.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2017,
+    "Valor": 22.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2017,
+    "Valor": 24.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2017,
+    "Valor": 14.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2017,
+    "Valor": 15.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2017,
+    "Valor": 17.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2017,
+    "Valor": 12.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2017,
+    "Valor": 18.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2017,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2018,
+    "Valor": 11.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2018,
+    "Valor": 13.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2018,
+    "Valor": 20.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2018,
+    "Valor": 15.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2018,
+    "Valor": 20.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2018,
+    "Valor": 11.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2018,
+    "Valor": 13.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2018,
+    "Valor": 11.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2018,
+    "Valor": 21.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2018,
+    "Valor": 22.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2018,
+    "Valor": 24.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2018,
+    "Valor": 14.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2018,
+    "Valor": 10.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2018,
+    "Valor": 12.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2018,
+    "Valor": 10.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2018,
+    "Valor": 23.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2018,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2019,
+    "Valor": 11.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2019,
+    "Valor": 10.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2019,
+    "Valor": 21.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2019,
+    "Valor": 8.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2019,
+    "Valor": 21.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2019,
+    "Valor": 15.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2019,
+    "Valor": 8.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2019,
+    "Valor": 18.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2019,
+    "Valor": 20.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2019,
+    "Valor": 16.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2019,
+    "Valor": 15.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2019,
+    "Valor": 9.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2019,
+    "Valor": 12.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2019,
+    "Valor": 17.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2019,
+    "Valor": 12.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2019,
+    "Valor": 22.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2020,
+    "Valor": 13.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2020,
+    "Valor": 8.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2020,
+    "Valor": 18.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2020,
+    "Valor": 9.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2020,
+    "Valor": 20.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2020,
+    "Valor": 16.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2020,
+    "Valor": 7.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2020,
+    "Valor": 25.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2020,
+    "Valor": 19.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2020,
+    "Valor": 9.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2020,
+    "Valor": 12.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2020,
+    "Valor": 12.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2020,
+    "Valor": 10.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2020,
+    "Valor": 17.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2020,
+    "Valor": 10.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2020,
+    "Valor": 21.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2020,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2021,
+    "Valor": 14.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2021,
+    "Valor": 9.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2021,
+    "Valor": 19.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2021,
+    "Valor": 13.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2021,
+    "Valor": 18.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2021,
+    "Valor": 15.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2021,
+    "Valor": 6.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2021,
+    "Valor": 23.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2021,
+    "Valor": 20.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2021,
+    "Valor": 15.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2021,
+    "Valor": 18.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2021,
+    "Valor": 15.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2021,
+    "Valor": 9.5,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2021,
+    "Valor": 15.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2021,
+    "Valor": 22.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2021,
+    "Valor": 17.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2021,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2022,
+    "Valor": 15.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2022,
+    "Valor": 9.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2022,
+    "Valor": 21.3,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2022,
+    "Valor": 16.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2022,
+    "Valor": 15.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2022,
+    "Valor": 16.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2022,
+    "Valor": 5.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2022,
+    "Valor": 21.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2022,
+    "Valor": 18.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2022,
+    "Valor": 17.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2022,
+    "Valor": 18.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2022,
+    "Valor": 19.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2022,
+    "Valor": 9.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2022,
+    "Valor": 17.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2022,
+    "Valor": 22.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2022,
+    "Valor": 11.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2022,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2023,
+    "Valor": 12.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2023,
+    "Valor": 9.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2023,
+    "Valor": 19.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2023,
+    "Valor": 21.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2023,
+    "Valor": 17.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2023,
+    "Valor": 23.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2023,
+    "Valor": 6.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2023,
+    "Valor": 20.1,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2023,
+    "Valor": 21.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2023,
+    "Valor": 15.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2023,
+    "Valor": 25.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2023,
+    "Valor": 16.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2023,
+    "Valor": 9.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2023,
+    "Valor": 19.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2023,
+    "Valor": 23.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2023,
+    "Valor": 14.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160005 SERRA DO NAVIO",
+    "Ano": 2024,
+    "Valor": 11.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160010 AMAPA",
+    "Ano": 2024,
+    "Valor": 9.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160015 PEDRA BRANCA DO AMAPARI",
+    "Ano": 2024,
+    "Valor": 21.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160020 CALCOENE",
+    "Ano": 2024,
+    "Valor": 20.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160021 CUTIAS",
+    "Ano": 2024,
+    "Valor": 17.4,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160023 FERREIRA GOMES",
+    "Ano": 2024,
+    "Valor": 25.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160025 ITAUBAL",
+    "Ano": 2024,
+    "Valor": 7.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160027 LARANJAL DO JARI",
+    "Ano": 2024,
+    "Valor": 22.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160030 MACAPA",
+    "Ano": 2024,
+    "Valor": 16.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160040 MAZAGAO",
+    "Ano": 2024,
+    "Valor": 8.6,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160050 OIAPOQUE",
+    "Ano": 2024,
+    "Valor": 23.2,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160053 PORTO GRANDE",
+    "Ano": 2024,
+    "Valor": 20.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160055 PRACUUBA",
+    "Ano": 2024,
+    "Valor": 9.7,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160060 SANTANA",
+    "Ano": 2024,
+    "Valor": 21.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160070 TARTARUGALZINHO",
+    "Ano": 2024,
+    "Valor": 24.9,
+    "UF": "AP"
+  },
+  {
+    "Municipio": "160080 VITORIA DO JARI",
+    "Ano": 2024,
+    "Valor": 14.8,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Consulte o site da Secretaria Estadual de Saúde para mais informações.",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Notas:",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " \"Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011\".",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " * A categorização da \"Adequação quantitativa de pré-natal\" mostrada na variável \"Adeq quant pré-natal\" considera o início do",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " Maiores informações no documento \"Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  },
+  {
+    "Municipio": " ",
+    "Ano": 2024,
+    "Valor": 0.0,
+    "UF": "AP"
+  }
+]

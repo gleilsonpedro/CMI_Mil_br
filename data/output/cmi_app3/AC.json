@@ -1,0 +1,5106 @@
+[
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 56.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 21.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 47.62,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 24.61,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 30.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 66.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 18.96,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 21.74,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 14.71,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 34.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 28.57,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 18.87,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 14.84,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 70.42,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 1996,
+    "Valor": 31.25,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 32.97,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 10.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 38.17,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 25.72,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 500.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 79.47,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 12.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 18.91,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 27.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 25.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 21.74,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 26.85,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 4.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 17.91,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 1997,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 14.71,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 39.22,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 43.75,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 37.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 666.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 101.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 17.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 34.48,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 15.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 8.7,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 31.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 25.97,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 54.79,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 25.33,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 247.19,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 49.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 1998,
+    "Valor": 57.14,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 13.51,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 51.28,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 25.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 45.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 29.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 20.55,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 24.75,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 9.87,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 6.71,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 26.99,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 8.51,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 13.29,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 16.98,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 23.71,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 10.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 1999,
+    "Valor": 106.38,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 38.46,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 9.01,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 8.66,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 33.33,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 37.74,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 24.75,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 32.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 101.91,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 12.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 20.41,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 6.58,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 8.43,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 11.9,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 28.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 31.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 24.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 252.92,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 11.05,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2000,
+    "Valor": 96.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 40.7,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 8.68,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 71.43,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 21.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 23.1,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 36.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 8.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 22.99,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 49.54,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 13.7,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 23.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 4.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 57.14,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 22.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 32.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 48.48,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 7.98,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2001,
+    "Valor": 53.33,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 27.03,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 14.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 8.93,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 25.73,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 33.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 40.36,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 62.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 3.12,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 22.22,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 18.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 31.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 20.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 3.68,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 29.2,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 14.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 25.43,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 12.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2002,
+    "Valor": 67.23,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 5.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 13.25,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 16.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 10.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 38.17,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 19.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 13.38,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 29.36,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 38.46,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 14.29,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 6.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 14.49,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 16.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 22.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 11.76,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 26.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 14.34,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 19.21,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 28.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 12.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2003,
+    "Valor": 29.85,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 13.1,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 14.56,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 13.13,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 25.42,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 25.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 11.34,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 18.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 56.76,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 6.17,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 21.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 20.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 25.25,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 22.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 4.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 27.68,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 18.38,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 33.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 13.85,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2004,
+    "Valor": 16.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 24.69,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 14.85,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 16.13,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 8.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 25.13,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 19.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 22.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 27.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 33.33,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 2.53,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 15.38,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 16.34,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 12.56,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 30.08,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 20.44,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 5.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 62.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 25.21,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 20.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 27.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 27.46,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2005,
+    "Valor": 25.75,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 22.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 16.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 16.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 17.7,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 26.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 31.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 24.14,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 25.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 9.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 28.21,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 29.13,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 5.8,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 15.2,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 5.76,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 18.38,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 25.42,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 85.94,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 25.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 12.92,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 24.46,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 15.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2006,
+    "Valor": 38.04,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 13.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 19.01,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 10.14,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 16.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 6.62,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 20.31,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 28.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 162.16,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 19.23,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 7.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 36.08,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 5.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 17.19,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 11.93,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 21.93,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 7.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 70.65,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 24.65,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 17.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 48.85,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 17.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2007,
+    "Valor": 20.49,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 32.97,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 3.34,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 26.57,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 13.61,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 25.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 20.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 10.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 30.34,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 8.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 10.37,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 20.2,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 4.01,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 12.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 10.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 17.69,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 5.03,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 47.12,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 22.16,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 11.02,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 26.65,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 20.62,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2008,
+    "Valor": 2.79,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 18.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 14.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 10.62,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 6.25,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 10.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 15.52,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 30.19,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 27.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 107.62,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 24.28,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 21.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 11.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 20.71,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 11.9,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 17.74,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 7.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 70.75,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 8.38,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 12.61,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 28.99,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 6.73,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2009,
+    "Valor": 8.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 25.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 11.9,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 12.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 21.62,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 10.47,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 14.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 27.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 17.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 30.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 9.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 28.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 11.93,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 5.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 11.4,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 18.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 10.96,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 39.02,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 8.24,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 18.73,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 18.12,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 23.49,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2010,
+    "Valor": 27.03,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 13.84,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 11.54,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 14.98,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 20.51,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 24.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 14.04,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 12.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 17.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 82.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 12.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 11.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 9.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 7.69,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 13.04,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 4.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 38.79,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 15.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 13.42,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 17.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 9.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2011,
+    "Valor": 5.62,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 15.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 18.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 19.8,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 15.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 24.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 14.93,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 31.91,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 18.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 44.61,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 12.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 19.53,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 14.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 5.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 17.75,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 12.1,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 12.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 42.47,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 22.73,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 18.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 24.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 12.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2012,
+    "Valor": 17.34,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 11.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 9.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 26.42,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 4.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 5.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 16.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 10.91,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 37.93,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 18.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 5.01,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 17.47,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 10.31,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 17.96,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 24.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 13.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 5.51,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 53.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 14.12,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 23.23,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 20.21,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 13.61,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2013,
+    "Valor": 13.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 18.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 20.41,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 14.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 4.13,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 25.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 12.1,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 7.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 22.92,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 21.28,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 12.11,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 37.04,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 30.57,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 6.21,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 4.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 15.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 20.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 54.05,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 19.87,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 16.93,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 21.14,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 6.54,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2014,
+    "Valor": 29.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 9.22,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 29.41,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 26.37,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 8.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 9.13,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 10.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 7.17,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 33.68,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 14.65,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 22.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 30.08,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 15.73,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 22.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 15.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 14.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 15.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 73.33,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 13.54,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 9.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 30.04,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 12.42,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2015,
+    "Valor": 13.97,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 42.11,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 28.57,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 4.03,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 25.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 9.8,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 22.22,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 22.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 11.41,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 6.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 25.42,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 17.05,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 5.9,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 8.7,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 12.85,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 32.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 52.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 4.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 21.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 20.41,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 18.24,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2016,
+    "Valor": 8.43,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 11.72,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 8.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 17.54,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 6.51,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 16.46,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 11.28,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 10.31,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 15.61,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 22.56,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 8.38,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 26.82,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 28.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 9.84,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 14.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 11.46,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 19.13,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 25.25,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 12.66,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 14.1,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 22.97,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 3.28,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2017,
+    "Valor": 9.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 9.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 15.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 14.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 3.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 18.02,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 15.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 25.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 37.21,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 14.6,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 24.52,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 7.94,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 19.66,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 16.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 27.56,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 14.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 12.69,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 43.48,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 10.5,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 13.96,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 15.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 12.31,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2018,
+    "Valor": 17.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 18.8,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 16.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 12.16,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 17.14,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 12.74,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 35.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 9.17,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 26.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 43.48,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 20.09,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 6.29,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 22.22,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 11.07,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 41.92,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 37.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 9.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 13.02,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 21.87,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 13.47,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2019,
+    "Valor": 7.92,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 12.66,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 13.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 7.59,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 12.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 5.26,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 10.64,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 17.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 31.69,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 19.51,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 19.05,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 7.14,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 8.98,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 24.56,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 13.94,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 14.97,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 14.41,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 46.98,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 14.96,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 19.46,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 19.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 18.99,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2020,
+    "Valor": 19.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 3.98,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 14.76,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 22.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 11.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 13.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 14.49,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 16.45,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 28.12,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 20.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 10.55,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 43.48,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 15.8,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 14.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 11.83,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 16.77,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 17.91,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 50.56,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 17.86,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 15.81,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 20.44,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 12.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2021,
+    "Valor": 16.95,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 14.63,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 25.53,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 29.52,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 8.7,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 10.99,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 14.6,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 7.19,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 22.25,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 34.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 21.21,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 24.79,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 8.15,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 3.91,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 22.56,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 14.94,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 6.23,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 46.3,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 14.53,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 17.04,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 22.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 6.37,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2022,
+    "Valor": 29.76,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 7.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 5.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 19.53,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 11.11,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 16.22,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 21.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 24.76,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 14.55,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 8.47,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 34.72,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 0.0,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 20.08,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 13.27,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 16.9,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 10.53,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 69.65,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 8.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 16.6,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 26.55,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 13.16,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2023,
+    "Valor": 5.83,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ACRELANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 5.18,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "ASSIS BRASIL",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 27.78,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BRASILEIA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 26.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "BUJARI",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 18.1,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CAPIXABA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 27.32,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "CRUZEIRO DO SUL",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 19.06,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "EPITACIOLANDIA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 21.28,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "FEIJO",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 25.94,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "JORDAO",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 21.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANCIO LIMA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 10.17,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MANOEL URBANO",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 30.89,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "MARECHAL THAUMATURGO",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 36.67,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PLACIDO DE CASTRO",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 13.39,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO WALTER",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 9.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RIO BRANCO",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 14.75,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "RODRIGUES ALVES",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 12.35,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SANTA ROSA DO PURUS",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 74.29,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENADOR GUIOMARD",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 10.1,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "SENA MADUREIRA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 21.28,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "TARAUACA",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 12.88,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "XAPURI",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 3.79,
+    "UF": "AC",
+    "Tipo": "CMI"
+  },
+  {
+    "Municipio": "PORTO ACRE",
+    "Codigo_Municipio": null,
+    "Ano": 2024,
+    "Valor": 23.41,
+    "UF": "AC",
+    "Tipo": "CMI"
+  }
+]
