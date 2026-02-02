@@ -120,6 +120,38 @@ def criar_grafico_linha(df, titulo, cor='#1f77b4', yaxis_title='Valor'):
     )
     return fig
 
+def criar_grafico_multiplos_municipios(dados_dict, tipo_indicador, titulo):
+    """Cria gráfico com múltiplos municípios"""
+    cores = px.colors.qualitative.Set2 + px.colors.qualitative.Pastel
+    
+    fig = go.Figure()
+    for idx, (municipio, df) in enumerate(dados_dict.items()):
+        if not df.empty:
+            fig.add_trace(go.Scatter(
+                x=df['Ano'],
+                y=df['Valor'],
+                mode='lines+markers',
+                name=municipio,
+                line=dict(color=cores[idx % len(cores)], width=2.5),
+                marker=dict(size=7)
+            ))
+    
+    fig.update_layout(
+        title=titulo,
+        xaxis_title='Ano',
+        yaxis_title=tipo_indicador,
+        hovermode='x unified',
+        template='plotly_white',
+        height=500,
+        legend=dict(
+            yanchor="top",
+            y=0.99,
+            xanchor="left",
+            x=0.01
+        )
+    )
+    return fig
+
 def criar_grafico_comparacao(df1, df2, label1, label2, titulo):
     """Cria gráfico comparativo entre dois indicadores"""
     fig = go.Figure()
@@ -149,7 +181,7 @@ def criar_grafico_comparacao(df1, df2, label1, label2, titulo):
 # Título principal
 st.markdown('<h1 class="main-header">Análise CMI & CMI-Mil<br><small style="font-size: 0.6em; color: #7f8c8d;">Dashboard para Visualização de Coeficientes de Mortalidade Infantil</small></h1>', unsafe_allow_html=True)
 
-# Sidebar - Seleção de município
+# Sidebar - Seleção de municípios
 with st.sidebar:
     st.title("Filtros")
     
@@ -160,40 +192,64 @@ with st.sidebar:
     
     st.markdown("---")
     
-    # Seleção de município
+    # Seleção de municípios (multiselect)
     municipios_disponiveis = obter_lista_municipios()
     if municipios_disponiveis:
-        municipio_selecionado = st.selectbox(
-            "Selecione o Município",
+        municipios_selecionados = st.multiselect(
+            "Selecione os Municípios",
             options=municipios_disponiveis,
-            index=0,
-            key="municipio_select"
+            default=[municipios_disponiveis[0]] if municipios_disponiveis else [],
+            key="municipios_select",
+            help="Selecione um ou mais municípios para comparar"
         )
         
-        # Extrair nome e UF
-        nome_municipio, uf = municipio_selecionado.rsplit(' - ', 1)
+        if not municipios_selecionados:
+            st.warning("⚠️ Selecione pelo menos um município")
+            st.stop()
     else:
         st.error("Nenhum município encontrado")
         st.stop()
     
     st.markdown("---")
-    st.info(f"**Município:** {nome_municipio}\n\n**UF:** {uf}")
+    st.info(f"**{len(municipios_selecionados)} município(s) selecionado(s)**")
+    
+    # Opção de visualização
+    if len(municipios_selecionados) > 1:
+        modo_visualizacao = st.radio(
+            "Modo de Visualização",
+            ["Comparativo", "Individual"],
+            index=0,
+            help="Comparativo: todos em um gráfico | Individual: gráficos separados"
+        )
+    else:
+        modo_visualizacao = "Individual"
 
-# Carregar todos os dados do município
+# Carregar todos os dados
 df_cmi = carregar_dados_por_tipo('CMI')
 df_cmi_mil = carregar_dados_por_tipo('CMI_MIL')
 df_nv = carregar_dados_por_tipo('NV')
 df_ob = carregar_dados_por_tipo('OB')
 
-# Filtrar por município
-dados_mun_cmi = df_cmi[(df_cmi['Municipio'] == nome_municipio) & (df_cmi['UF'] == uf)].sort_values('Ano')
-dados_mun_cmi_mil = df_cmi_mil[(df_cmi_mil['Municipio'] == nome_municipio) & (df_cmi_mil['UF'] == uf)].sort_values('Ano')
-dados_mun_nv = df_nv[(df_nv['Municipio'] == nome_municipio) & (df_nv['UF'] == uf)].sort_values('Ano')
-dados_mun_ob = df_ob[(df_ob['Municipio'] == nome_municipio) & (df_ob['UF'] == uf)].sort_values('Ano')
+# Preparar dados para todos os municípios selecionados
+dados_municipios = {}
+for mun_sel in municipios_selecionados:
+    nome_mun, uf_mun = mun_sel.rsplit(' - ', 1)
+    dados_municipios[mun_sel] = {
+        'cmi': df_cmi[(df_cmi['Municipio'] == nome_mun) & (df_cmi['UF'] == uf_mun)].sort_values('Ano'),
+        'cmi_mil': df_cmi_mil[(df_cmi_mil['Municipio'] == nome_mun) & (df_cmi_mil['UF'] == uf_mun)].sort_values('Ano'),
+        'nv': df_nv[(df_nv['Municipio'] == nome_mun) & (df_nv['UF'] == uf_mun)].sort_values('Ano'),
+        'ob': df_ob[(df_ob['Municipio'] == nome_mun) & (df_ob['UF'] == uf_mun)].sort_values('Ano')
+    }
 
-# Verificar se há dados
-if dados_mun_cmi.empty and dados_mun_cmi_mil.empty and dados_mun_nv.empty and dados_mun_ob.empty:
-    st.error(f"Nenhum dado encontrado para {nome_municipio} - {uf}")
+# Verificar se há dados para pelo menos um município
+tem_dados = any(
+    not dados['cmi'].empty or not dados['cmi_mil'].empty or 
+    not dados['nv'].empty or not dados['ob'].empty 
+    for dados in dados_municipios.values()
+)
+
+if not tem_dados:
+    st.error("Nenhum dado encontrado para os municípios selecionados")
     st.stop()
 
 # ====================================================================================
@@ -201,106 +257,246 @@ if dados_mun_cmi.empty and dados_mun_cmi_mil.empty and dados_mun_nv.empty and da
 # ====================================================================================
 st.markdown('<div class="section-header">Coeficiente de Mortalidade Infantil</div>', unsafe_allow_html=True)
 
-col1, col2 = st.columns(2)
-
-with col1:
-    if not dados_mun_cmi.empty:
-        st.plotly_chart(
-            criar_grafico_linha(dados_mun_cmi, "CMI", '#e74c3c', 'CMI'),
-            use_container_width=True
-        )
-        
-        # Estatísticas CMI
-        col_a, col_b, col_c = st.columns(3)
-        col_a.metric("Média", f"{dados_mun_cmi['Valor'].mean():.2f}")
-        col_b.metric("Mínimo", f"{dados_mun_cmi['Valor'].min():.2f}")
-        col_c.metric("Máximo", f"{dados_mun_cmi['Valor'].max():.2f}")
-    else:
-        st.warning("Dados CMI não disponíveis")
-
-with col2:
-    if not dados_mun_cmi_mil.empty:
-        st.plotly_chart(
-            criar_grafico_linha(dados_mun_cmi_mil, "CMI-Mil", '#3498db', 'CMI-Mil'),
-            use_container_width=True
-        )
-        
-        # Estatísticas CMI-Mil
-        col_a, col_b, col_c = st.columns(3)
-        col_a.metric("Média", f"{dados_mun_cmi_mil['Valor'].mean():.2f}")
-        col_b.metric("Mínimo", f"{dados_mun_cmi_mil['Valor'].min():.2f}")
-        col_c.metric("Máximo", f"{dados_mun_cmi_mil['Valor'].max():.2f}")
-    else:
-        st.warning("Dados CMI-Mil não disponíveis")
-
-# Comparação CMI vs CMI-MIL logo abaixo
-st.markdown("---")
-if not dados_mun_cmi.empty and not dados_mun_cmi_mil.empty:
-    st.plotly_chart(
-        criar_grafico_comparacao(dados_mun_cmi, dados_mun_cmi_mil, 'CMI', 'CMI-Mil', 
-                                f'Comparação CMI vs CMI-Mil - {nome_municipio}'),
-        use_container_width=True
-    )
+if len(municipios_selecionados) > 1 and modo_visualizacao == "Comparativo":
+    # Modo comparativo - todos os municípios em um gráfico
+    col1, col2 = st.columns(2)
     
-    st.markdown("""
-    <div class="explanation-box">
-    <b>Sobre esta comparação:</b><br>
-    • <b>CMI</b>: Métrica tradicional de mortalidade infantil, pode apresentar imprecisões devido à metodologia de cálculo<br>
-    • <b>CMI-Mil</b>: Indicador baseado em dados factuais e melhor metodologia, gerando resultados mais fiéis à realidade<br>
-    • Esta visualização permite comparar as duas métricas ao longo do tempo e identificar discrepâncias
-    </div>
-    """, unsafe_allow_html=True)
+    with col1:
+        st.markdown("### CMI - Comparação entre Municípios")
+        dados_cmi_comp = {mun: dados['cmi'] for mun, dados in dados_municipios.items() if not dados['cmi'].empty}
+        if dados_cmi_comp:
+            fig = criar_grafico_multiplos_municipios(dados_cmi_comp, 'CMI', 'Comparação CMI')
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.warning("Dados CMI não disponíveis")
+    
+    with col2:
+        st.markdown("### CMI-Mil - Comparação entre Municípios")
+        dados_cmi_mil_comp = {mun: dados['cmi_mil'] for mun, dados in dados_municipios.items() if not dados['cmi_mil'].empty}
+        if dados_cmi_mil_comp:
+            fig = criar_grafico_multiplos_municipios(dados_cmi_mil_comp, 'CMI-Mil', 'Comparação CMI-Mil')
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.warning("Dados CMI-Mil não disponíveis")
+    
+    # Tabela comparativa de estatísticas
+    st.markdown("### Estatísticas Comparativas")
+    estatisticas_data = []
+    for mun, dados in dados_municipios.items():
+        if not dados['cmi'].empty:
+            estatisticas_data.append({
+                'Município': mun,
+                'Indicador': 'CMI',
+                'Média': f"{dados['cmi']['Valor'].mean():.2f}",
+                'Mínimo': f"{dados['cmi']['Valor'].min():.2f}",
+                'Máximo': f"{dados['cmi']['Valor'].max():.2f}"
+            })
+        if not dados['cmi_mil'].empty:
+            estatisticas_data.append({
+                'Município': mun,
+                'Indicador': 'CMI-Mil',
+                'Média': f"{dados['cmi_mil']['Valor'].mean():.2f}",
+                'Mínimo': f"{dados['cmi_mil']['Valor'].min():.2f}",
+                'Máximo': f"{dados['cmi_mil']['Valor'].max():.2f}"
+            })
+    
+    if estatisticas_data:
+        df_estatisticas = pd.DataFrame(estatisticas_data)
+        st.dataframe(df_estatisticas, use_container_width=True, hide_index=True)
+
 else:
-    st.warning("Dados insuficientes para comparação")
+    # Modo individual - um município por vez ou apenas um selecionado
+    for mun_sel in municipios_selecionados:
+        nome_municipio, uf = mun_sel.rsplit(' - ', 1)
+        dados_mun = dados_municipios[mun_sel]
+        
+        if len(municipios_selecionados) > 1:
+            st.markdown(f"### {nome_municipio} - {uf}")
+        
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            if not dados_mun['cmi'].empty:
+                st.plotly_chart(
+                    criar_grafico_linha(dados_mun['cmi'], f"CMI - {nome_municipio}", '#e74c3c', 'CMI'),
+                    use_container_width=True
+                )
+                
+                col_a, col_b, col_c = st.columns(3)
+                col_a.metric("Média", f"{dados_mun['cmi']['Valor'].mean():.2f}")
+                col_b.metric("Mínimo", f"{dados_mun['cmi']['Valor'].min():.2f}")
+                col_c.metric("Máximo", f"{dados_mun['cmi']['Valor'].max():.2f}")
+            else:
+                st.warning("Dados CMI não disponíveis")
+        
+        with col2:
+            if not dados_mun['cmi_mil'].empty:
+                st.plotly_chart(
+                    criar_grafico_linha(dados_mun['cmi_mil'], f"CMI-Mil - {nome_municipio}", '#3498db', 'CMI-Mil'),
+                    use_container_width=True
+                )
+                
+                col_a, col_b, col_c = st.columns(3)
+                col_a.metric("Média", f"{dados_mun['cmi_mil']['Valor'].mean():.2f}")
+                col_b.metric("Mínimo", f"{dados_mun['cmi_mil']['Valor'].min():.2f}")
+                col_c.metric("Máximo", f"{dados_mun['cmi_mil']['Valor'].max():.2f}")
+            else:
+                st.warning("Dados CMI-Mil não disponíveis")
+        
+        if len(municipios_selecionados) > 1:
+            st.markdown("---")
+
+# Comparação CMI vs CMI-MIL
+st.markdown("---")
+st.markdown("### Comparação CMI vs CMI-Mil")
+
+if len(municipios_selecionados) > 1 and modo_visualizacao == "Comparativo":
+    # Mostrar comparações lado a lado para cada município
+    for mun_sel in municipios_selecionados:
+        nome_municipio, uf = mun_sel.rsplit(' - ', 1)
+        dados_mun = dados_municipios[mun_sel]
+        
+        if not dados_mun['cmi'].empty and not dados_mun['cmi_mil'].empty:
+            st.markdown(f"#### {nome_municipio} - {uf}")
+            st.plotly_chart(
+                criar_grafico_comparacao(dados_mun['cmi'], dados_mun['cmi_mil'], 'CMI', 'CMI-Mil', 
+                                        f'CMI vs CMI-Mil - {nome_municipio}'),
+                use_container_width=True
+            )
+else:
+    # Modo individual
+    for mun_sel in municipios_selecionados:
+        nome_municipio, uf = mun_sel.rsplit(' - ', 1)
+        dados_mun = dados_municipios[mun_sel]
+        
+        if not dados_mun['cmi'].empty and not dados_mun['cmi_mil'].empty:
+            if len(municipios_selecionados) > 1:
+                st.markdown(f"#### {nome_municipio} - {uf}")
+            
+            st.plotly_chart(
+                criar_grafico_comparacao(dados_mun['cmi'], dados_mun['cmi_mil'], 'CMI', 'CMI-Mil', 
+                                        f'Comparação CMI vs CMI-Mil - {nome_municipio}'),
+                use_container_width=True
+            )
+
+st.markdown("""
+<div class="explanation-box">
+<b>Sobre esta comparação:</b><br>
+• <b>CMI</b>: Métrica tradicional de mortalidade infantil, pode apresentar imprecisões devido à metodologia de cálculo<br>
+• <b>CMI-Mil</b>: Indicador baseado em dados factuais e melhor metodologia, gerando resultados mais fiéis à realidade<br>
+• Esta visualização permite comparar as duas métricas ao longo do tempo e identificar discrepâncias
+</div>
+""", unsafe_allow_html=True)
 
 # ====================================================================================
 # SEÇÃO 2: NASCIDOS VIVOS E ÓBITOS
 # ====================================================================================
 st.markdown('<div class="section-header">Nascidos Vivos e Óbitos Infantis</div>', unsafe_allow_html=True)
 
-col1, col2 = st.columns(2)
+if len(municipios_selecionados) > 1 and modo_visualizacao == "Comparativo":
+    # Modo comparativo
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.markdown("### Nascidos Vivos - Comparação")
+        dados_nv_comp = {mun: dados['nv'] for mun, dados in dados_municipios.items() if not dados['nv'].empty}
+        if dados_nv_comp:
+            fig = criar_grafico_multiplos_municipios(dados_nv_comp, 'Nascidos Vivos', 'Comparação de Nascidos Vivos')
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.warning("Dados de Nascidos Vivos não disponíveis")
+    
+    with col2:
+        st.markdown("### Óbitos Infantis - Comparação")
+        dados_ob_comp = {mun: dados['ob'] for mun, dados in dados_municipios.items() if not dados['ob'].empty}
+        if dados_ob_comp:
+            fig = criar_grafico_multiplos_municipios(dados_ob_comp, 'Óbitos', 'Comparação de Óbitos Infantis')
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.warning("Dados de Óbitos não disponíveis")
+    
+    # Tabela comparativa
+    st.markdown("### Estatísticas Comparativas")
+    estatisticas_nv_ob = []
+    for mun, dados in dados_municipios.items():
+        if not dados['nv'].empty:
+            estatisticas_nv_ob.append({
+                'Município': mun,
+                'Indicador': 'Nascidos Vivos',
+                'Total': f"{dados['nv']['Valor'].sum():,}",
+                'Média Anual': f"{dados['nv']['Valor'].mean():.0f}",
+                'Mín': f"{dados['nv']['Valor'].min()}",
+                'Máx': f"{dados['nv']['Valor'].max()}"
+            })
+        if not dados['ob'].empty:
+            estatisticas_nv_ob.append({
+                'Município': mun,
+                'Indicador': 'Óbitos Infantis',
+                'Total': f"{dados['ob']['Valor'].sum():,}",
+                'Média Anual': f"{dados['ob']['Valor'].mean():.0f}",
+                'Mín': f"{dados['ob']['Valor'].min()}",
+                'Máx': f"{dados['ob']['Valor'].max()}"
+            })
+    
+    if estatisticas_nv_ob:
+        df_stats = pd.DataFrame(estatisticas_nv_ob)
+        st.dataframe(df_stats, use_container_width=True, hide_index=True)
 
-with col1:
-    st.markdown("### Nascidos Vivos")
-    if not dados_mun_nv.empty:
-        st.plotly_chart(
-            criar_grafico_linha(dados_mun_nv, f"Nascidos Vivos - {nome_municipio}", '#2ecc71', 'Nascidos Vivos'),
-            use_container_width=True
-        )
+else:
+    # Modo individual
+    for mun_sel in municipios_selecionados:
+        nome_municipio, uf = mun_sel.rsplit(' - ', 1)
+        dados_mun = dados_municipios[mun_sel]
         
-        col_a, col_b, col_c, col_d = st.columns(4)
-        total_nv = dados_mun_nv['Valor'].sum()
-        media_nv = dados_mun_nv['Valor'].mean()
-        min_nv = dados_mun_nv['Valor'].min()
-        max_nv = dados_mun_nv['Valor'].max()
+        if len(municipios_selecionados) > 1:
+            st.markdown(f"### {nome_municipio} - {uf}")
         
-        col_a.metric("Total", f"{total_nv:,}")
-        col_b.metric("Média Anual", f"{media_nv:.0f}")
-        col_c.metric("Mínimo", f"{min_nv}")
-        col_d.metric("Máximo", f"{max_nv}")
-    else:
-        st.warning("Dados de Nascidos Vivos não disponíveis")
-
-with col2:
-    st.markdown("### Óbitos Infantis")
-    if not dados_mun_ob.empty:
-        st.plotly_chart(
-            criar_grafico_linha(dados_mun_ob, f"Óbitos Infantis - {nome_municipio}", '#e67e22', 'Óbitos'),
-            use_container_width=True
-        )
+        col1, col2 = st.columns(2)
         
-        col_a, col_b, col_c, col_d = st.columns(4)
-        total_ob = dados_mun_ob['Valor'].sum()
-        media_ob = dados_mun_ob['Valor'].mean()
-        min_ob = dados_mun_ob['Valor'].min()
-        max_ob = dados_mun_ob['Valor'].max()
+        with col1:
+            st.markdown("#### Nascidos Vivos")
+            if not dados_mun['nv'].empty:
+                st.plotly_chart(
+                    criar_grafico_linha(dados_mun['nv'], f"Nascidos Vivos - {nome_municipio}", '#2ecc71', 'Nascidos Vivos'),
+                    use_container_width=True
+                )
+                
+                col_a, col_b, col_c, col_d = st.columns(4)
+                total_nv = dados_mun['nv']['Valor'].sum()
+                media_nv = dados_mun['nv']['Valor'].mean()
+                min_nv = dados_mun['nv']['Valor'].min()
+                max_nv = dados_mun['nv']['Valor'].max()
+                
+                col_a.metric("Total", f"{total_nv:,}")
+                col_b.metric("Média Anual", f"{media_nv:.0f}")
+                col_c.metric("Mínimo", f"{min_nv}")
+                col_d.metric("Máximo", f"{max_nv}")
+            else:
+                st.warning("Dados de Nascidos Vivos não disponíveis")
         
-        col_a.metric("Total", f"{total_ob:,}")
-        col_b.metric("Média Anual", f"{media_ob:.0f}")
-        col_c.metric("Mínimo", f"{min_ob}")
-        col_d.metric("Máximo", f"{max_ob}")
-    else:
-        st.warning("Dados de Óbitos não disponíveis")
+        with col2:
+            st.markdown("#### Óbitos Infantis")
+            if not dados_mun['ob'].empty:
+                st.plotly_chart(
+                    criar_grafico_linha(dados_mun['ob'], f"Óbitos Infantis - {nome_municipio}", '#e67e22', 'Óbitos'),
+                    use_container_width=True
+                )
+                
+                col_a, col_b, col_c, col_d = st.columns(4)
+                total_ob = dados_mun['ob']['Valor'].sum()
+                media_ob = dados_mun['ob']['Valor'].mean()
+                min_ob = dados_mun['ob']['Valor'].min()
+                max_ob = dados_mun['ob']['Valor'].max()
+                
+                col_a.metric("Total", f"{total_ob:,}")
+                col_b.metric("Média Anual", f"{media_ob:.0f}")
+                col_c.metric("Mínimo", f"{min_ob}")
+                col_d.metric("Máximo", f"{max_ob}")
+            else:
+                st.warning("Dados de Óbitos não disponíveis")
+        
+        if len(municipios_selecionados) > 1:
+            st.markdown("---")
 
 # ====================================================================================
 # SEÇÃO 3: MÉTRICAS COMPARATIVAS
@@ -327,40 +523,48 @@ with tab1:
     </div>
     """, unsafe_allow_html=True)
     
-    if not dados_mun_cmi.empty and not dados_mun_cmi_mil.empty:
-        # Merge dos dados
-        df_merged = pd.merge(
-            dados_mun_cmi[['Ano', 'Valor']],
-            dados_mun_cmi_mil[['Ano', 'Valor']],
-            on='Ano',
-            suffixes=('_CMI', '_CMI_MIL')
-        )
-        df_merged['Diferenca'] = df_merged['Valor_CMI'] - df_merged['Valor_CMI_MIL']
+    for mun_sel in municipios_selecionados:
+        nome_municipio, uf = mun_sel.rsplit(' - ', 1)
+        dados_mun = dados_municipios[mun_sel]
         
-        # Gráfico de diferença
-        fig = go.Figure()
-        fig.add_trace(go.Bar(
-            x=df_merged['Ano'],
-            y=df_merged['Diferenca'],
-            marker_color=['green' if x >= 0 else 'red' for x in df_merged['Diferenca']],
-            name='Diferença (CMI - CMI-Mil)'
-        ))
-        fig.update_layout(
-            title='Diferença Absoluta entre CMI e CMI-Mil por Ano',
-            xaxis_title='Ano',
-            yaxis_title='Diferença',
-            template='plotly_white',
-            height=400
-        )
-        st.plotly_chart(fig, use_container_width=True)
-        
-        # Estatísticas
-        col1, col2, col3 = st.columns(3)
-        col1.metric("Média da Diferença", f"{df_merged['Diferenca'].mean():.2f}")
-        col2.metric("Maior Diferença", f"{df_merged['Diferenca'].max():.2f}")
-        col3.metric("Menor Diferença", f"{df_merged['Diferenca'].min():.2f}")
-    else:
-        st.warning("Dados insuficientes para análise de diferença")
+        if not dados_mun['cmi'].empty and not dados_mun['cmi_mil'].empty:
+            if len(municipios_selecionados) > 1:
+                st.markdown(f"#### {nome_municipio} - {uf}")
+            
+            # Merge dos dados
+            df_merged = pd.merge(
+                dados_mun['cmi'][['Ano', 'Valor']],
+                dados_mun['cmi_mil'][['Ano', 'Valor']],
+                on='Ano',
+                suffixes=('_CMI', '_CMI_MIL')
+            )
+            df_merged['Diferenca'] = df_merged['Valor_CMI'] - df_merged['Valor_CMI_MIL']
+            
+            # Gráfico de diferença
+            fig = go.Figure()
+            fig.add_trace(go.Bar(
+                x=df_merged['Ano'],
+                y=df_merged['Diferenca'],
+                marker_color=['green' if x >= 0 else 'red' for x in df_merged['Diferenca']],
+                name='Diferença (CMI - CMI-Mil)'
+            ))
+            fig.update_layout(
+                title=f'Diferença Absoluta entre CMI e CMI-Mil - {nome_municipio}',
+                xaxis_title='Ano',
+                yaxis_title='Diferença',
+                template='plotly_white',
+                height=400
+            )
+            st.plotly_chart(fig, use_container_width=True)
+            
+            # Estatísticas
+            col1, col2, col3 = st.columns(3)
+            col1.metric("Média da Diferença", f"{df_merged['Diferenca'].mean():.2f}")
+            col2.metric("Maior Diferença", f"{df_merged['Diferenca'].max():.2f}")
+            col3.metric("Menor Diferença", f"{df_merged['Diferenca'].min():.2f}")
+            
+            if len(municipios_selecionados) > 1:
+                st.markdown("---")
 
 # TAB 2: Correlação
 with tab2:
@@ -377,66 +581,74 @@ with tab2:
     </div>
     """, unsafe_allow_html=True)
     
-    if not dados_mun_cmi.empty and not dados_mun_cmi_mil.empty:
-        df_merged = pd.merge(
-            dados_mun_cmi[['Ano', 'Valor']],
-            dados_mun_cmi_mil[['Ano', 'Valor']],
-            on='Ano',
-            suffixes=('_CMI', '_CMI_MIL')
-        )
+    for mun_sel in municipios_selecionados:
+        nome_municipio, uf = mun_sel.rsplit(' - ', 1)
+        dados_mun = dados_municipios[mun_sel]
         
-        correlacao = df_merged['Valor_CMI'].corr(df_merged['Valor_CMI_MIL'])
-        
-        col1, col2 = st.columns([1, 2])
-        
-        with col1:
-            st.metric(
-                "Correlação CMI ↔ CMI-Mil",
-                f"{correlacao:.3f}",
-                delta="Alta correlação" if abs(correlacao) > 0.7 else "Correlação moderada"
+        if not dados_mun['cmi'].empty and not dados_mun['cmi_mil'].empty:
+            if len(municipios_selecionados) > 1:
+                st.markdown(f"#### {nome_municipio} - {uf}")
+            
+            df_merged = pd.merge(
+                dados_mun['cmi'][['Ano', 'Valor']],
+                dados_mun['cmi_mil'][['Ano', 'Valor']],
+                on='Ano',
+                suffixes=('_CMI', '_CMI_MIL')
             )
             
-            if abs(correlacao) > 0.7:
-                interpretacao = "As duas métricas apresentam comportamento similar ao longo do tempo."
-            elif abs(correlacao) > 0.4:
-                interpretacao = "As métricas mostram alguma similaridade, mas com discrepâncias notáveis."
-            else:
-                interpretacao = "As métricas divergem significativamente, indicando diferenças metodológicas importantes."
+            correlacao = df_merged['Valor_CMI'].corr(df_merged['Valor_CMI_MIL'])
             
-            st.markdown(f"""
-            <div class="info-box">
-            <b>Interpretação:</b><br>
-            {interpretacao}
-            </div>
-            """, unsafe_allow_html=True)
-        
-        with col2:
-            # Scatter plot
-            fig = px.scatter(
-                df_merged,
-                x='Valor_CMI',
-                y='Valor_CMI_MIL',
-                labels={'Valor_CMI': 'CMI', 'Valor_CMI_MIL': 'CMI-Mil'},
-                title='Correlação: CMI vs CMI-Mil'
-            )
+            col1, col2 = st.columns([1, 2])
             
-            # Adicionar linha de tendência manual
-            if len(df_merged) > 1:
-                z = np.polyfit(df_merged['Valor_CMI'], df_merged['Valor_CMI_MIL'], 1)
-                p = np.poly1d(z)
-                x_line = np.linspace(df_merged['Valor_CMI'].min(), df_merged['Valor_CMI'].max(), 100)
-                fig.add_trace(go.Scatter(
-                    x=x_line, 
-                    y=p(x_line), 
-                    mode='lines', 
-                    name='Tendência',
-                    line=dict(color='red', dash='dash')
-                ))
+            with col1:
+                st.metric(
+                    "Correlação CMI ↔ CMI-Mil",
+                    f"{correlacao:.3f}",
+                    delta="Alta correlação" if abs(correlacao) > 0.7 else "Correlação moderada"
+                )
+                
+                if abs(correlacao) > 0.7:
+                    interpretacao = "As duas métricas apresentam comportamento similar ao longo do tempo."
+                elif abs(correlacao) > 0.4:
+                    interpretacao = "As métricas mostram alguma similaridade, mas com discrepâncias notáveis."
+                else:
+                    interpretacao = "As métricas divergem significativamente, indicando diferenças metodológicas importantes."
+                
+                st.markdown(f"""
+                <div class="info-box">
+                <b>Interpretação:</b><br>
+                {interpretacao}
+                </div>
+                """, unsafe_allow_html=True)
             
-            fig.update_layout(height=350)
-            st.plotly_chart(fig, use_container_width=True)
-    else:
-        st.warning("Dados insuficientes para análise de correlação")
+            with col2:
+                # Scatter plot
+                fig = px.scatter(
+                    df_merged,
+                    x='Valor_CMI',
+                    y='Valor_CMI_MIL',
+                    labels={'Valor_CMI': 'CMI', 'Valor_CMI_MIL': 'CMI-Mil'},
+                    title=f'Correlação: CMI vs CMI-Mil - {nome_municipio}'
+                )
+                
+                # Adicionar linha de tendência manual
+                if len(df_merged) > 1:
+                    z = np.polyfit(df_merged['Valor_CMI'], df_merged['Valor_CMI_MIL'], 1)
+                    p = np.poly1d(z)
+                    x_line = np.linspace(df_merged['Valor_CMI'].min(), df_merged['Valor_CMI'].max(), 100)
+                    fig.add_trace(go.Scatter(
+                        x=x_line, 
+                        y=p(x_line), 
+                        mode='lines', 
+                        name='Tendência',
+                        line=dict(color='red', dash='dash')
+                    ))
+                
+                fig.update_layout(height=350)
+                st.plotly_chart(fig, use_container_width=True)
+            
+            if len(municipios_selecionados) > 1:
+                st.markdown("---")
 
 # TAB 3: Análise de Períodos
 with tab3:
@@ -451,61 +663,71 @@ with tab3:
     </div>
     """, unsafe_allow_html=True)
     
-    col1, col2 = st.columns(2)
-    
-    with col1:
-        st.markdown("#### Nascidos Vivos")
-        if not dados_mun_nv.empty and len(dados_mun_nv) > 1:
-            # Dividir em períodos
-            meio = len(dados_mun_nv) // 2
-            periodo1 = dados_mun_nv.iloc[:meio]
-            periodo2 = dados_mun_nv.iloc[meio:]
-            
-            media_p1 = periodo1['Valor'].mean()
-            media_p2 = periodo2['Valor'].mean()
-            variacao = ((media_p2 - media_p1) / media_p1) * 100
-            
-            st.metric(
-                f"Variação ({periodo1['Ano'].min()}-{periodo1['Ano'].max()} → {periodo2['Ano'].min()}-{periodo2['Ano'].max()})",
-                f"{variacao:+.1f}%",
-                delta=f"{media_p2 - media_p1:+.0f} nascimentos/ano"
-            )
-            
-            # Melhor e pior ano
-            melhor_ano = dados_mun_nv.loc[dados_mun_nv['Valor'].idxmax()]
-            pior_ano = dados_mun_nv.loc[dados_mun_nv['Valor'].idxmin()]
-            
-            st.info(f"**Maior natalidade:** {melhor_ano['Ano']} ({melhor_ano['Valor']} nascimentos)")
-            st.warning(f"**Menor natalidade:** {pior_ano['Ano']} ({pior_ano['Valor']} nascimentos)")
-        else:
-            st.warning("Dados insuficientes")
-    
-    with col2:
-        st.markdown("#### Óbitos Infantis")
-        if not dados_mun_ob.empty and len(dados_mun_ob) > 1:
-            # Dividir em períodos
-            meio = len(dados_mun_ob) // 2
-            periodo1 = dados_mun_ob.iloc[:meio]
-            periodo2 = dados_mun_ob.iloc[meio:]
-            
-            media_p1 = periodo1['Valor'].mean()
-            media_p2 = periodo2['Valor'].mean()
-            variacao = ((media_p2 - media_p1) / media_p1) * 100 if media_p1 > 0 else 0
-            
-            st.metric(
-                f"Variação ({periodo1['Ano'].min()}-{periodo1['Ano'].max()} → {periodo2['Ano'].min()}-{periodo2['Ano'].max()})",
-                f"{variacao:+.1f}%",
-                delta=f"{media_p2 - media_p1:+.1f} óbitos/ano"
-            )
-            
-            # Melhor (menor) e pior (maior) ano
-            melhor_ano = dados_mun_ob.loc[dados_mun_ob['Valor'].idxmin()]
-            pior_ano = dados_mun_ob.loc[dados_mun_ob['Valor'].idxmax()]
-            
-            st.success(f"**Melhor ano (menos óbitos):** {melhor_ano['Ano']} ({melhor_ano['Valor']} óbitos)")
-            st.error(f"**Pior ano (mais óbitos):** {pior_ano['Ano']} ({pior_ano['Valor']} óbitos)")
-        else:
-            st.warning("Dados insuficientes")
+    for mun_sel in municipios_selecionados:
+        nome_municipio, uf = mun_sel.rsplit(' - ', 1)
+        dados_mun = dados_municipios[mun_sel]
+        
+        if len(municipios_selecionados) > 1:
+            st.markdown(f"#### {nome_municipio} - {uf}")
+        
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            st.markdown("##### Nascidos Vivos")
+            if not dados_mun['nv'].empty and len(dados_mun['nv']) > 1:
+                # Dividir em períodos
+                meio = len(dados_mun['nv']) // 2
+                periodo1 = dados_mun['nv'].iloc[:meio]
+                periodo2 = dados_mun['nv'].iloc[meio:]
+                
+                media_p1 = periodo1['Valor'].mean()
+                media_p2 = periodo2['Valor'].mean()
+                variacao = ((media_p2 - media_p1) / media_p1) * 100
+                
+                st.metric(
+                    f"Variação ({periodo1['Ano'].min()}-{periodo1['Ano'].max()} → {periodo2['Ano'].min()}-{periodo2['Ano'].max()})",
+                    f"{variacao:+.1f}%",
+                    delta=f"{media_p2 - media_p1:+.0f} nascimentos/ano"
+                )
+                
+                # Melhor e pior ano
+                melhor_ano = dados_mun['nv'].loc[dados_mun['nv']['Valor'].idxmax()]
+                pior_ano = dados_mun['nv'].loc[dados_mun['nv']['Valor'].idxmin()]
+                
+                st.info(f"**Maior natalidade:** {melhor_ano['Ano']} ({melhor_ano['Valor']} nascimentos)")
+                st.warning(f"**Menor natalidade:** {pior_ano['Ano']} ({pior_ano['Valor']} nascimentos)")
+            else:
+                st.warning("Dados insuficientes")
+        
+        with col2:
+            st.markdown("##### Óbitos Infantis")
+            if not dados_mun['ob'].empty and len(dados_mun['ob']) > 1:
+                # Dividir em períodos
+                meio = len(dados_mun['ob']) // 2
+                periodo1 = dados_mun['ob'].iloc[:meio]
+                periodo2 = dados_mun['ob'].iloc[meio:]
+                
+                media_p1 = periodo1['Valor'].mean()
+                media_p2 = periodo2['Valor'].mean()
+                variacao = ((media_p2 - media_p1) / media_p1) * 100 if media_p1 > 0 else 0
+                
+                st.metric(
+                    f"Variação ({periodo1['Ano'].min()}-{periodo1['Ano'].max()} → {periodo2['Ano'].min()}-{periodo2['Ano'].max()})",
+                    f"{variacao:+.1f}%",
+                    delta=f"{media_p2 - media_p1:+.1f} óbitos/ano"
+                )
+                
+                # Melhor (menor) e pior (maior) ano
+                melhor_ano = dados_mun['ob'].loc[dados_mun['ob']['Valor'].idxmin()]
+                pior_ano = dados_mun['ob'].loc[dados_mun['ob']['Valor'].idxmax()]
+                
+                st.success(f"**Melhor ano (menos óbitos):** {melhor_ano['Ano']} ({melhor_ano['Valor']} óbitos)")
+                st.error(f"**Pior ano (mais óbitos):** {pior_ano['Ano']} ({pior_ano['Valor']} óbitos)")
+            else:
+                st.warning("Dados insuficientes")
+        
+        if len(municipios_selecionados) > 1:
+            st.markdown("---")
 
 # Footer
 st.markdown("---")
