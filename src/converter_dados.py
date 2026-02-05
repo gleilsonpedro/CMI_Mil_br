@@ -342,7 +342,7 @@ def processar_planilha():
     
     print(f"\n Saída NV: {OUTPUT_DIR_NV.relative_to(BASE_DIR)}")
     print(f" Saída OB: {OUTPUT_DIR_OB.relative_to(BASE_DIR)}")
-    print(f" Saída CMI_MIL: {OUTPUT_DIR_CMI.relative_to(BASE_DIR)}")
+    print(f" Saída CMI_MIL: {OUTPUT_DIR_CMI_MIL.relative_to(BASE_DIR)}")
     print(f" Saída CMI_puro: {OUTPUT_DIR_CMI_PURO.relative_to(BASE_DIR)}")
     
     # Processa cada planilha
