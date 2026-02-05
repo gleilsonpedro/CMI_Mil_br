@@ -318,45 +318,18 @@ st.markdown('<div class="section-header">Coeficiente de Mortalidade Infantil</di
 if len(municipios_selecionados) > 1 and modo_visualizacao == "Comparativo":
     # Modo comparativo - todos os municípios em um gráfico
     
-    # CMI-Mil PRIMEIRO - Largura total com controle de linhas suavizadas
-    col_titulo, col_controle = st.columns([3, 1])
-    with col_titulo:
-        st.markdown("### CMI-Mil - Comparação entre Municípios")
-    with col_controle:
-        linhas_suavizadas = st.checkbox("Linhas Suavizadas", value=True, key="suavizar_cmi_mil_topo")
-    
+    # CMI-Mil PRIMEIRO - Largura total
+    st.markdown("### CMI-Mil - Comparação entre Municípios")
     dados_cmi_mil_comp = {mun: dados['cmi_mil'] for mun, dados in dados_municipios.items() if not dados['cmi_mil'].empty}
     if dados_cmi_mil_comp:
-        # Criar gráfico com ou sem suavização
-        fig = go.Figure()
-        
-        for municipio, df in dados_cmi_mil_comp.items():
-            fig.add_trace(go.Scatter(
-                x=df['Ano'],
-                y=df['Valor'],
-                mode='lines+markers',
-                name=municipio,
-                line=dict(shape='spline' if linhas_suavizadas else 'linear', width=2),
-                marker=dict(size=8)
-            ))
-        
-        fig.update_layout(
-            title='Comparação CMI-Mil',
-            xaxis_title='Ano',
-            yaxis_title='CMI-Mil',
-            hovermode='x unified',
-            height=500,
-            showlegend=True,
-            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
-        )
-        
+        fig = criar_grafico_multiplos_municipios(dados_cmi_mil_comp, 'CMI-Mil', 'Comparação CMI-Mil')
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.warning("Dados CMI-Mil não disponíveis")
     
     st.markdown("---")
     
-    # SEGUNDA LINHA: CMI (esquerda) e CMI-Mil (direita) - Mantém layout individual
+    # SEGUNDA LINHA: CMI (esquerda) e Estatísticas (direita)
     col1, col2 = st.columns(2)
     
     with col1:
@@ -369,45 +342,33 @@ if len(municipios_selecionados) > 1 and modo_visualizacao == "Comparativo":
             st.warning("Dados CMI não disponíveis")
     
     with col2:
-        st.markdown("### CMI-Mil - Comparação entre Municípios")
-        # Mesmo gráfico do topo, mas normal (sem suavização)
-        if dados_cmi_mil_comp:
-            fig_mil = criar_grafico_multiplos_municipios(dados_cmi_mil_comp, 'CMI-Mil', 'Comparação CMI-Mil')
-            st.plotly_chart(fig_mil, use_container_width=True)
+        st.markdown("### Estatísticas Comparativas")
+        
+        # Preparar dados de estatísticas
+        estatisticas_data = []
+        for mun, dados in dados_municipios.items():
+            if not dados['cmi'].empty:
+                estatisticas_data.append({
+                    'Município': mun,
+                    'Indicador': 'CMI',
+                    'Média': f"{dados['cmi']['Valor'].mean():.1f}",
+                    'Mínimo': f"{dados['cmi']['Valor'].min():.1f}",
+                    'Máximo': f"{dados['cmi']['Valor'].max():.1f}"
+                })
+            if not dados['cmi_mil'].empty:
+                estatisticas_data.append({
+                    'Município': mun,
+                    'Indicador': 'CMI-Mil',
+                    'Média': f"{dados['cmi_mil']['Valor'].mean():.1f}",
+                    'Mínimo': f"{dados['cmi_mil']['Valor'].min():.1f}",
+                    'Máximo': f"{dados['cmi_mil']['Valor'].max():.1f}"
+                })
+        
+        if estatisticas_data:
+            df_estatisticas = pd.DataFrame(estatisticas_data)
+            st.dataframe(df_estatisticas, use_container_width=True, hide_index=True, height=400)
         else:
-            st.warning("Dados CMI-Mil não disponíveis")
-    
-    st.markdown("---")
-    
-    # TERCEIRA LINHA: Estatísticas Comparativas
-# TERCEIRA LINHA: Estatísticas Comparativas
-    st.markdown("### Estatísticas Comparativas")
-    
-    # Preparar dados de estatísticas
-    estatisticas_data = []
-    for mun, dados in dados_municipios.items():
-        if not dados['cmi'].empty:
-            estatisticas_data.append({
-                'Município': mun,
-                'Indicador': 'CMI',
-                'Média': f"{dados['cmi']['Valor'].mean():.1f}",
-                'Mínimo': f"{dados['cmi']['Valor'].min():.1f}",
-                'Máximo': f"{dados['cmi']['Valor'].max():.1f}"
-            })
-        if not dados['cmi_mil'].empty:
-            estatisticas_data.append({
-                'Município': mun,
-                'Indicador': 'CMI-Mil',
-                'Média': f"{dados['cmi_mil']['Valor'].mean():.1f}",
-                'Mínimo': f"{dados['cmi_mil']['Valor'].min():.1f}",
-                'Máximo': f"{dados['cmi_mil']['Valor'].max():.1f}"
-            })
-    
-    if estatisticas_data:
-        df_estatisticas = pd.DataFrame(estatisticas_data)
-        st.dataframe(df_estatisticas, use_container_width=True, hide_index=True, height=400)
-    else:
-        st.info("Nenhuma estatística disponível")
+            st.info("Nenhuma estatística disponível")
 
 else:
     # Modo individual - um município por vez ou apenas um selecionado
