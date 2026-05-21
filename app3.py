@@ -345,63 +345,26 @@ elif modo == "CMI (Comparação)":
     **CMI-Mil (Factual)**: Acumula óbitos até 1000, depois calcula. Mais estável e baseado em fatos.
     """)
     
-    # Métricas comparativas
-    st.markdown("### 📊 Métricas Comparativas")
-    col1, col2, col3, col4 = st.columns(4)
-    
-    with col1:
-        media_cmi = df_cmi_filtrado['Valor'].mean() if not df_cmi_filtrado.empty else 0
-        st.metric("CMI Médio", f"{media_cmi:.2f} ‰", help="Método tradicional")
-    
-    with col2:
-        media_mil = df_mil_filtrado['Valor'].mean() if not df_mil_filtrado.empty else 0
-        st.metric("CMI-Mil Médio", f"{media_mil:.2f} ‰", help="Metodologia factual")
-    
-    with col3:
-        anos_cmi_count = len(df_cmi_filtrado['Ano'].unique()) if not df_cmi_filtrado.empty else 0
-        st.metric("Anos CMI", anos_cmi_count)
-    
-    with col4:
-        anos_mil_count = len(df_mil_filtrado['Ano'].unique()) if not df_mil_filtrado.empty else 0
-        st.metric("Anos CMI-Mil", anos_mil_count)
-    
-    # Gráfico comparativo
-    st.markdown("---")
-    st.markdown("### 📈 Comparação Temporal")
-    
-    # Prepara dados para gráfico combinado
-    df_cmi_plot = df_cmi_filtrado.copy()
-    df_cmi_plot['Método'] = 'CMI (Tradicional)'
-    
-    df_mil_plot = df_mil_filtrado.copy()
-    df_mil_plot['Método'] = 'CMI-Mil (Factual)'
-    
-    df_combined = pd.concat([df_cmi_plot, df_mil_plot], ignore_index=True)
-    
-    if df_combined.empty:
-        st.warning("Nenhum dado disponível para o período selecionado")
-    else:
-        # Gráfico com ambos os métodos
-        fig = px.line(
-            df_combined,
+    # Se múltiplos municípios: mostra CMI-Mil grande no topo com linhas suavizadas
+    if len(municipios_selecionados) > 1 and not df_mil_filtrado.empty:
+        st.markdown("### 📈 CMI-Mil - Visão Geral (Linhas Suavizadas)")
+        
+        fig_mil_top = px.line(
+            df_mil_filtrado,
             x='Ano',
             y='Valor',
-            color='Método',
-            line_dash='Municipio_UF',
-            title=f"Comparação CMI vs CMI-Mil - {len(municipios_selecionados)} Município(s)",
+            color='Municipio_UF',
+            title=f"CMI-Mil - {len(municipios_selecionados)} Municípios",
             markers=True,
-            labels={'Valor': 'Taxa (‰)', 'Municipio_UF': 'Município'},
-            color_discrete_map={
-                'CMI (Tradicional)': COLOR_CMI,
-                'CMI-Mil (Factual)': COLOR_CMI_MIL
-            }
+            labels={'Valor': 'CMI-Mil (‰)', 'Municipio_UF': 'Município'},
+            line_shape='spline'  # Linhas suavizadas para diferenciar do gráfico de baixo
         )
         
-        fig.update_layout(
-            height=700,
+        fig_mil_top.update_layout(
+            height=500,
             hovermode='x unified',
             xaxis_title="Ano",
-            yaxis_title="Coeficiente de Mortalidade Infantil (‰)",
+            yaxis_title="CMI-Mil (‰)",
             legend=dict(
                 orientation="h",
                 yanchor="bottom",
@@ -411,7 +374,112 @@ elif modo == "CMI (Comparação)":
             )
         )
         
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig_mil_top, use_container_width=True)
+        
+        st.markdown("---")
+    
+    # Gráficos lado a lado: CMI e CMI-Mil
+    st.markdown("### 📈 Comparação Temporal")
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.markdown("**CMI (Tradicional)**")
+        
+        # Métricas CMI
+        if not df_cmi_filtrado.empty:
+            col1a, col1b, col1c = st.columns(3)
+            
+            with col1a:
+                media_cmi = df_cmi_filtrado['Valor'].mean()
+                st.metric("Média", f"{media_cmi:.2f} ‰")
+            
+            with col1b:
+                max_cmi = df_cmi_filtrado['Valor'].max()
+                st.metric("Máximo", f"{max_cmi:.2f} ‰")
+            
+            with col1c:
+                min_cmi = df_cmi_filtrado['Valor'].min()
+                st.metric("Mínimo", f"{min_cmi:.2f} ‰")
+            
+            # Gráfico CMI
+            fig_cmi = px.line(
+                df_cmi_filtrado,
+                x='Ano',
+                y='Valor',
+                color='Municipio_UF',
+                markers=True,
+                labels={'Valor': 'CMI (‰)', 'Municipio_UF': 'Município'},
+                color_discrete_sequence=[COLOR_CMI]
+            )
+            
+            fig_cmi.update_layout(
+                height=450,
+                hovermode='x unified',
+                xaxis_title="Ano",
+                yaxis_title="CMI (‰)",
+                showlegend=(len(municipios_selecionados) > 1)
+            )
+            
+            st.plotly_chart(fig_cmi, use_container_width=True)
+        else:
+            st.info("Sem dados CMI para o período")
+    
+    with col2:
+        st.markdown("**CMI-Mil (Factual)**")
+        
+        # Métricas CMI-Mil
+        if not df_mil_filtrado.empty:
+            col2a, col2b, col2c = st.columns(3)
+            
+            with col2a:
+                media_mil = df_mil_filtrado['Valor'].mean()
+                st.metric("Média", f"{media_mil:.2f} ‰")
+            
+            with col2b:
+                max_mil = df_mil_filtrado['Valor'].max()
+                st.metric("Máximo", f"{max_mil:.2f} ‰")
+            
+            with col2c:
+                min_mil = df_mil_filtrado['Valor'].min()
+                st.metric("Mínimo", f"{min_mil:.2f} ‰")
+            
+            # Gráfico CMI-Mil
+            fig_mil = px.line(
+                df_mil_filtrado,
+                x='Ano',
+                y='Valor',
+                color='Municipio_UF',
+                markers=True,
+                labels={'Valor': 'CMI-Mil (‰)', 'Municipio_UF': 'Município'},
+                color_discrete_sequence=[COLOR_CMI_MIL]
+            )
+            
+            fig_mil.update_layout(
+                height=450,
+                hovermode='x unified',
+                xaxis_title="Ano",
+                yaxis_title="CMI-Mil (‰)",
+                showlegend=(len(municipios_selecionados) > 1)
+            )
+            
+            st.plotly_chart(fig_mil, use_container_width=True)
+        else:
+            st.info("Sem dados CMI-Mil para o período")
+    
+    # Estatísticas gerais
+    st.markdown("---")
+    st.markdown("### 📊 Estatísticas Gerais")
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        anos_cmi_count = len(df_cmi_filtrado['Ano'].unique()) if not df_cmi_filtrado.empty else 0
+        st.metric("Anos CMI", anos_cmi_count)
+    
+    with col2:
+        anos_mil_count = len(df_mil_filtrado['Ano'].unique()) if not df_mil_filtrado.empty else 0
+        st.metric("Anos CMI-Mil", anos_mil_count)
     
     # Análise detalhada por município
     st.markdown("---")
