@@ -24,6 +24,7 @@ DIR_CMI = BASE_DIR / 'data' / 'output' / 'cmi_app3'
 DIR_CMI_MIL = BASE_DIR / 'data' / 'output' / 'cmi-mil_app3'
 DIR_NV = BASE_DIR / 'data' / 'output' / 'nascidos_vivos'
 DIR_OB = BASE_DIR / 'data' / 'output' / 'obitos'
+DIR_FORTALEZA = BASE_DIR / 'data' / 'output' / 'fortaleza'
 
 # CSS personalizado
 st.markdown("""
@@ -89,6 +90,30 @@ def carregar_dados_por_tipo(tipo):
     
     return pd.DataFrame(dados_list) if dados_list else pd.DataFrame()
 
+
+@st.cache_data(ttl=300)
+def carregar_dados_fortaleza(tipo):
+    """Carrega dados de Fortaleza por bairro."""
+    arquivos = {
+        'CMI': 'CMI.json',
+        'CMI_MIL': 'CMI_MIL.json',
+        'NV': 'NV.json',
+        'OB': 'OB.json'
+    }
+
+    nome_arquivo = arquivos.get(tipo)
+    if not nome_arquivo:
+        return pd.DataFrame()
+
+    arquivo = DIR_FORTALEZA / nome_arquivo
+    if not arquivo.exists():
+        return pd.DataFrame()
+
+    with open(arquivo, 'r', encoding='utf-8') as f:
+        dados = json.load(f)
+
+    return pd.DataFrame(dados) if dados else pd.DataFrame()
+
 @st.cache_data(ttl=300)
 def obter_lista_municipios():
     """Obtém lista única de municípios com UF"""
@@ -98,6 +123,24 @@ def obter_lista_municipios():
     municipios = df_cmi[['Municipio', 'UF']].drop_duplicates()
     municipios_lista = [f"{row['Municipio']} - {row['UF']}" for _, row in municipios.iterrows()]
     return sorted(municipios_lista)
+
+
+@st.cache_data(ttl=300)
+def obter_lista_bairros_fortaleza():
+    """Obtém lista única de bairros de Fortaleza."""
+    bairros = set()
+
+    for tipo in ['CMI', 'CMI_MIL', 'NV', 'OB']:
+        df = carregar_dados_fortaleza(tipo)
+        if df.empty or 'Bairro' not in df.columns:
+            continue
+
+        for bairro in df['Bairro'].dropna().drop_duplicates():
+            bairro_limpo = str(bairro).strip()
+            if bairro_limpo:
+                bairros.add(bairro_limpo)
+
+    return sorted(bairros)
 
 def criar_grafico_linha(df, titulo, cor='#1f77b4', yaxis_title='Valor'):
     """Cria gráfico de linha padronizado"""
@@ -228,11 +271,43 @@ with st.sidebar:
     else:
         modo_visualizacao = "Individual"
 
+    st.markdown("---")
+    with st.expander("Fortaleza por bairros", expanded=False):
+        bairros_disponiveis = obter_lista_bairros_fortaleza()
+
+        if bairros_disponiveis:
+            bairros_selecionados = st.multiselect(
+                "Selecione os bairros",
+                options=bairros_disponiveis,
+                default=[bairros_disponiveis[0]],
+                key="bairros_fortaleza_select",
+                help="Análise separada de Fortaleza usando bairros como unidade de comparação"
+            )
+
+            if bairros_selecionados and len(bairros_selecionados) > 1:
+                modo_visualizacao_fortaleza = st.radio(
+                    "Modo de Visualização",
+                    ["Comparativo", "Individual"],
+                    index=0,
+                    key="modo_fortaleza_select",
+                    help="Comparativo: bairros em um gráfico | Individual: um bloco por bairro"
+                )
+            else:
+                modo_visualizacao_fortaleza = "Individual"
+        else:
+            bairros_selecionados = []
+            modo_visualizacao_fortaleza = "Individual"
+            st.info("Gere os JSONs de Fortaleza para habilitar esta análise.")
+
 # Carregar todos os dados
 df_cmi = carregar_dados_por_tipo('CMI')
 df_cmi_mil = carregar_dados_por_tipo('CMI_MIL')
 df_nv = carregar_dados_por_tipo('NV')
 df_ob = carregar_dados_por_tipo('OB')
+df_fortaleza_cmi = carregar_dados_fortaleza('CMI')
+df_fortaleza_cmi_mil = carregar_dados_fortaleza('CMI_MIL')
+df_fortaleza_nv = carregar_dados_fortaleza('NV')
+df_fortaleza_ob = carregar_dados_fortaleza('OB')
 
 # Preparar dados para todos os municípios selecionados
 dados_municipios = {}
@@ -305,6 +380,28 @@ if anos_disponiveis:
 else:
     ano_inicio = None
     ano_fim = None
+
+if ano_inicio is not None and ano_fim is not None:
+    if not df_fortaleza_cmi.empty:
+        df_fortaleza_cmi = df_fortaleza_cmi[
+            (df_fortaleza_cmi['Ano'] >= ano_inicio) &
+            (df_fortaleza_cmi['Ano'] <= ano_fim)
+        ]
+    if not df_fortaleza_cmi_mil.empty:
+        df_fortaleza_cmi_mil = df_fortaleza_cmi_mil[
+            (df_fortaleza_cmi_mil['Ano'] >= ano_inicio) &
+            (df_fortaleza_cmi_mil['Ano'] <= ano_fim)
+        ]
+    if not df_fortaleza_nv.empty:
+        df_fortaleza_nv = df_fortaleza_nv[
+            (df_fortaleza_nv['Ano'] >= ano_inicio) &
+            (df_fortaleza_nv['Ano'] <= ano_fim)
+        ]
+    if not df_fortaleza_ob.empty:
+        df_fortaleza_ob = df_fortaleza_ob[
+            (df_fortaleza_ob['Ano'] >= ano_inicio) &
+            (df_fortaleza_ob['Ano'] <= ano_fim)
+        ]
 
 if not tem_dados:
     st.error("Nenhum dado encontrado para os municípios selecionados")
@@ -453,6 +550,148 @@ st.markdown("""
 • Esta visualização permite comparar as duas métricas ao longo do tempo e identificar discrepâncias
 </div>
 """, unsafe_allow_html=True)
+
+# ====================================================================================
+# SEÇÃO 3: FORTALEZA POR BAIRROS
+# ====================================================================================
+if 'bairros_selecionados' in locals() and bairros_selecionados:
+    st.markdown('<div class="section-header">Fortaleza por Bairros</div>', unsafe_allow_html=True)
+
+    dados_bairros = {}
+    for bairro in bairros_selecionados:
+        dados_bairros[bairro] = {
+            'cmi': df_fortaleza_cmi[df_fortaleza_cmi['Bairro'] == bairro].sort_values('Ano') if not df_fortaleza_cmi.empty else pd.DataFrame(),
+            'cmi_mil': df_fortaleza_cmi_mil[df_fortaleza_cmi_mil['Bairro'] == bairro].sort_values('Ano') if not df_fortaleza_cmi_mil.empty else pd.DataFrame(),
+            'nv': df_fortaleza_nv[df_fortaleza_nv['Bairro'] == bairro].sort_values('Ano') if not df_fortaleza_nv.empty else pd.DataFrame(),
+            'ob': df_fortaleza_ob[df_fortaleza_ob['Bairro'] == bairro].sort_values('Ano') if not df_fortaleza_ob.empty else pd.DataFrame(),
+        }
+
+    tem_dados_fortaleza = any(
+        not dados['cmi'].empty or not dados['cmi_mil'].empty or
+        not dados['nv'].empty or not dados['ob'].empty
+        for dados in dados_bairros.values()
+    )
+
+    if not tem_dados_fortaleza:
+        st.warning("Nenhum dado de Fortaleza encontrado para os bairros selecionados")
+    elif len(bairros_selecionados) > 1 and modo_visualizacao_fortaleza == "Comparativo":
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### CMI-Mil - Comparação entre Bairros")
+            dados_cmi_mil_comp = {bairro: dados['cmi_mil'] for bairro, dados in dados_bairros.items() if not dados['cmi_mil'].empty}
+            if dados_cmi_mil_comp:
+                fig = criar_grafico_multiplos_municipios(dados_cmi_mil_comp, 'CMI-Mil', 'Fortaleza - Comparação CMI-Mil por Bairro')
+                st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.warning("Dados CMI-Mil não disponíveis para os bairros selecionados")
+
+        with col2:
+            st.markdown("### CMI - Comparação entre Bairros")
+            dados_cmi_comp = {bairro: dados['cmi'] for bairro, dados in dados_bairros.items() if not dados['cmi'].empty}
+            if dados_cmi_comp:
+                fig = criar_grafico_multiplos_municipios(dados_cmi_comp, 'CMI', 'Fortaleza - Comparação CMI por Bairro')
+                st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.warning("Dados CMI não disponíveis para os bairros selecionados")
+
+        # Gráfico combinado: cada bairro tem CMI (linha sólida) e CMI-Mil (linha tracejada) com mesma cor
+        st.markdown("### CMI vs CMI-Mil - Comparação direta por Bairro")
+        fig_comb = go.Figure()
+        cores = px.colors.qualitative.Set2 + px.colors.qualitative.Pastel
+        for idx, bairro in enumerate(bairros_selecionados):
+            cor = cores[idx % len(cores)]
+            df_cmi_b = dados_bairros[bairro]['cmi']
+            df_mil_b = dados_bairros[bairro]['cmi_mil']
+
+            if not df_cmi_b.empty:
+                fig_comb.add_trace(go.Scatter(
+                    x=df_cmi_b['Ano'], y=df_cmi_b['Valor'],
+                    mode='lines+markers', name=f"{bairro} - CMI",
+                    line=dict(color=cor, width=2), marker=dict(size=6)
+                ))
+
+            if not df_mil_b.empty:
+                fig_comb.add_trace(go.Scatter(
+                    x=df_mil_b['Ano'], y=df_mil_b['Valor'],
+                    mode='lines+markers', name=f"{bairro} - CMI-Mil",
+                    line=dict(color=cor, width=2, dash='dash'), marker=dict(size=6)
+                ))
+
+        fig_comb.update_layout(
+            title='Fortaleza: CMI vs CMI-Mil (bairros selecionados)',
+            xaxis_title='Ano', yaxis_title='Valor', hovermode='x unified',
+            template='plotly_white', height=550
+        )
+
+        if fig_comb.data:
+            st.plotly_chart(fig_comb, use_container_width=True)
+
+        st.markdown("### Resumo comparativo dos bairros")
+        resumo_bairros = []
+        for bairro, dados in dados_bairros.items():
+            cmi_media = dados['cmi']['Valor'].mean() if not dados['cmi'].empty else np.nan
+            cmi_mil_media = dados['cmi_mil']['Valor'].mean() if not dados['cmi_mil'].empty else np.nan
+            resumo_bairros.append({
+                'Bairro': bairro,
+                'Óbitos': int(dados['ob']['Valor'].sum()) if not dados['ob'].empty else 0,
+                'Nascidos Vivos': int(dados['nv']['Valor'].sum()) if not dados['nv'].empty else 0,
+                'Média CMI': f"{cmi_media:.1f}" if pd.notna(cmi_media) else '-',
+                'Média CMI-Mil': f"{cmi_mil_media:.1f}" if pd.notna(cmi_mil_media) else '-',
+                'Dif. Média': f"{(cmi_media - cmi_mil_media):.1f}" if pd.notna(cmi_media) and pd.notna(cmi_mil_media) else '-'
+            })
+
+        st.dataframe(pd.DataFrame(resumo_bairros), use_container_width=True, hide_index=True)
+    else:
+        for bairro, dados in dados_bairros.items():
+            if len(bairros_selecionados) > 1:
+                st.markdown(f"#### {bairro}")
+
+            col1, col2 = st.columns(2)
+
+            with col1:
+                if not dados['cmi'].empty:
+                    st.plotly_chart(
+                        criar_grafico_linha(dados['cmi'], f"CMI - {bairro}", '#e74c3c', 'CMI'),
+                        use_container_width=True
+                    )
+                else:
+                    st.warning(f"Dados CMI não disponíveis para {bairro}")
+
+            with col2:
+                if not dados['cmi_mil'].empty:
+                    st.plotly_chart(
+                        criar_grafico_linha(dados['cmi_mil'], f"CMI-Mil - {bairro}", '#3498db', 'CMI-Mil'),
+                        use_container_width=True
+                    )
+                else:
+                    st.warning(f"Dados CMI-Mil não disponíveis para {bairro}")
+
+            if not dados['cmi'].empty and not dados['cmi_mil'].empty:
+                st.plotly_chart(
+                    criar_grafico_comparacao(dados['cmi'], dados['cmi_mil'], 'CMI', 'CMI-Mil', f'Fortaleza - CMI vs CMI-Mil - {bairro}'),
+                    use_container_width=True
+                )
+
+            tabela_bairro = None
+            if not dados['nv'].empty:
+                tabela_bairro = dados['nv'][['Ano', 'Valor']].rename(columns={'Valor': 'Nascidos Vivos'})
+            if not dados['ob'].empty:
+                df_obitos = dados['ob'][['Ano', 'Valor']].rename(columns={'Valor': 'Óbitos'})
+                tabela_bairro = df_obitos if tabela_bairro is None else pd.merge(tabela_bairro, df_obitos, on='Ano', how='outer')
+            if not dados['cmi'].empty:
+                df_cmi_bairro = dados['cmi'][['Ano', 'Valor']].rename(columns={'Valor': 'CMI'})
+                tabela_bairro = df_cmi_bairro if tabela_bairro is None else pd.merge(tabela_bairro, df_cmi_bairro, on='Ano', how='outer')
+            if not dados['cmi_mil'].empty:
+                df_cmi_mil_bairro = dados['cmi_mil'][['Ano', 'Valor']].rename(columns={'Valor': 'CMI-Mil'})
+                tabela_bairro = df_cmi_mil_bairro if tabela_bairro is None else pd.merge(tabela_bairro, df_cmi_mil_bairro, on='Ano', how='outer')
+
+            if tabela_bairro is not None:
+                st.markdown("##### Tabela de comparação anual")
+                st.dataframe(tabela_bairro.sort_values('Ano'), use_container_width=True, hide_index=True)
+
+            if len(bairros_selecionados) > 1:
+                st.markdown("---")
 
 # ====================================================================================
 # SEÇÃO 2: NASCIDOS VIVOS E ÓBITOS
